@@ -1,0 +1,272 @@
+{
+    "home": [
+        {
+            "type": "Icon Pack",
+            "title": "Chewies Featured",
+            "subtitle": "Brighten up your day",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_4.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/homeHeader.jpeg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/"
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Chewies 1",
+            "subtitle": "Brighten up your day",
+            "buttonSubtitle": "Something Else",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_5.png",
+            "screenshotUrl": "",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/"
+        },
+        {
+            "type": "Theme",
+            "title": "Chewies 2",
+            "subtitle": "Lorem Ipsum",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_6.png",
+            "screenshotUrl": "",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/"
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Chewies 3",
+            "subtitle": "Dolor Sit Amet",
+            "buttonSubtitle": "Free Download",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_7.png",
+            "screenshotUrl": "",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/"
+        }
+    ],
+    "shortcuts": [
+        {
+            "type": "SHORTCUT",
+            "title": "ShowLive 1",
+            "subtitle": "Apply themes to your iDevice",
+            "buttonSubtitle": "Free",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_8.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcutsHeader.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/"
+        },
+        {
+            "type": "SHORTCUT",
+            "title": "ShowLive 2",
+            "subtitle": "Apply themes to your iDevice",
+            "buttonSubtitle": "Free",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_9.png",
+            "screenshotUrl": "",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/"
+        },
+        {
+            "type": "SHORTCUT",
+            "title": "ShowLive 3",
+            "subtitle": "Apply themes to your iDevice",
+            "buttonSubtitle": "Free",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_0.png",
+            "screenshotUrl": "",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/"
+        }
+    ],
+    "themes": [
+        {
+            "title": "Some Theme Name1",
+            "subtitle": "A magical theme by Elise",
+            "authorImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/85/45/96/85459691-1ed1-8697-606f-335798135326/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_0.png",
+            "tag1Text": "HOME",
+            "tag2Text": "LOCK",
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+        },
+        {
+            "title": "Some Theme Name2",
+            "subtitle": "A magical theme by Elise",
+            "authorImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/85/45/96/85459691-1ed1-8697-606f-335798135326/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_1.png",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+        },
+        {
+            "title": "Some Theme Name3",
+            "subtitle": "A magical theme by Elise",
+            "authorImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/85/45/96/85459691-1ed1-8697-606f-335798135326/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_2.png",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+        },
+        {
+            "title": "Some Theme Name4",
+            "subtitle": "A magical theme by Elise",
+            "authorImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/85/45/96/85459691-1ed1-8697-606f-335798135326/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_3.png",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+        },
+        {
+            "title": "Some Theme Name5",
+            "subtitle": "A magical theme by Elise",
+            "authorImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/85/45/96/85459691-1ed1-8697-606f-335798135326/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_4.png",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+        },
+        {
+            "title": "Some Theme Name6",
+            "subtitle": "A magical theme by Elise",
+            "authorImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/85/45/96/85459691-1ed1-8697-606f-335798135326/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_5.png",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+        },
+        {
+            "title": "Some Theme Name7",
+            "subtitle": "A magical theme by Elise",
+            "authorImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/85/45/96/85459691-1ed1-8697-606f-335798135326/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_6.png",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+        },
+        {
+            "title": "Some Theme Name8",
+            "subtitle": "A magical theme by Elise",
+            "authorImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/85/45/96/85459691-1ed1-8697-606f-335798135326/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_7.png",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+        },
+        {
+            "title": "Some Theme Name9",
+            "subtitle": "A magical theme by Elise",
+            "authorImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/85/45/96/85459691-1ed1-8697-606f-335798135326/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_8.png",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+        },
+        {
+            "title": "Some Theme Name10",
+            "subtitle": "A magical theme by Elise",
+            "authorImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/85/45/96/85459691-1ed1-8697-606f-335798135326/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_9.png",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+        }
+    ],
+    "howTo": [
+        {
+            "type": "HOW TO",
+            "title": "1ShowLive",
+            "subtitle": "Apply themes to your device",
+            "buttonSubtitle": "Discord Link",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcutsHeader.png",
+            "buttonTitle": "GO",
+            "targetUrl": "https://github.com/"
+        },
+        {
+            "type": "HOW TO",
+            "title": "2ShowLive",
+            "subtitle": "Apply themes to your device",
+            "buttonSubtitle": "Discord Link",
+            "screenshotUrl": "",
+            "buttonTitle": "GO",
+            "targetUrl": "https://github.com/"
+        },
+        {
+            "type": "HOW TO",
+            "title": "3ShowLive",
+            "subtitle": "Apply themes to your device",
+            "buttonSubtitle": "Discord Link",
+            "screenshotUrl": "",
+            "buttonTitle": "GO",
+            "targetUrl": "https://github.com/"
+        },
+        {
+            "type": "HOW TO",
+            "title": "4ShowLive",
+            "subtitle": "Apply themes to your device",
+            "buttonSubtitle": "Discord Link",
+            "screenshotUrl": "",
+            "buttonTitle": "GO",
+            "targetUrl": "https://github.com/"
+        },
+        {
+            "type": "HOW TO",
+            "title": "5ShowLive",
+            "subtitle": "Apply themes to your device",
+            "buttonSubtitle": "Discord Link",
+            "screenshotUrl": "",
+            "buttonTitle": "GO",
+            "targetUrl": "https://github.com/"
+        },
+        {
+            "type": "HOW TO",
+            "title": "6ShowLive",
+            "subtitle": "Apply themes to your device",
+            "buttonSubtitle": "Discord Link",
+            "screenshotUrl": "",
+            "buttonTitle": "GO",
+            "targetUrl": "https://github.com/"
+        }
+    ],
+    "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "Chewies1",
+            "subtitle": "Brighten up your day",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_0.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/"
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Chewies2",
+            "subtitle": "Brighten up your day",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_1.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/"
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Chewies3",
+            "subtitle": "Brighten up your day",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_2.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/"
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Chewies4",
+            "subtitle": "Brighten up your day",
+            "buttonSubtitle": "Free Pack",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_3.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/"
+        }
+    ],
+    "metadata": {
+        "shopMessage": "**Vibrant and Colourful** or Muted and Dark? Choose from a variety of amazing icon designs by the best creators out there! There is something available for everyone. Most icon packs include alternatives and icon overlays. Use ShowAE to apply them!",
+        "shortcutsMessage": "**Explore** the Show shortcuts below. ShowLive is required to install themes with this app. Install and setup ShowLive first before downloading themes.",
+        "termsMessage": "#Content Rights:\n\nShow content can contain material including, but not limited to, designs, text, graphics, images, video, information, logos, button icons, and other content (collectively, the “Content”). We may own the Content or portions of the Content may be made available to us through arrangements we have with third parties.\n\nAll images and fonts used in any of the Show products are the property of the original creator and or distributor and should not be reproduced or distributed without prior approval. Any images or fonts used are from free for commercial use sources.",
+        "homeHeaderHexColor": "FFFFFF",
+        "socialHandles1": "@SeanKly\n@jennysblessed\n@UtdAll\n@EliseMihael\n@Zoropalg",
+        "socialHandles2": "@Jacmeister\n@TeboulDavid1\n@Tito\n@Boots\n@Byron",
+        "twitterUrl": "https://mobile.twitter.com/SeanKly",
+        "discordUrl": "https://discord.gg/ab5H95YYXd"
+    }
+}
