@@ -1,14 +1,14 @@
 {
     "home": [
         {
-            "type": "Featured Pack",
+            "type": "Featured Icons",
             "title": "Odysseus",
             "subtitle": "Theme by DaddyKool",
-            "buttonSubtitle": "Gumroad Purchase",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_4.png",
+            "buttonSubtitle": "Twitter Link",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Gary.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/homeHeader.jpeg",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "https://twitter.com/daddykool666?s=21"
         },
         {
             "type": "Icon Pack",
