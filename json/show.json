@@ -8,7 +8,8 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Gary.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/homeHeader.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://twitter.com/daddykool666?s=21"
+            "targetUrl": "https://twitter.com/daddykool666?s=21",
+            "isDownload": false
         },
         {
             "type": "Icon Pack",
@@ -18,7 +19,8 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/iconicappleicon.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://seankly.gumroad.com/l/pMUBjF"
+            "targetUrl": "https://seankly.gumroad.com/l/pMUBjF",
+            "isDownload": false
         },
         {
             "type": "Icon Pack",
@@ -28,7 +30,8 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/3listicicon.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://seankly.gumroad.com/l/uVRMq"
+            "targetUrl": "https://seankly.gumroad.com/l/uVRMq",
+            "isDownload": false
         },
         {
             "type": "Icon Pack",
@@ -38,7 +41,8 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/chewiesicon.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://seankly.gumroad.com/l/eBZgY"
+            "targetUrl": "https://seankly.gumroad.com/l/eBZgY",
+            "isDownload": false
         },
         {
             "type": "Icon Pack",
@@ -48,7 +52,8 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/s1mpl3icon.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://PayPal.me/Meyer760"
+            "targetUrl": "https://PayPal.me/Meyer760",
+            "isDownload": true
         }
     ],
     "shortcuts": [
@@ -60,7 +65,8 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_8.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcutsHeader.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip",
+            "isDownload": true
         },
         {
             "type": "SHORTCUT",
@@ -70,7 +76,8 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_9.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "https://github.com/",
+            "isDownload": false
         },
         {
             "type": "SHORTCUT",
@@ -80,7 +87,8 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_0.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "https://github.com/",
+            "isDownload": false
         }
     ],
     "themes": [
@@ -91,7 +99,8 @@
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Odysseus.png",
             "tag1Text": "HOME",
             "tag2Text": "",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/OdysseusSlimWeatherDark.zip"
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/OdysseusSlimWeatherDark.zip",
+            "isDownload": true
         },
         {
             "title": "Some Theme Name2",
@@ -100,7 +109,8 @@
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_1.png",
             "tag1Text": "HOME",
             "tag2Text": "LOCK",
-            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip",
+            "isDownload": true
         },
         {
             "title": "Some Theme Name3",
@@ -109,7 +119,8 @@
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_2.png",
             "tag1Text": "HOME",
             "tag2Text": "",
-            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip",
+            "isDownload": true
         },
         {
             "title": "Some Theme Name4",
@@ -118,7 +129,8 @@
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_3.png",
             "tag1Text": "HOME",
             "tag2Text": "",
-            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip",
+            "isDownload": true
         },
         {
             "title": "Some Theme Name5",
@@ -127,7 +139,8 @@
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_4.png",
             "tag1Text": "HOME",
             "tag2Text": "",
-            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip",
+            "isDownload": true
         },
         {
             "title": "Some Theme Name6",
@@ -136,7 +149,8 @@
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_5.png",
             "tag1Text": "HOME",
             "tag2Text": "",
-            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip",
+            "isDownload": true
         },
         {
             "title": "Some Theme Name7",
@@ -145,7 +159,8 @@
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_6.png",
             "tag1Text": "HOME",
             "tag2Text": "",
-            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip",
+            "isDownload": true
         },
         {
             "title": "Some Theme Name8",
@@ -154,7 +169,8 @@
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_7.png",
             "tag1Text": "HOME",
             "tag2Text": "",
-            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip",
+            "isDownload": true
         },
         {
             "title": "Some Theme Name9",
@@ -163,7 +179,8 @@
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_8.png",
             "tag1Text": "HOME",
             "tag2Text": "",
-            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip",
+            "isDownload": true
         },
         {
             "title": "Some Theme Name10",
@@ -172,7 +189,8 @@
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_9.png",
             "tag1Text": "HOME",
             "tag2Text": "",
-            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip",
+            "isDownload": true
         }
     ],
     "howTo": [
@@ -183,7 +201,8 @@
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcutsHeader.png",
             "buttonTitle": "GO",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip",
+            "isDownload": true
         },
         {
             "type": "HOW TO",
@@ -192,7 +211,8 @@
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "",
             "buttonTitle": "GO",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "https://github.com/",
+            "isDownload": false
         },
         {
             "type": "HOW TO",
@@ -201,7 +221,8 @@
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "",
             "buttonTitle": "GO",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "https://github.com/",
+            "isDownload": false
         },
         {
             "type": "HOW TO",
@@ -210,7 +231,8 @@
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "",
             "buttonTitle": "GO",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "https://github.com/",
+            "isDownload": false
         },
         {
             "type": "HOW TO",
@@ -219,7 +241,8 @@
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "",
             "buttonTitle": "GO",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "https://github.com/",
+            "isDownload": false
         },
         {
             "type": "HOW TO",
@@ -228,7 +251,8 @@
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "",
             "buttonTitle": "GO",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "https://github.com/",
+            "isDownload": false
         }
     ],
     "shop": [
@@ -239,7 +263,8 @@
             "buttonSubtitle": "Gumroad Purchase",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_0.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip",
+            "isDownload": true
         },
         {
             "type": "Icon Pack",
@@ -248,7 +273,8 @@
             "buttonSubtitle": "Gumroad Purchase",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_1.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "https://github.com/",
+            "isDownload": false
         },
         {
             "type": "Icon Pack",
@@ -257,7 +283,8 @@
             "buttonSubtitle": "Gumroad Purchase",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_2.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "https://github.com/",
+            "isDownload": false
         },
         {
             "type": "Icon Pack",
@@ -266,7 +293,8 @@
             "buttonSubtitle": "Free Pack",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_3.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "https://github.com/",
+            "isDownload": false
         }
     ],
     "metadata": {
