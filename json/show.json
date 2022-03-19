@@ -48,7 +48,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/s1mpl3icon.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "PayPal.me/Meyer760"
+            "targetUrl": "https://PayPal.me/Meyer760"
         }
     ],
     "shortcuts": [
@@ -85,13 +85,13 @@
     ],
     "themes": [
         {
-            "title": "Some Theme Name1",
-            "subtitle": "A magical theme by Elise",
-            "authorImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/85/45/96/85459691-1ed1-8697-606f-335798135326/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_0.png",
+            "title": "Odysseus",
+            "subtitle": "A dark theme by @DaddyKool",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Gary.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Odysseus.JPG",
             "tag1Text": "HOME",
-            "tag2Text": "LOCK",
-            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+            "tag2Text": "",
+            "targetUrl": "https://m.box.com/file/932964772109/download?shared_link=https%3A%2F%2Fapp.box.com%2Fs%2Ftbfbyhxsdfvloe88n9myk8k8wjy0pfap"
         },
         {
             "title": "Some Theme Name2",
@@ -99,7 +99,7 @@
             "authorImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/85/45/96/85459691-1ed1-8697-606f-335798135326/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/theme_1.png",
             "tag1Text": "HOME",
-            "tag2Text": "",
+            "tag2Text": "LOCK",
             "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip"
         },
         {
