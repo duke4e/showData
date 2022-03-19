@@ -3,8 +3,8 @@
         {
             "type": "Featured Icons",
             "title": "Odysseus",
-            "subtitle": "Theme by DaddyKool",
-            "buttonSubtitle": "Twitter Link",
+            "subtitle": "Icon pack by DaddyKool",
+            "buttonSubtitle": "Twitter",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Gary.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/homeHeader.jpeg",
             "buttonTitle": "GET",
@@ -12,33 +12,43 @@
         },
         {
             "type": "Icon Pack",
-            "title": "Chewies 1",
-            "subtitle": "Brighten up your day",
-            "buttonSubtitle": "Something Else",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_5.png",
+            "title": "Iconic Apple",
+            "subtitle": "Realistic Apple icons",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/iconicappleicon.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/"
-        },
-        {
-            "type": "Theme",
-            "title": "Chewies 2",
-            "subtitle": "Lorem Ipsum",
-            "buttonSubtitle": "Gumroad Purchase",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_6.png",
-            "screenshotUrl": "",
-            "buttonTitle": "GET",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "https://seankly.gumroad.com/l/pMUBjF"
         },
         {
             "type": "Icon Pack",
-            "title": "Chewies 3",
-            "subtitle": "Dolor Sit Amet",
-            "buttonSubtitle": "Free Download",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_7.png",
+            "title": "3listic",
+            "subtitle": "Super detailed icons",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/3listicicon.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/"
+            "targetUrl": "https://seankly.gumroad.com/l/uVRMq"
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Chewies",
+            "subtitle": "Brighten up your day!",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/chewiesicon.png",
+            "screenshotUrl": "",
+            "buttonTitle": "GET",
+            "targetUrl": "https://seankly.gumroad.com/l/eBZgY"
+        }
+        {
+            "type": "Icon Pack",
+            "title": "S1MPl3",
+            "subtitle": "Icons by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/s1mpl3icon.png",
+            "screenshotUrl": "",
+            "buttonTitle": "GET",
+            "targetUrl": "PayPal.me/Meyer760"
         }
     ],
     "shortcuts": [
