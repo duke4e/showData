@@ -194,6 +194,16 @@
             "isDownload": true
         },
         {
+            "title": "Zoopmini10",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo10.png",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini10_ls.zip",
+            "isDownload": true
+        },
+        {
             "title": "JB2",
             "subtitle": "A theme by @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jenny.png",
@@ -604,16 +614,6 @@
             "isDownload": true
         },
         {
-            "title": "Zoopmini10",
-            "subtitle": "A theme by @Zooropalg",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo10.png",
-            "tag1Text": "LOCK",
-            "tag2Text": "",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini10_ls.zip",
-            "isDownload": true
-        },
-        {
             "title": "Some Theme Name10",
             "subtitle": "A magical theme by Elise",
             "authorImageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/85/45/96/85459691-1ed1-8697-606f-335798135326/AppIcon-1x_U007emarketing-0-7-0-85-220.png/400x400.png",
@@ -740,6 +740,6 @@
         "discordUrl": "https://discord.gg/ab5H95YYXd",
         "themesImageWidth": 1190,
         "themesImageHeight": 736,
-        "featuredBlurIsDark": true
+        "featuredBlurIsDark": false
     }
 }
