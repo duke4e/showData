@@ -847,8 +847,8 @@
     "howTo": [
         {
             "type": "HOW TO",
-            "title": "1ShowLive",
-            "subtitle": "Apply themes to your device",
+            "title": "Install ShowLive & Helper Shortcuts",
+            "subtitle": "The first thing you need to do!",
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader.png",
             "buttonTitle": "GO",
@@ -857,8 +857,8 @@
         },
         {
             "type": "HOW TO",
-            "title": "2ShowLive",
-            "subtitle": "Apply themes to your device",
+            "title": "Download a Theme",
+            "subtitle": "Install a theme onto your device",
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "",
             "buttonTitle": "GO",
@@ -867,8 +867,8 @@
         },
         {
             "type": "HOW TO",
-            "title": "3ShowLive",
-            "subtitle": "Apply themes to your device",
+            "title": "Change a Theme",
+            "subtitle": "Apply a new theme on your device",
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "",
             "buttonTitle": "GO",
@@ -877,8 +877,8 @@
         },
         {
             "type": "HOW TO",
-            "title": "4ShowLive",
-            "subtitle": "Apply themes to your device",
+            "title": "Change the Wallpaper",
+            "subtitle": "Replace your theme wallpaper",
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "",
             "buttonTitle": "GO",
@@ -887,8 +887,8 @@
         },
         {
             "type": "HOW TO",
-            "title": "5ShowLive",
-            "subtitle": "Apply themes to your device",
+            "title": "SL App Helper",
+            "subtitle": "Learn the additional features",
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "",
             "buttonTitle": "GO",
