@@ -104,6 +104,176 @@
     ],
     "themes": [
         {
+            "title": "Bubbles",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Bubbles.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_BubblesSK.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Curves",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Curves.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Curves.zip",
+            "isDownload": true
+        },
+        {
+            "title": "DK Mod Dots",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_DKModDots.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_DKModDots.zip",
+            "isDownload": true
+        },
+        {
+            "title": "DOTW feat Zoop",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_DOTW_Zoop.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_DOTW_Zoop.zip",
+            "isDownload": true
+        },
+        {
+            "title": "falH",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Falh_SK.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Falh_SK.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Grungees",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Grungees.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Grungees.zip",
+            "isDownload": true
+        },
+        {
+            "title": "GunDeem",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_GunDeem.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_GunDeem.zip",
+            "isDownload": true
+        },
+        {
+            "title": "PE Bhoy",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_PE_SK.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_PE_SK.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Poly Weather",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Polyweather.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Polyweather.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Poly Widget",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_polywidget.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_polywidget.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Script Date",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_ScriptDate_v1.8.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_ScriptDate_v1.8.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Shadow",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Shadow.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Shadow.zip",
+            "isDownload": true
+        },
+        {
+            "title": "SKUniAW",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_SKUniAW.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_SKUniAW.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Son!",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Son!.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Son!.zip",
+            "isDownload": true
+        },
+        {
+            "title": "StatusbarD_Att",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_StatusbarD_Att.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_StatusbarD_Att.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Stock",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_StockHS.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_StockHS.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zen",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Zen_v1.8.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Zen_v1.8.zip",
+            "isDownload": true
+        },
+        {
             "title": "Zoopmini5",
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
