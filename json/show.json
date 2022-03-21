@@ -63,7 +63,7 @@
             "subtitle": "Apply themes to your iDevice",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcuts_icon1.JPG",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcutsHeader.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcutsHeader.png",
             "buttonTitle": "GET",
             "targetUrl": "https://www.icloud.com/shortcuts/2f66a084fcc040b4a81ad1fabad0ac4c",
             "isDownload": false
@@ -108,7 +108,7 @@
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo5.jpg",
-            "tag1Text": "LOCK",
+            "tag1Text": "HOME",
             "tag2Text": "",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini11_hs.zip",
             "isDownload": true
@@ -148,7 +148,7 @@
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo14.jpg",
-            "tag1Text": "LOCK",
+            "tag1Text": "HOME",
             "tag2Text": "",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini14_hs.zip",
             "isDownload": true
@@ -158,7 +158,7 @@
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo15.jpg",
-            "tag1Text": "LOCK",
+            "tag1Text": "HOME",
             "tag2Text": "",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini15_hs.zip",
             "isDownload": true
@@ -168,7 +168,7 @@
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo16.jpg",
-            "tag1Text": "LOCK",
+            "tag1Text": "HOME",
             "tag2Text": "",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini16_hs.zip",
             "isDownload": true
