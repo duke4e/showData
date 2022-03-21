@@ -739,42 +739,142 @@
     "shop": [
         {
             "type": "Icon Pack",
-            "title": "Chewies1",
-            "subtitle": "Brighten up your day",
+            "title": "3listic",
+            "subtitle": "Icon pack by @SeanKly",
             "buttonSubtitle": "Gumroad Purchase",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_0.png",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/3listic_icon.jpg",
             "buttonTitle": "GET",
-            "targetUrl": "http://ipv4.download.thinkbroadband.com/100MB.zip",
-            "isDownload": true
-        },
-        {
-            "type": "Icon Pack",
-            "title": "Chewies2",
-            "subtitle": "Brighten up your day",
-            "buttonSubtitle": "Gumroad Purchase",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_1.png",
-            "buttonTitle": "GET",
-            "targetUrl": "https://github.com/",
+            "targetUrl": "https://seankly.gumroad.com/l/uVRMq",
             "isDownload": false
         },
         {
             "type": "Icon Pack",
-            "title": "Chewies3",
-            "subtitle": "Brighten up your day",
+            "title": "Chewies",
+            "subtitle": "Icon pack by @SeanKly",
             "buttonSubtitle": "Gumroad Purchase",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_2.png",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/chewies_icon.jpg",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/",
+            "targetUrl": "https://seankly.gumroad.com/l/eBZgY",
             "isDownload": false
         },
         {
             "type": "Icon Pack",
-            "title": "Chewies4",
-            "subtitle": "Brighten up your day",
+            "title": "Concav3",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/concav3_icon.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://seankly.gumroad.com/l/kscbxM",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Iconic Apple",
+            "subtitle": "Icon pack by @SeanKly",
             "buttonSubtitle": "Free Pack",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/icon_3.png",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iconicapple_icon",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/",
+            "targetUrl": "https://seankly.gumroad.com/l/pMUBjF",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Inv3rt",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/inv3rt_icon.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://seankly.gumroad.com/l/glJwt",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "J3nny",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/jenny_icon.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://seankly.gumroad.com/l/ZtHLo",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "M1sh",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/m1sh_icon.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://seankly.gumroad.com/l/CTTio",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mag3nta",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/mag3nta_icon.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://seankly.gumroad.com/l/LuJFK",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Min3ral",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/min3ral_icon.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://seankly.gumroad.com/l/kdEkk",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mut3d",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/mut3d_icon.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://seankly.gumroad.com/l/iOpAut",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Pal3",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/pal3_icon.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://seankly.gumroad.com/l/FNHPX",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "T3al",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/t3al_icon.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://seankly.gumroad.com/l/PdeLF",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Umb3r",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/umb3r_icon.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://seankly.gumroad.com/l/QgRqt",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Whit3",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/whit3_icon.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://seankly.gumroad.com/l/GDDjL",
             "isDownload": false
         }
     ],
