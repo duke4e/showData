@@ -887,8 +887,8 @@
         },
         {
             "type": "HOW TO",
-            "title": "6ShowLive",
-            "subtitle": "Apply themes to your device",
+            "title": "Setup Automations",
+            "subtitle": "Run ShowLive based on triggers",
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "",
             "buttonTitle": "GO",
