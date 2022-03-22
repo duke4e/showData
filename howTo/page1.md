@@ -1,10 +1,11 @@
 ﻿![enter image description here](https://github.com/duke4e/showData/raw/main/howTo/images/page1/page1_header.jpg)
-
+>
+>
 **Begin** by learning how to install the ShowLive and SL App Helper shortcuts onto your device. Then see what other features the SL App Installer Shortcut has to make things as simple as possible.
 
 **Browse** the included themes, tap what you like and it’s a one tap action to download the theme of your choice. Simply run ShowLive to apply your chosen theme to your Homescreen, Lockscreen or both.
 
-> Pixel perfect themes for your device
+>
 
 ![enter image description here](https://github.com/duke4e/showData/raw/main/howTo/images/page1/page1_ss.png)
 
