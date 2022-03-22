@@ -837,22 +837,22 @@
     "howTo": [
         {
             "type": "HOW TO",
-            "title": "Install the ShowLive Shortcut",
-            "subtitle": "The first thing you need to do!",
+            "title": "Install ShowLive",
+            "subtitle": "The first thing you need to do",
             "buttonSubtitle": "Tutorial",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader.png",
             "buttonTitle": "GO",
-            "targetUrl": "https://express.adobe.com/page/Vl1HoAUWkDVev/",
+            "targetUrl": "https://express.adobe.com/page/h753gfm2b5Zby/",
             "isDownload": false
         },
         {
             "type": "HOW TO",
-            "title": "Download a Theme",
-            "subtitle": "Install a theme onto your device",
+            "title": "Install the SL App Helper",
+            "subtitle": "The second thing you need to do",
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "",
             "buttonTitle": "GO",
-            "targetUrl": "https://github.com/",
+            "targetUrl": "https://express.adobe.com/page/Vl1HoAUWkDVev/",
             "isDownload": false
         },
         {
