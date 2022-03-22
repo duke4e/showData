@@ -920,9 +920,9 @@
             "title": "Install ShowLive",
             "subtitle": "The first thing you need to do",
             "buttonSubtitle": "Tutorial",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/howTo/howtoHeader.png",
             "buttonTitle": "GO",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/howto/page1.md",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/howTo/page1.md",
             "isDownload": false
         },
         {
