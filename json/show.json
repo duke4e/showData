@@ -849,7 +849,7 @@
             "type": "HOW TO",
             "title": "Install the SL App Helper",
             "subtitle": "The second thing you need to do",
-            "buttonSubtitle": "Discord Link",
+            "buttonSubtitle": "Tutorial",
             "screenshotUrl": "",
             "buttonTitle": "GO",
             "targetUrl": "https://express.adobe.com/page/Vl1HoAUWkDVev/",
@@ -862,7 +862,7 @@
             "buttonSubtitle": "Discord Link",
             "screenshotUrl": "",
             "buttonTitle": "GO",
-            "targetUrl": "https://github.com/",
+            "targetUrl": "https://express.adobe.com/page/4olDGvEcrjxVs/",
             "isDownload": false
         },
         {
@@ -1045,7 +1045,7 @@
         "termsMessage": "#Content Rights:\n\nShow content can contain material including, but not limited to, designs, text, graphics, images, video, information, logos, button icons, and other content (collectively, the “Content”). We may own the Content or portions of the Content may be made available to us through arrangements we have with third parties.\n\nAll images and fonts used in any of the Show products are the property of the original creator and or distributor and should not be reproduced or distributed without prior approval. Any images or fonts used are from free for commercial use sources.",
         "downloadInstructionsMessage": "#Once download finishes:\n\nShare the theme file to the SL Installer Shortcut to install the theme. Run the ShowLive Shortcut to apply the theme on your device.",
         "homeHeaderHexColor": "545455",
-        "socialHandles1": "@SeanKly\n@jennysblessed\n@UtdAll\n@Byron\n@Zoropalg",
+        "socialHandles1": "@SeanKly\n@jennysblessed\n@UtdAll\n@Byron\n@Zooropalg",
         "socialHandles2": "@Jacmeister\n@TeboulDavid1\n@Tito\n@Boots",
         "twitterUrl": "https://mobile.twitter.com/SeanKly",
         "discordUrl": "https://discord.gg/ab5H95YYXd",
