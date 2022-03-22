@@ -1,0 +1,1176 @@
+{
+    "home": [
+        {
+            "type": "Featured Icons",
+            "title": "Odysseus Dark",
+            "subtitle": "Icon pack by @DaddyKool",
+            "buttonSubtitle": "Twitter",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Gary.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/homeHeader.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://twitter.com/daddykool666?s=21",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Iconic Apple",
+            "subtitle": "Realistic Apple icons",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/iconicappleicon.png",
+            "screenshotUrl": "",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://seankly.gumroad.com/l/pMUBjF",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "3listic",
+            "subtitle": "Super detailed icons",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/3listicicon.png",
+            "screenshotUrl": "",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/uVRMq",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Chewies",
+            "subtitle": "Brighten up your day!",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/chewiesicon.png",
+            "screenshotUrl": "",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/eBZgY",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "S1MPl3",
+            "subtitle": "Icons by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/s1mpl3icon.png",
+            "screenshotUrl": "",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://PayPal.me/Meyer760",
+            "isDownload": false
+        }
+    ],
+    "shortcuts": [
+        {
+            "type": "SHORTCUT",
+            "title": "ShowLive 1.9b5",
+            "subtitle": "Apply themes to your iDevice",
+            "buttonSubtitle": "Shortcuts",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcuts_icon1.JPG",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcutsHeader.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://www.icloud.com/shortcuts/2f66a084fcc040b4a81ad1fabad0ac4c",
+            "isDownload": false
+        },
+        {
+            "type": "SHORTCUT",
+            "title": "SL App Helper",
+            "subtitle": "Companion Shortcut",
+            "buttonSubtitle": "Shortcuts",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcuts_icon1.JPG",
+            "screenshotUrl": "",
+            "buttonTitle": "GET",
+            "targetUrl": "https://www.icloud.com/shortcuts/24fdf7e9b532415dbbb8e220010e49d4",
+            "isDownload": false
+        },
+        {
+            "type": "SHORTCUT",
+            "title": "ScreenhotSL",
+            "subtitle": "Showcase your themes",
+            "buttonSubtitle": "Shortcuts",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcuts_icon1.JPG",
+            "screenshotUrl": "",
+            "buttonTitle": "GET",
+            "targetUrl": "https://www.icloud.com/shortcuts/b09db5e3b816451cb11985f6e5fe0983",
+            "isDownload": false
+        },
+        {
+            "type": "SHORTCUT",
+            "title": "ShowÆ",
+            "subtitle": "Effects for your Icons",
+            "buttonSubtitle": "Shortcuts",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcuts_icon1.JPG",
+            "screenshotUrl": "",
+            "buttonTitle": "GET",
+            "targetUrl": "https://www.icloud.com/shortcuts/8c339033fe1046d59a37f19be7a55a7b",
+            "isDownload": false
+        }
+    ],
+    "themes": [
+        {
+            "title": "SWA47",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA47.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/SWA47.zip",
+            "isDownload": true
+        },
+        {
+            "title": "SWA51",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA51.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/SWA51.zip",
+            "isDownload": true
+        },
+        {
+            "title": "SWA55Jen",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA55JEN.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/SWA55JEN.zip",
+            "isDownload": true
+        },
+        {
+            "title": "SWA56",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA56.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/SWA56.zip",
+            "isDownload": true
+        },
+        {
+            "title": "SWA58",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA58.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/SWA58.zip",
+            "isDownload": true
+        },
+        {
+            "title": "SWA59",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA59.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/SWA59.zip",
+            "isDownload": true
+        },
+        {
+            "title": "SWA60",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA60.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/SWA60.zip",
+            "isDownload": true
+        },
+        {
+            "title": "SWA61",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA61.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/SWA61.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB116",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB116.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB116.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini16",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo16.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini16_hs.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB64",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB64.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB64.zip",
+            "isDownload": true
+        },
+        {
+            "title": "StatusbarD_Att",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_StatusbarD_Att.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_StatusbarD_Att.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB125",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB125.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB125.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zen",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Zen_v1.8.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Zen_v1.8.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini11",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo11.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini11_ls.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB74",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB74.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB74.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB113",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB113.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB113.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB128",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB128.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB128.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Script Date",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_ScriptDate_v1.8.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_ScriptDate_v1.8.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB120",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB120.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB120.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB121",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB121.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB121.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Grungees",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Grungees.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Grungees.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Poly Widget",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_polywidget.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_polywidget.zip",
+            "isDownload": true
+        },
+        {
+            "title": "PE Bhoy",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_PE_SK.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_PE_SK.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB40",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB40.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB40.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB111",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB111.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB111.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB130",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB130.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB130.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini9",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo9.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini9_hs.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini2",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo2.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini2_ls.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini12",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo12.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini12_ls.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Shadow",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Shadow.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Shadow.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB101",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB101.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB101.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB112",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB112.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB112.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB100",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB100.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB100.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB41",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB41.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB41.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB110",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB110.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB110.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini15",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo15.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini15_hs.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB124",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB124.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB124.zip",
+            "isDownload": true
+        },
+        {
+            "title": "SKUniAW",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_SKUniAW.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_SKUniAW.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB62",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB62.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB62.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB84",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB84.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB84.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Son!",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Son!.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Son!.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB48",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB48.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB48.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB76",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB76.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB76.zip",
+            "isDownload": true
+        },
+        {
+            "title": "DK Mod Dots",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_DKModDots.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_DKModDots.zip",
+            "isDownload": true
+        },
+        {
+            "title": "falH",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Falh_SK.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Falh_SK.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini17",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo17.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini17_ls.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB129",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB129.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB129.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB105",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB105.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB105.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB104",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB104.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB104.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini6",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo6.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini6_hs.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB131",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB131.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB131.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini13",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo13.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini13_ls.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Stock",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_StockHS.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_StockHS.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini5",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo5.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini5_hs.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB118",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB118.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB118.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Bubbles",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Bubbles.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_BubblesSK.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini3",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo3.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini3_ls.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB119",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB119.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB119.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB5",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB5.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB5.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Poly Weather",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Polyweather.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Polyweather.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini1",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo1.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini1_hs.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini4",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo4.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini4_hs.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Curves",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_Curves.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_Curves.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB115",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB115.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB115.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB109",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB109.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB109.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB99",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB99.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB99.zip",
+            "isDownload": true
+        },
+        {
+            "title": "DOTW feat Zoop",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_DOTW_Zoop.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_DOTW_Zoop.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini10",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo10.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini10_ls.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini7",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo7.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini7_ls.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB30",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB30.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB30.zip",
+            "isDownload": true
+        },
+        {
+            "title": "GunDeem",
+            "subtitle": "A theme by @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sk_GunDeem.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/sk_GunDeem.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB106",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB106.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB106.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB123",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB123.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB123.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB85",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB85.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB85.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB117",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB117.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB117.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB51",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB51.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB51.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini8",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/zoo8.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini8_hs.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB78",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB78.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB78.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB25",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB25.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB25.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB72",
+            "subtitle": "A theme by @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB72.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB72.zip",
+            "isDownload": true
+        }
+    ],
+    "howTo": [
+        {
+            "type": "HOW TO",
+            "title": "Install ShowLive",
+            "subtitle": "The first thing you need to do",
+            "buttonSubtitle": "Tutorial",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader.png",
+            "buttonTitle": "GO",
+            "targetUrl": "https://express.adobe.com/page/h753gfm2b5Zby/",
+            "isDownload": false
+        },
+        {
+            "type": "HOW TO",
+            "title": "Install the SL App Helper",
+            "subtitle": "The second thing you need to do",
+            "buttonSubtitle": "Tutorial",
+            "screenshotUrl": "",
+            "buttonTitle": "GO",
+            "targetUrl": "https://express.adobe.com/page/Vl1HoAUWkDVev/",
+            "isDownload": false
+        },
+        {
+            "type": "HOW TO",
+            "title": "Change a Theme",
+            "subtitle": "Apply a new theme on your device",
+            "buttonSubtitle": "Tutorial",
+            "screenshotUrl": "",
+            "buttonTitle": "GO",
+            "targetUrl": "https://express.adobe.com/page/4olDGvEcrjxVs/",
+            "isDownload": false
+        },
+        {
+            "type": "HOW TO",
+            "title": "Change the Wallpaper",
+            "subtitle": "Replace your theme wallpaper",
+            "buttonSubtitle": "Tutorial",
+            "screenshotUrl": "",
+            "buttonTitle": "GO",
+            "targetUrl": "https://express.adobe.com/page/irNm7qh9bqHmQ/",
+            "isDownload": false
+        },
+        {
+            "type": "HOW TO",
+            "title": "SL App Helper",
+            "subtitle": "Learn the additional features",
+            "buttonSubtitle": "Tutorial",
+            "screenshotUrl": "",
+            "buttonTitle": "GO",
+            "targetUrl": "https://express.adobe.com/page/cNceyMUfMRlUx/",
+            "isDownload": false
+        }
+    ],
+    "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "3listic",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/3listic_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/uVRMq",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Chewies",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/chewies_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/eBZgY",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Concav3",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/concav3_icon.jpg",
+            "buttonTitle": "£2.00",
+            "targetUrl": "https://seankly.gumroad.com/l/kscbxM",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Iconic Apple",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Free Pack",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iconicapple_icon.jpg",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://seankly.gumroad.com/l/pMUBjF",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Inv3rt",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/inv3rt_icon.jpg",
+            "buttonTitle": "£1.00",
+            "targetUrl": "https://seankly.gumroad.com/l/glJwt",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "J3nny",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/jenny_icon.jpg",
+            "buttonTitle": "£2.00",
+            "targetUrl": "https://seankly.gumroad.com/l/ZtHLo",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "M1sh",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/m1sh_icon.jpg",
+            "buttonTitle": "£1.00",
+            "targetUrl": "https://seankly.gumroad.com/l/CTTio",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mag3nta",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/mag3nta_icon.jpg",
+            "buttonTitle": "£4.00",
+            "targetUrl": "https://seankly.gumroad.com/l/LuJFK",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Min3ral",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/min3ral_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/kdEkk",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mut3d",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/mut3d_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/iOpAut",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Pal3",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/pal3_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/FNHPX",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "T3al",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/t3al_icon.jpg",
+            "buttonTitle": "£1.00",
+            "targetUrl": "https://seankly.gumroad.com/l/PdeLF",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Umb3r",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/umb3r_icon.jpg",
+            "buttonTitle": "£1.00",
+            "targetUrl": "https://seankly.gumroad.com/l/QgRqt",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mignon Dark",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_mignon_dark_icon.jpg",
+            "buttonTitle": "£2.49",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.mignondark",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mignon",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_mignon_icon.jpg",
+            "buttonTitle": "£2.49",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.mignon",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Muffin Dark",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_muffin_dark_icon.jpg",
+            "buttonTitle": "£3.49",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffindark",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Muffin",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_muffin_icon.jpg",
+            "buttonTitle": "£3.49",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffin",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Sunrise",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_sunrise_icon.jpg",
+            "buttonTitle": "£2.99",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.sunrise",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Whit3",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/whit3_icon.jpg",
+            "buttonTitle": "£2.00",
+            "targetUrl": "https://seankly.gumroad.com/l/GDDjL",
+            "isDownload": false
+        }
+    ],
+    "metadata": {
+        "shopMessage": "**Vibrant and Colourful** or Muted and Dark? Choose from a variety of amazing icon designs by the best creators out there! There is something available for everyone. Most icon packs include alternatives and icon overlays. Use ShowAE to apply them!",
+        "shortcutsMessage": "**Explore** the Show shortcuts below. ShowLive & SL App Helper shortcuts are required to install themes with this app. Install and setup ShowLive first before downloading themes.",
+        "howToMessage": "**Follow our tutorials** and learn how to select, download and apply themes with ShowLive. We cover everything to get you started with easy to follow videos and detailed step by step written instructions. For further support visit our #Show Discord Server. Link at the bottom of this page.",
+        "termsMessage": "#Content Rights:\n\nShow content can contain material including, but not limited to, designs, text, graphics, images, video, information, logos, button icons, and other content (collectively, the “Content”). We may own the Content or portions of the Content may be made available to us through arrangements we have with third parties.\n\nAll images and fonts used in any of the Show products are the property of the original creator and or distributor and should not be reproduced or distributed without prior approval. Any images or fonts used are from free for commercial use sources.",
+        "downloadInstructionsMessage": "#Once download finishes:\n\nShare the theme file to the SL Installer Shortcut to install the theme. Run the ShowLive Shortcut to apply the theme on your device.",
+        "homeHeaderHexColor": "545455",
+        "socialHandles1": "@SeanKly\n@jennysblessed\n@UtdAll\n@Byron\n@Zooropalg",
+        "socialHandles2": "@Jacmeister\n@TeboulDavid1\n@Tito\n@Boots",
+        "twitterUrl": "https://mobile.twitter.com/SeanKly",
+        "discordUrl": "https://discord.gg/ab5H95YYXd",
+        "themesImageWidth": 1190,
+        "themesImageHeight": 736,
+        "featuredBlurIsDark": false
+    }
+}
