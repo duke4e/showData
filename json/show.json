@@ -59,13 +59,13 @@
     "shortcuts": [
         {
             "type": "SHORTCUT",
-            "title": "ShowLive 1.9b5",
+            "title": "ShowLive 1.9b7",
             "subtitle": "Apply themes to your iDevice",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcuts_icon1.JPG",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcutsHeader.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/2f66a084fcc040b4a81ad1fabad0ac4c",
+            "targetUrl": "https://www.icloud.com/shortcuts/31b1e88f765141b48dd81f28472ce64f",
             "isDownload": false
         },
         {
@@ -76,7 +76,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcuts_icon1.JPG",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/24fdf7e9b532415dbbb8e220010e49d4",
+            "targetUrl": "https://www.icloud.com/shortcuts/dc25ff162bad4222976bde280208b22a",
             "isDownload": false
         },
         {
