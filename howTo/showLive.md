@@ -24,4 +24,4 @@ The shortcut will set everything up required and will take a few seconds to comp
 
 That’s it, ShowLive is now installed and ready to install themes! Now install the SL App Helper.
 
-[Watch a video tutorial](www.youtube.com)
+[Watch a video tutorial](https://www.youtube.com/)
