@@ -879,20 +879,10 @@
             "type": "HOW TO",
             "title": "SL App Helper",
             "subtitle": "Learn the additional features",
-            "buttonSubtitle": "Discord Link",
+            "buttonSubtitle": "Tutorial",
             "screenshotUrl": "",
             "buttonTitle": "GO",
-            "targetUrl": "https://github.com/",
-            "isDownload": false
-        },
-        {
-            "type": "HOW TO",
-            "title": "Setup Automations",
-            "subtitle": "Run ShowLive based on triggers",
-            "buttonSubtitle": "Discord Link",
-            "screenshotUrl": "",
-            "buttonTitle": "GO",
-            "targetUrl": "https://github.com/",
+            "targetUrl": "https://express.adobe.com/page/cNceyMUfMRlUx/",
             "isDownload": false
         }
     ],
