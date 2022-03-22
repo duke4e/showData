@@ -1,7 +1,7 @@
 {
     "home": [
         {
-            "type": "Featured Icons",
+            "type": "Feat!!!ured Icons",
             "title": "Odysseus Dark",
             "subtitle": "Icon pack by @DaddyKool",
             "buttonSubtitle": "Twitter",
