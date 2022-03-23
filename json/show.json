@@ -1369,6 +1369,16 @@
         },
         {
             "type": "Icon Pack",
+            "title": "Circuit Icon Theme",
+            "subtitle": "Mobile Screen is an ArT. @MyLoveJewels",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/MyLoveJewewls_CircuitTheme_icon.jpg",
+            "buttonTitle": "4.89",
+            "targetUrl": "https://mylovejewel.gumroad.com/l/c1rcuit",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "Whit3",
             "subtitle": "Icon pack by @SeanKly",
             "buttonSubtitle": "Gumroad Purchase",
