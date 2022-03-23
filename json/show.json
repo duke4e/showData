@@ -48,11 +48,11 @@
             "type": "Icon Pack",
             "title": "S1MPl3",
             "subtitle": "Icons by @SteveMeyer420",
-            "buttonSubtitle": "PayPal",
+            "buttonSubtitle": "Twitter",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/s1mpl3icon.png",
             "screenshotUrl": "",
-            "buttonTitle": "£3.00",
-            "targetUrl": "https://PayPal.me/Meyer760",
+            "buttonTitle": "£3.50",
+            "targetUrl": "PayPal.me/Meyer760",
             "isDownload": false
         }
     ],
@@ -1433,8 +1433,38 @@
             "subtitle": "Icon theme by @MyLoveJewels",
             "buttonSubtitle": "Gumroad",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/CircuitTheme_icon.jpg",
-            "buttonTitle": "4.89",
+            "buttonTitle": "£4.89",
             "targetUrl": "https://mylovejewel.gumroad.com/l/c1rcuit",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Odysseus Dark",
+            "subtitle": "Icon theme by @DaddyKool",
+            "buttonSubtitle": "Twitter",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Odysseus_Dark_icon.PNG",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://twitter.com/daddykool666?s=21",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "F1N4L",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/F1N4L_icon.png",
+            "buttonTitle": "£3.00",
+            "targetUrl": "PayPal.me/Meyer760",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Skittles Blk",
+            "subtitle": "Icon theme by @boots6972",
+            "buttonSubtitle": "Twitter",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Skittles_Black_icon.PNG",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://twitter.com/boots6972/status/1478911627810508800?s=21",
             "isDownload": false
         },
         {
