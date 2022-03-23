@@ -52,7 +52,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/s1mpl3icon.png",
             "screenshotUrl": "",
             "buttonTitle": "£3.50",
-            "targetUrl": "PayPal.me/Meyer760",
+            "targetUrl": "https://PayPal.me/Meyer760",
             "isDownload": false
         }
     ],
@@ -1453,8 +1453,8 @@
             "subtitle": "Icon theme by @SteveMeyer420",
             "buttonSubtitle": "PayPal",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/F1N4L_icon.png",
-            "buttonTitle": "£3.00",
-            "targetUrl": "PayPal.me/Meyer760",
+            "buttonTitle": "£3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
             "isDownload": false
         },
         {
