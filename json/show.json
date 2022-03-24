@@ -1459,6 +1459,16 @@
         },
         {
             "type": "Icon Pack",
+            "title": "S1MPL3",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/S1MPL3_icon.PNG",
+            "buttonTitle": "£3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "Skittles Blk",
             "subtitle": "Icon theme by @boots6972",
             "buttonSubtitle": "Twitter",
