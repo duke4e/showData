@@ -59,13 +59,24 @@
     "shortcuts": [
         {
             "type": "SHORTCUT",
-            "title": "ShowLive",
-            "subtitle": "Apply themes to your iDevice",
+            "title": "ShowLive iOS 15",
+            "subtitle": "ShowLive for iOS 15 Devices",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcutsHeader1.png",
             "buttonTitle": "GET",
             "targetUrl": "https://www.icloud.com/shortcuts/92ea0fa13eee4ad9946aaacf0c46a013",
+            "isDownload": false
+        },
+        {
+            "type": "SHORTCUT",
+            "title": "ShowLive iOS 14",
+            "subtitle": "ShowLive for iOS 14 Devices",
+            "buttonSubtitle": "Shortcuts",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive_iOS14.png",
+            "screenshotUrl": "",
+            "buttonTitle": "GET",
+            "targetUrl": "https://www.icloud.com/shortcuts/03eaffa5cdd24e7ea79a4f9273873d3a",
             "isDownload": false
         },
         {
