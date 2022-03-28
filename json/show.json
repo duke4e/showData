@@ -63,7 +63,7 @@
             "subtitle": "ShowLive for iOS 15.1+",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcutsHeader1.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcutsHeader2.png",
             "buttonTitle": "GET",
             "targetUrl": "https://www.icloud.com/shortcuts/3b266fc852a345c6ad03f9e55b32fe19",
             "isDownload": false
@@ -103,6 +103,66 @@
         }
     ],
     "themes": [
+        {
+            "title": "JB12",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB12.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB12.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB65",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB65.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB65.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB71",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB71.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB71.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB135",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB135.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB135.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB136",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB136.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB136.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB137",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB137.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB137.zip",
+            "isDownload": true
+        },
         {
             "title": "LockRock",
             "subtitle": "I make stuff! @SeanKly",
@@ -1257,6 +1317,26 @@
         }
     ],
     "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "Cod3Blu3",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Cod3Blu3_icon.png",
+            "buttonTitle": "£3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "iLarke Motif",
+            "subtitle": "Icon theme by @DaddyKool",
+            "buttonSubtitle": "Twitter",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iLarke Motif_icon.png",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://twitter.com/daddykool666?s=21",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "COD3R3D",
