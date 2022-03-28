@@ -1,5 +1,60 @@
 {
     "home": [
+        {
+            "type": "Featured Icons",
+            "title": "Odysseus Dark",
+            "subtitle": "Icon pack by @DaddyKool",
+            "buttonSubtitle": "Twitter",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Gary.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/homeHeader.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://twitter.com/daddykool666?s=21",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Iconic Apple",
+            "subtitle": "Realistic Apple icons",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/iconicappleicon.jpg",
+            "screenshotUrl": "",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://seankly.gumroad.com/l/pMUBjF",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "3listic",
+            "subtitle": "Super detailed icons",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/3listicicon.jpg",
+            "screenshotUrl": "",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/uVRMq",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Chewies",
+            "subtitle": "Brighten up your day!",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/chewiesicon.jpg",
+            "screenshotUrl": "",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/eBZgY",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "S1MPl3",
+            "subtitle": "Icons by @SteveMeyer420",
+            "buttonSubtitle": "Twitter",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/s1mpl3icon.jpg",
+            "screenshotUrl": "",
+            "buttonTitle": "£3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
+            "isDownload": false
+        }
     ],
     "shortcuts": [
         {
@@ -1202,6 +1257,276 @@
         }
     ],
     "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "COD3R3D",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/COD3R3D_icon.jpg",
+            "buttonTitle": "£3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "M1sh",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/m1sh_icon.jpg",
+            "buttonTitle": "£1.00",
+            "targetUrl": "https://seankly.gumroad.com/l/CTTio",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "S1MPL3",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/S1MPL3_icon.jpg",
+            "buttonTitle": "£3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Chewies",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/chewies_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/eBZgY",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mignon",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_mignon_icon.jpg",
+            "buttonTitle": "£2.49",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.mignon",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mag3nta",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/mag3nta_icon.jpg",
+            "buttonTitle": "£4.00",
+            "targetUrl": "https://seankly.gumroad.com/l/LuJFK",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "J3nny",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/jenny_icon.jpg",
+            "buttonTitle": "£2.00",
+            "targetUrl": "https://seankly.gumroad.com/l/ZtHLo",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Skittles Blk",
+            "subtitle": "Icon theme by @boots6972",
+            "buttonSubtitle": "Twitter",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Skittles_Black_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://twitter.com/boots6972/status/1478911627810508800?s=21",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Odysseus",
+            "subtitle": "Icon theme by @DaddyKool",
+            "buttonSubtitle": "Twitter",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Odysseus_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://twitter.com/daddykool666?s=21",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Iconic Apple",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Free Pack",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iconicapple_icon.jpg",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://seankly.gumroad.com/l/pMUBjF",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Odysseus Dark",
+            "subtitle": "Icon theme by @DaddyKool",
+            "buttonSubtitle": "Twitter",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Odysseus_Dark_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://twitter.com/daddykool666?s=21",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Umb3r",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/umb3r_icon.jpg",
+            "buttonTitle": "£1.00",
+            "targetUrl": "https://seankly.gumroad.com/l/QgRqt",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "T3al",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/t3al_icon.jpg",
+            "buttonTitle": "£1.00",
+            "targetUrl": "https://seankly.gumroad.com/l/PdeLF",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Min3ral",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/min3ral_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/kdEkk",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mignon Dark",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_mignon_dark_icon.jpg",
+            "buttonTitle": "£2.49",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.mignondark",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "GR41NY",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/GR41NY_icon.jpg",
+            "buttonTitle": "£3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "3listic",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/3listic_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/uVRMq",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Circuit Icon Theme",
+            "subtitle": "Icon theme by @MyLoveJewels",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/CircuitTheme_icon.jpg",
+            "buttonTitle": "£4.89",
+            "targetUrl": "https://mylovejewel.gumroad.com/l/c1rcuit",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Sunrise",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_sunrise_icon.jpg",
+            "buttonTitle": "£2.99",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.sunrise",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Muffin",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_muffin_icon.jpg",
+            "buttonTitle": "£3.49",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffin",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Inv3rt",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/inv3rt_icon.jpg",
+            "buttonTitle": "£1.00",
+            "targetUrl": "https://seankly.gumroad.com/l/glJwt",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mut3d",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/mut3d_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/iOpAut",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Pal3",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/pal3_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://seankly.gumroad.com/l/FNHPX",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "F1N4L",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/F1N4L_icon.jpg",
+            "buttonTitle": "£3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Concav3",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/concav3_icon.jpg",
+            "buttonTitle": "£2.00",
+            "targetUrl": "https://seankly.gumroad.com/l/kscbxM",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Whit3",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/whit3_icon.jpg",
+            "buttonTitle": "£2.00",
+            "targetUrl": "https://seankly.gumroad.com/l/GDDjL",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Muffin Dark",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_muffin_dark_icon.jpg",
+            "buttonTitle": "£3.49",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffindark",
+            "isDownload": false
+        }
     ],
     "metadata": {
         "shopMessage": "**Vibrant and Colourful** or Muted and Dark? Choose from a variety of amazing icon designs by the best creators out there! There is something available for everyone. Most icon packs include alternatives and icon overlays. Use ShowAE to apply them!",
