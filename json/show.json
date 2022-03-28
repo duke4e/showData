@@ -81,7 +81,7 @@
         },
         {
             "type": "SHORTCUT",
-            "title": "ScreenhotSL",
+            "title": "ScreenshotSL",
             "subtitle": "Showcase your themes",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ScreenshotSL.png",
