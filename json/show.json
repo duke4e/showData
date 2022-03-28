@@ -1359,6 +1359,16 @@
     "shop": [
         {
             "type": "Icon Pack",
+            "title": "Palette Dark",
+            "subtitle": "Icon theme by @TeboulDavid1",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/PaletteDark_icon.png",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://smartwallpaperart.gumroad.com/l/Palette_Dark",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "Eesome",
             "subtitle": "Icon theme by @bulldog5278",
             "buttonSubtitle": "PayPal",
