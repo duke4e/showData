@@ -1319,11 +1319,21 @@
     "shop": [
         {
             "type": "Icon Pack",
+            "title": "KOBU Z",
+            "subtitle": "Use code: SHOWCUTS for 15% off",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/KOBUZ_icon.jpg",
+            "buttonTitle": "$5.00",
+            "targetUrl": "https://t.co/FuLTQ4NmRe",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "Cod3Blu3",
             "subtitle": "Icon theme by @SteveMeyer420",
             "buttonSubtitle": "PayPal",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Cod3Blu3_icon.png",
-            "buttonTitle": "£3.50",
+            "buttonTitle": "$3.50",
             "targetUrl": "https://PayPal.me/Meyer760",
             "isDownload": false
         },
@@ -1343,7 +1353,7 @@
             "subtitle": "Icon theme by @SteveMeyer420",
             "buttonSubtitle": "PayPal",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/COD3R3D_icon.jpg",
-            "buttonTitle": "£3.50",
+            "buttonTitle": "$3.50",
             "targetUrl": "https://PayPal.me/Meyer760",
             "isDownload": false
         },
@@ -1383,7 +1393,7 @@
             "subtitle": "Crafted icons by @ounidesigns",
             "buttonSubtitle": "Geometric Store",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_mignon_icon.jpg",
-            "buttonTitle": "£2.49",
+            "buttonTitle": "$2.49",
             "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.mignon",
             "isDownload": false
         },
@@ -1413,7 +1423,7 @@
             "subtitle": "Icon theme by @boots6972",
             "buttonSubtitle": "Twitter",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Skittles_Black_icon.jpg",
-            "buttonTitle": "£3.00",
+            "buttonTitle": "$3.00",
             "targetUrl": "https://twitter.com/boots6972/status/1478911627810508800?s=21",
             "isDownload": false
         },
@@ -1483,7 +1493,7 @@
             "subtitle": "Crafted icons by @ounidesigns",
             "buttonSubtitle": "Geometric Store",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_mignon_dark_icon.jpg",
-            "buttonTitle": "£2.49",
+            "buttonTitle": "$2.49",
             "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.mignondark",
             "isDownload": false
         },
@@ -1513,7 +1523,7 @@
             "subtitle": "Icon theme by @MyLoveJewels",
             "buttonSubtitle": "Gumroad",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/CircuitTheme_icon.jpg",
-            "buttonTitle": "£4.89",
+            "buttonTitle": "$4.89",
             "targetUrl": "https://mylovejewel.gumroad.com/l/c1rcuit",
             "isDownload": false
         },
@@ -1523,7 +1533,7 @@
             "subtitle": "Crafted icons by @ounidesigns",
             "buttonSubtitle": "Geometric Store",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_sunrise_icon.jpg",
-            "buttonTitle": "£2.99",
+            "buttonTitle": "$2.99",
             "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.sunrise",
             "isDownload": false
         },
@@ -1533,7 +1543,7 @@
             "subtitle": "Crafted icons by @ounidesigns",
             "buttonSubtitle": "Geometric Store",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_muffin_icon.jpg",
-            "buttonTitle": "£3.49",
+            "buttonTitle": "$3.49",
             "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffin",
             "isDownload": false
         },
@@ -1573,7 +1583,7 @@
             "subtitle": "Icon theme by @SteveMeyer420",
             "buttonSubtitle": "PayPal",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/F1N4L_icon.jpg",
-            "buttonTitle": "£3.50",
+            "buttonTitle": "$3.50",
             "targetUrl": "https://PayPal.me/Meyer760",
             "isDownload": false
         },
@@ -1603,7 +1613,7 @@
             "subtitle": "Crafted icons by @ounidesigns",
             "buttonSubtitle": "Geometric Store",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_muffin_dark_icon.jpg",
-            "buttonTitle": "£3.49",
+            "buttonTitle": "$3.49",
             "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffindark",
             "isDownload": false
         }
