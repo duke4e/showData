@@ -1359,6 +1359,56 @@
     "shop": [
         {
             "type": "Icon Pack",
+            "title": "Eesome",
+            "subtitle": "Icon theme by @bulldog5278",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Eesome_icon.PNG",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://www.paypal.me/bulldogno1",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Z1BA",
+            "subtitle": "Icon theme by @bulldog5278",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Z1BA_icon.PNG",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://www.paypal.me/bulldogno1",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "V1brant",
+            "subtitle": "Icon theme by @bulldog5278",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/V1brant_icon.PNG",
+            "buttonTitle": "£2.75",
+            "targetUrl": "https://www.paypal.me/bulldogno1",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "SLEEK",
+            "subtitle": "Icon theme by @bulldog5278",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Sleek_icon.PNG",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://www.paypal.me/bulldogno1",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Ethereal",
+            "subtitle": "Icon theme by @bulldog5278",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Ethereal_icon.PNG",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://www.paypal.me/bulldogno1",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "CyberGLAM",
             "subtitle": "Use code: show-20 for 20% off",
             "buttonSubtitle": "Gumroad",
