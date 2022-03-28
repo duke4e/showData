@@ -1359,6 +1359,16 @@
     "shop": [
         {
             "type": "Icon Pack",
+            "title": "Fondant",
+            "subtitle": "Icon theme by @colorwallies ",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Fondant_icon.PNG",
+            "buttonTitle": "£2.29",
+            "targetUrl": "https://gum.co/FondantIcons",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "KOBU Z",
             "subtitle": "Use code: SHOWCUTS for 15% off",
             "buttonSubtitle": "Gumroad",
