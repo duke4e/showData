@@ -146,8 +146,8 @@
         {
             "title": "CurtisDots",
             "subtitle": "A recreation by @UtdAll",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/CurtisDots.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtisDK1.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtisDots.jpg",
             "tag1Text": "HOME",
             "tag2Text": "",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtisDots.zip",
@@ -156,21 +156,21 @@
         {
             "title": "CurtisLines",
             "subtitle": "A recreation by @UtdAll",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/JennyStar.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtisDK1.jpg",
-            "tag1Text": "HOME",
-            "tag2Text": "",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/JennyStar.zip",
-            "isDownload": true
-        },
-        {
-            "title": "CurtisLines",
-            "subtitle": "A recreation by @UtdAll",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/CurtisLines.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtisDK1.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtisLines.jpg",
             "tag1Text": "HOME",
             "tag2Text": "",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtisLines.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JennyStar",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JennyStar.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/JennyStar.zip",
             "isDownload": true
         },
         {
