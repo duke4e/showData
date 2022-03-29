@@ -1761,6 +1761,6 @@
         "discordUrl": "https://discord.gg/ab5H95YYXd",
         "themesImageWidth": 1190,
         "themesImageHeight": 736,
-        "featuredBlurIsDark": false
+        "featuredBlurIsDark": true
     }
 }
