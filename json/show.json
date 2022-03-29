@@ -1359,6 +1359,56 @@
     "shop": [
     {
         "type": "Icon Pack",
+        "title": "Aroma",
+        "subtitle": "Icon pack by @moondr1",
+        "buttonSubtitle": "PayPal",
+        "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Aroma_icon.jpg",
+        "buttonTitle": "$2.50",
+        "targetUrl": "https://t.co/mStryUEqwb",
+        "isDownload": false
+    },
+         {
+        "type": "Icon Pack",
+        "title": "Beam Purple",
+        "subtitle": "Icon pack by @moondr1",
+        "buttonSubtitle": "PayPal",
+        "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/BeamPurple_icon.jpg",
+        "buttonTitle": "$2.50",
+        "targetUrl": "https://t.co/mStryUEqwb",
+        "isDownload": false
+    },
+         {
+        "type": "Icon Pack",
+        "title": "Mocha",
+        "subtitle": "Icon pack by @moondr1",
+        "buttonSubtitle": "PayPal",
+        "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Mocha_icon.jpg",
+        "buttonTitle": "$2.50",
+        "targetUrl": "https://t.co/mStryUEqwb",
+        "isDownload": false
+    },
+         {
+        "type": "Icon Pack",
+        "title": "BluRay",
+        "subtitle": "Icon pack by @moondr1",
+        "buttonSubtitle": "PayPal",
+        "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/BluRay_icon.jpg",
+        "buttonTitle": "$2.50",
+        "targetUrl": "https://t.co/mStryUEqwb",
+        "isDownload": false
+    },
+         {
+        "type": "Icon Pack",
+        "title": "Camo",
+        "subtitle": "Icon pack by @moondr1",
+        "buttonSubtitle": "PayPal",
+        "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Camo_icon.jpg",
+        "buttonTitle": "$2.50",
+        "targetUrl": "https://t.co/mStryUEqwb",
+        "isDownload": false
+    },
+         {
+        "type": "Icon Pack",
         "title": "Umb3r",
         "subtitle": "Icon pack by @SeanKly",
         "buttonSubtitle": "Gumroad Purchase",
