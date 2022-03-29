@@ -1590,11 +1590,21 @@
         {
             "type": "Icon Pack",
             "title": "Skittles Blk",
-            "subtitle": "Icon theme by @boots6972",
-            "buttonSubtitle": "Twitter",
+            "subtitle": "Black for those that like the dark side",
+            "buttonSubtitle": "Gumroad",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Skittles_Black_icon.jpg",
-            "buttonTitle": "$3.00",
-            "targetUrl": "https://twitter.com/boots6972/status/1478911627810508800?s=21",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://boots7210.gumroad.com/l/rdxxy",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Skittles",
+            "subtitle": "A candy colored set of icons",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/skittles_icon.jpg",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://boots7210.gumroad.com/l/mjekf",
             "isDownload": false
         },
         {
