@@ -103,6 +103,16 @@
         }
     ],
     "themes": [
+         {
+            "title": "Zoopmini29",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoomini29_ls.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini29_ls.zip",
+            "isDownload": true
+        },
         {
             "title": "JB_iLarkeMotif",
             "subtitle": "Live Laugh Love @jennysblessed",
@@ -1497,6 +1507,26 @@
         }
     ],
     "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "iConc4ve",
+            "subtitle": "Icon theme by @A7laFe",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iConc4ve_icon.png",
+            "buttonTitle": "$3.00",
+            "targetUrl": "https://t.co/sdDk9svxpS",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Kuro",
+            "subtitle": "Use code: Sh001 for discount",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Kuro_icon.png",
+            "buttonTitle": "€3.50",
+            "targetUrl": "https://t.co/cedSjlRww5",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "Ella",
