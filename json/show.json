@@ -62,10 +62,10 @@
             "title": "ShowLive",
             "subtitle": "ShowLive for iOS 15.1+",
             "buttonSubtitle": "Shortcuts",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive__update.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcutsHeader2.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/65a9a788981b43638a76963febe2f9ff",
+            "targetUrl": "https://www.icloud.com/shortcuts/5e43012a2cab4de8928e72ce5772fef0",
             "isDownload": false
         },
         {
@@ -103,6 +103,46 @@
         }
     ],
     "themes": [
+        {
+            "title": "JB_iLarkeMotif",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB_iLarkeMotif.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB_iLarkeMotif.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB139",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB139.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB139.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB140",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB140.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB140.zip",
+            "isDownload": true
+        },
+        {
+            "title": "CurtisLines",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtisLines.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtisLines.zip",
+            "isDownload": true
+        },
         {
             "title": "Zoopmini28",
             "subtitle": "A theme by @Zooropalg",
@@ -1457,6 +1497,116 @@
         }
     ],
     "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "Ella",
+            "subtitle": "Icon theme by @Devy_Design",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Ella_icon.jpg",
+            "buttonTitle": "$2.00",
+            "targetUrl": "https://devydesign.gumroad.com/l/Ellaicons",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Flvt",
+            "subtitle": "Icon theme by @Devy_Design",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Flvt_icon.jpg",
+            "buttonTitle": "$2.00",
+            "targetUrl": "https://devydesign.gumroad.com/l/flvticons",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Gyan",
+            "subtitle": "Icon theme by @Devy_Design",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Gyan_icon.jpg",
+            "buttonTitle": "$2.00",
+            "targetUrl": "https://devydesign.gumroad.com/l/devygyan",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Liaca",
+            "subtitle": "Icon theme by @Devy_Design",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Liaca_icon.jpg",
+            "buttonTitle": "$2.00",
+            "targetUrl": "https://devydesign.gumroad.com/l/liaca",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Liaca Glyphs",
+            "subtitle": "Icon theme by @Devy_Design",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/LiacaGlyphs_icon.jpg",
+            "buttonTitle": "$2.00",
+            "targetUrl": "https://devydesign.gumroad.com/l/liacaglyphs",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Marque",
+            "subtitle": "Icon theme by @Devy_Design",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Marque_icon.jpg",
+            "buttonTitle": "$2.00",
+            "targetUrl": "https://devydesign.gumroad.com/l/marqueicons",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Puff",
+            "subtitle": "Icon theme by @Devy_Design",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Puff_icon.jpg",
+            "buttonTitle": "$2.00",
+            "targetUrl": "https://devydesign.gumroad.com/l/pufftheme",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Tessa",
+            "subtitle": "Icon theme by @Devy_Design",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Tessa_icon.jpg",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://devydesign.gumroad.com/l/tessaicons",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "iWood",
+            "subtitle": "Icon theme by @A7laFe",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iWood_icon.jpg",
+            "buttonTitle": "$3.00",
+            "targetUrl": "https://t.co/sdDk9svxpS",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "BlackOrs3",
+            "subtitle": "Icon theme by @A7laFe",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/BlackOrs3_icon.jpg",
+            "buttonTitle": "$3.00",
+            "targetUrl": "https://t.co/sdDk9svxpS",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "V1be",
+            "subtitle": "Icon theme by @bulldog5278",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Vibe_icon.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://www.paypal.me/bulldogno1",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "Aroma",
