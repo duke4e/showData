@@ -2,13 +2,13 @@
     "home": [
         {
             "type": "Featured Icons",
-            "title": "S1MPL3",
-            "subtitle": "Icon pack by @SteveMeyer420",
-            "buttonSubtitle": "PayPal",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Steve.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/S1MPL3_homeHeader.jpg",
-            "buttonTitle": "£3.50",
-            "targetUrl": "https://PayPal.me/Meyer760",
+            "title": "Muffin",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Ouni.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/muffin_homeHeader.jpg",
+            "buttonTitle": "$3.49",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffin",
             "isDownload": false
         },
         {
@@ -46,13 +46,13 @@
         },
          {
             "type": "Icon Pack",
-            "title": "Muffin",
+            "title": "Muffin Dark",
             "subtitle": "Crafted icons by @ounidesigns",
             "buttonSubtitle": "Geometric Store",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_muffin_icon.jpg",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_muffin_dark_icon.jpg",
             "screenshotUrl": "",
             "buttonTitle": "$3.49",
-            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffin",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffindark",
             "isDownload": false
         }
     ],
