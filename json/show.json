@@ -1579,16 +1579,6 @@
     "shop": [
         {
             "type": "Icon Pack",
-            "title": "Cod3Blu3",
-            "subtitle": "Icons by @SteveMeyer420",
-            "buttonSubtitle": "PayPal",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Cod3Blu3_icon.png",
-            "buttonTitle": "£3.50",
-            "targetUrl": "https://PayPal.me/Meyer760",
-            "isDownload": false
-        },
-        {
-            "type": "Icon Pack",
             "title": "Mignon Dark",
             "subtitle": "Crafted icons by @ounidesigns",
             "buttonSubtitle": "Geometric Store",
