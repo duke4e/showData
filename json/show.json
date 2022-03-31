@@ -1549,6 +1549,16 @@
     "shop": [
         {
             "type": "Icon Pack",
+            "title": "Bi0neiX",
+            "subtitle": "Icon theme by @CastroiOS2",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Bi0neiX_icon.png",
+            "buttonTitle": "$2.50",
+            "targetUrl": "https://t.co/oYecnTHKoR",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "iConc4ve",
             "subtitle": "Icon theme by @A7laFe",
             "buttonSubtitle": "PayPal",
