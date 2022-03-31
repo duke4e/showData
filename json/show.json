@@ -44,15 +44,15 @@
             "targetUrl": "https://seankly.gumroad.com/l/eBZgY",
             "isDownload": false
         },
-        {
+         {
             "type": "Icon Pack",
-            "title": "Mignon Dark",
+            "title": "Muffin",
             "subtitle": "Crafted icons by @ounidesigns",
             "buttonSubtitle": "Geometric Store",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/OuniDesigns_mignon_dark_icon.jpg",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_muffin_icon.jpg",
             "screenshotUrl": "",
-            "buttonTitle": "$2.49",
-            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.mignondark",
+            "buttonTitle": "$3.49",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffin",
             "isDownload": false
         }
     ],
