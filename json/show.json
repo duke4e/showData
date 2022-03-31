@@ -1589,16 +1589,6 @@
         },
         {
             "type": "Icon Pack",
-            "title": "iConc4ve",
-            "subtitle": "Icon theme by @A7laFe",
-            "buttonSubtitle": "PayPal",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iConc4ve_icon.png",
-            "buttonTitle": "$3.00",
-            "targetUrl": "https://t.co/sdDk9svxpS",
-            "isDownload": false
-        },
-        {
-            "type": "Icon Pack",
             "title": "Kuro",
             "subtitle": "Use code: Sh001 for discount",
             "buttonSubtitle": "Gumroad",
@@ -1685,26 +1675,6 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Tessa_icon.jpg",
             "buttonTitle": "$3.50",
             "targetUrl": "https://devydesign.gumroad.com/l/tessaicons",
-            "isDownload": false
-        },
-        {
-            "type": "Icon Pack",
-            "title": "iWood",
-            "subtitle": "Icon theme by @A7laFe",
-            "buttonSubtitle": "PayPal",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iWood_icon.jpg",
-            "buttonTitle": "$3.00",
-            "targetUrl": "https://t.co/sdDk9svxpS",
-            "isDownload": false
-        },
-        {
-            "type": "Icon Pack",
-            "title": "BlackOrs3",
-            "subtitle": "Icon theme by @A7laFe",
-            "buttonSubtitle": "Free Pack",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/BlackOrs3_icon.jpg",
-            "buttonTitle": "FREE",
-            "targetUrl": "https://t.co/ZtE9K3VfsU",
             "isDownload": false
         },
         {
