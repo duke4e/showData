@@ -104,6 +104,16 @@
     ],
     "themes": [
         {
+            "title": "Zoopmini31",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoomini31.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini31.zip",
+            "isDownload": true
+        },
+        {
             "title": "JB146",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
@@ -123,7 +133,7 @@
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtSWA4_hs.zip",
             "isDownload": true
         },
-         {
+        {
             "title": "CurtSWA5",
             "subtitle": "A recreation by @UtdAll",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
@@ -143,7 +153,7 @@
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB143_hs.zip",
             "isDownload": true
         },
-         {
+        {
             "title": "JB147",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
