@@ -1,14 +1,14 @@
 {
     "home": [
         {
-            "type": "Featured Icons",
-            "title": "Muffin",
-            "subtitle": "Crafted icons by @ounidesigns",
-            "buttonSubtitle": "Geometric Store",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Ouni.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/muffin_homeHeader.jpg",
-            "buttonTitle": "$3.49",
-            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffin",
+            "type": "New Release!",
+            "title": "https://t.co/4QNpqEnPJs",
+            "subtitle": "Exclusive by @XaBdOooX",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/XaBdOooX.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/XaBdOooX_homeHeader.jpg",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://t.co/4QNpqEnPJs",
             "isDownload": false
         },
         {
@@ -1577,6 +1577,16 @@
         }
     ],
     "shop": [
+        {
+            "type": "Exclusive!",
+            "title": "N4ughty",
+            "subtitle": "Only on #ShowApp @XaBdOooX",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/N4ughty_icon.jpg",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://t.co/4QNpqEnPJs",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "Mignon Dark",
