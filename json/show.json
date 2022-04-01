@@ -13,13 +13,13 @@
         },
         {
             "type": "Icon Pack",
-            "title": "Iconic Apple",
-            "subtitle": "Realistic Apple icons",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/iconicappleicon.jpg",
+            "title": "Flossy",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/Flossy_icon.png",
             "screenshotUrl": "",
-            "buttonTitle": "FREE",
-            "targetUrl": "https://seankly.gumroad.com/l/pMUBjF",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
             "isDownload": false
         },
         {
@@ -1585,6 +1585,16 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/N4ughty_icon.jpg",
             "buttonTitle": "$3.50",
             "targetUrl": "https://t.co/4QNpqEnPJs",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Flossy",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Flossy_icon.png",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
             "isDownload": false
         },
         {
