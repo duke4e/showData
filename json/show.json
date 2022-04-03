@@ -1,14 +1,14 @@
 {
     "home": [
         {
-            "type": "New Release!",
-            "title": "N4ughty",
-            "subtitle": "Exclusive by @XaBdOooX",
-            "buttonSubtitle": "PayPal",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/XaBdOooX.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/XaBdOooX_homeHeader.jpg",
-            "buttonTitle": "$3.50",
-            "targetUrl": "https://t.co/4QNpqEnPJs",
+            "type": "Icon Pack",
+            "title": "Kobu Z",
+            "subtitle": "Use code SHOWCUTS for 15% off",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sede10.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/sedelesbiano_home_Featured1.jpg",
+            "buttonTitle": "$5.00",
+            "targetUrl": "https://t.co/FuLTQ4NmRe",
             "isDownload": false
         },
         {
@@ -103,6 +103,116 @@
         }
     ],
     "themes": [
+        {
+            "title": "CurtSWA6",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA6.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/SWA6.zip",
+            "isDownload": true
+        },
+        {
+            "title": "CurtSWA8",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA8.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/SWA8.zip",
+            "isDownload": true
+        },
+        {
+            "title": "CurtSWA8v2",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA8v2.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/SWA8v2.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB149_daddykool",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB149_daddykool.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB149_daddykool.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB151_daddykool",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB151_daddykool.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB151_daddykool.zip",
+            "isDownload": true
+        }, 
+        {
+            "title": "JB152_FAlhmma",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB152_FAlhmma.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB152_FAlhmma.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB153",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB153.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB153.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB154",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB154.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB154.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB155_rajjaryaa",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB155_rajjaryaa.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB155_rajjaryaa.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini32",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoopmini32.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini32.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoopmini33",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoopmini33.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini33.zip",
+            "isDownload": true
+        },
         {
             "title": "JB148_Jkauf55",
             "subtitle": "Live Laugh Love @jennysblessed",
@@ -1647,6 +1757,26 @@
         }
     ],
     "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "Carbon Icons",
+            "subtitle": "Icon pack by @Nyk0n_",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Cabon_icon.jpg",
+            "buttonTitle": "$6.00",
+            "targetUrl": "https://nyk0n.gumroad.com/l/hwWPf",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "DeeLirious Theme",
+            "subtitle": "This theme is actually delirious",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/deelirious_icon.png",
+            "buttonTitle": "$3.00",
+            "targetUrl": "http://paypal.me/DeeOner",
+            "isDownload": false
+        },
         {
             "type": "Exclusive!",
             "title": "N4ughty",
