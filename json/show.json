@@ -1819,6 +1819,16 @@
     "shop": [
         {
             "type": "Icon Pack",
+            "title": "Symplo",
+            "subtitle": "Icon pack by @RippedThemer",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Symplo_icon.jpg",
+            "buttonTitle": "$3.00",
+            "targetUrl": "https://rippedthemer.gumroad.com/l/vVZCT?_gl=1*uqqg0h*_ga*MTg4NTYxMjg1LjE2MzU5MDQ4NDQ.*_ga_6LJN6D94N6*MTY0OTAyNjgzNS4zLjEuMTY0OTAyODk2Mi4w",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "Carbon Icons",
             "subtitle": "Icon pack by @Nyk0n_",
             "buttonSubtitle": "Gumroad",
