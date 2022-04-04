@@ -1819,6 +1819,66 @@
     "shop": [
         {
             "type": "Icon Pack",
+            "title": "Killa",
+            "subtitle": "Icon pack by @ThemesOnFire",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Killa_icon.jpg",
+            "buttonTitle": "$1.99",
+            "targetUrl": "https://t.co/pPMOdZtFls",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Arete",
+            "subtitle": "Icon pack by @ThemesOnFire",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Arete_icon.jpg",
+            "buttonTitle": "$1.99",
+            "targetUrl": "https://t.co/AORKIMXLKX",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Ineclectic",
+            "subtitle": "Icon pack by @ThemesOnFire",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Ineclectic_icon.jpg",
+            "buttonTitle": "$1.99",
+            "targetUrl": "https://t.co/kHKu61BUcv",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Taco Taco",
+            "subtitle": "Icon pack by @ThemesOnFire",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/TacoTaco_icon.jpg",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://t.co/3m9zSiVOmW",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Trippy",
+            "subtitle": "Icon pack by @ThemesOnFire",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Trippy_icon.jpg",
+            "buttonTitle": "$1.99",
+            "targetUrl": "https://t.co/zSpoW6GTSU",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Peach",
+            "subtitle": "Icon pack by @Th3_Wiz4rd",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Peach_icon.jpg",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://t.co/w9i1ed1gII",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "Symplo",
             "subtitle": "Icon pack by @RippedThemer",
             "buttonSubtitle": "Gumroad",
