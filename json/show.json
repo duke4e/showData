@@ -104,6 +104,66 @@
     ],
     "themes": [
         {
+            "title": "Zoomini34",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoomini34.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini34.zip",
+            "isDownload": true
+        },
+        {
+            "title": "ASMI40",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi40.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi40.zip",
+            "isDownload": true
+        },
+        {
+            "title": "ASMI42",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi42.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi42.zip",
+            "isDownload": true
+        },
+        {
+            "title": "ASMI43",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi43.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi43.zip",
+            "isDownload": true
+        },
+        {
+            "title": "ASMI44",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi44.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi44.zip",
+            "isDownload": true
+        },
+        {
+            "title": "ASMI45",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi45.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi45.zip",
+            "isDownload": true
+        },
+        {
             "title": "CurtSWA6",
             "subtitle": "A recreation by @UtdAll",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
@@ -194,7 +254,7 @@
             "isDownload": true
         },
         {
-            "title": "Zoopmini32",
+            "title": "Zoomini32",
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoomini32.jpg",
@@ -204,7 +264,7 @@
             "isDownload": true
         },
         {
-            "title": "Zoopmini33",
+            "title": "Zoomini33",
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoomini33.jpg",
@@ -224,7 +284,7 @@
             "isDownload": true
         }, 
         {
-            "title": "Zoopmini31",
+            "title": "Zoomini31",
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoopmini31_hs.jpg",
