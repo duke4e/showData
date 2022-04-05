@@ -104,6 +104,76 @@
     ],
     "themes": [
         {
+            "title": "JB156_ppickCH",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB156_ppickCH.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB156_ppickCH.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB158_rajjaryaa",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB158_rajjaryaa.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB158_rajjaryaa.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB159_daddykool",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JJB159_daddykool.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB159_daddykool.zip",
+            "isDownload": true
+        },
+        {
+            "title": "CurtSWA9",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA9.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/SWA9.zip",
+            "isDownload": true
+        },
+        {
+            "title": "ASMI46",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi46.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi46.zip",
+            "isDownload": true
+        },
+        {
+            "title": "ASMI43",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi43_2.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi43.zip",
+            "isDownload": true
+        },
+        {
+            "title": "ASMI44",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi44.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi44.zip",
+            "isDownload": true
+        },
+        {
             "title": "Zoomini34",
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
