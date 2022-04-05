@@ -104,6 +104,16 @@
     ],
     "themes": [
         {
+            "title": "SKWidgy",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SKWidgy.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/SKWidgy.zip",
+            "isDownload": true
+        },
+        {
             "title": "CurtSWA10",
             "subtitle": "A recreation by @UtdAll",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
