@@ -1928,6 +1928,36 @@
     ],
     "shop": [
         {
+            "type": "Simplest",
+            "title": "Odysseus Dark",
+            "subtitle": "Icon theme by @DaddyKool",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Simplest_icon.png",
+            "buttonTitle": "£3.50",
+            "targetUrl": "https://www.paypal.com/paypalme/daddykool666",
+            "isDownload": false
+        },
+        {
+            "type": "Dark Knight",
+            "title": "Odysseus Dark",
+            "subtitle": "Icon theme by @DaddyKool",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/DarkKnight_icon.png",
+            "buttonTitle": "£3.50",
+            "targetUrl": "https://www.paypal.com/paypalme/daddykool666",
+            "isDownload": false
+        },
+        {
+            "type": "Orsam",
+            "title": "Odysseus Dark",
+            "subtitle": "Icon theme by @DaddyKool",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Orsam_icon.png",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://www.paypal.com/paypalme/daddykool666",
+            "isDownload": false
+        },
+        {
             "type": "Icon Pack",
             "title": "Killa",
             "subtitle": "Icon pack by @ThemesOnFire",
