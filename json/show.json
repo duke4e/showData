@@ -23,14 +23,14 @@
             "isDownload": false
         },
         {
-            "type": "Icon Pack",
-            "title": "3listic",
-            "subtitle": "Super detailed icons",
+            "type": "Weather Icons",
+            "title": "SK Weather",
+            "subtitle": "Weather by @SeanKly",
             "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/3listicicon.jpg",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/SKWeather.jpg",
             "screenshotUrl": "",
-            "buttonTitle": "£1.00",
-            "targetUrl": "https://seankly.gumroad.com/l/uVRMq",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://app.gumroad.com/seankly",
             "isDownload": false
         },
         {
