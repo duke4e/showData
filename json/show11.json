@@ -2102,16 +2102,6 @@
             "isDownload": false
         },
         {
-            "type": "Exclusive!",
-            "title": "N4ughty",
-            "subtitle": "Only on #ShowApp @XaBdOooX",
-            "buttonSubtitle": "PayPal",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/N4ughty_icon.jpg",
-            "buttonTitle": "$3.50",
-            "targetUrl": "https://t.co/4QNpqEnPJs",
-            "isDownload": false
-        },
-        {
             "type": "Icon Pack",
             "title": "Flossy",
             "subtitle": "Icon theme by @SteveMeyer420",
@@ -2696,6 +2686,6 @@
         "themesImageHeight": 736,
         "freeItemsOnly": false,
         "newsText": "lorem ipsum dolor s2it amet",
-        "featuredAutoscrollSpeed": 8
+        "featuredAutoscrollSpeed": 6
     }
 }
