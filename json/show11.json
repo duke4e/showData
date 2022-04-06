@@ -2695,6 +2695,7 @@
         "themesImageWidth": 1190,
         "themesImageHeight": 736,
         "freeItemsOnly": false,
-        "newsText": "lorem ipsum dolor s2it amet"
+        "newsText": "lorem ipsum dolor s2it amet",
+        "featuredAutoscrollSpeed": 8
     }
 }
