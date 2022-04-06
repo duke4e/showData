@@ -104,6 +104,46 @@
     ],
     "themes": [
         {
+            "title": "Zoomini35",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoomini35.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini35.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB2_simonjap63",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB2_simonjap63.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB2_simonjap63.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB160_daddykool",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB160_daddykool.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB160_daddykool.zip",
+            "isDownload": true
+        },
+        {
+            "title": "CurtSWA11",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtSWA11.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtSWA11.zip",
+            "isDownload": true
+        },
+        {
             "title": "SKWidgy",
             "subtitle": "A recreation by @UtdAll",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
