@@ -1928,8 +1928,8 @@
     ],
     "shop": [
         {
-            "type": "Simplest",
-            "title": "Odysseus Dark",
+            "type": "Icon Pack",
+            "title": "Simplest",
             "subtitle": "Icon theme by @DaddyKool",
             "buttonSubtitle": "PayPal",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Simplest_icon.png",
@@ -1938,8 +1938,8 @@
             "isDownload": false
         },
         {
-            "type": "Dark Knight",
-            "title": "Odysseus Dark",
+            "type": "Icon Pack",
+            "title": "Dark Knight",
             "subtitle": "Icon theme by @DaddyKool",
             "buttonSubtitle": "PayPal",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/DarkKnight_icon.png",
@@ -1948,8 +1948,8 @@
             "isDownload": false
         },
         {
-            "type": "Orsam",
-            "title": "Odysseus Dark",
+            "type": "Icon Pack",
+            "title": "Orsam",
             "subtitle": "Icon theme by @DaddyKool",
             "buttonSubtitle": "PayPal",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Orsam_icon.png",
