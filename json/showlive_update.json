@@ -1,7 +1,10 @@
 {
     "update": {
-        "version": "1.912",
-        "downloadlink": "https://www.icloud.com/shortcuts/b2a0659704f44d65ac65da094d59cb62",
-        "updatenotes": "Enabled option for second encoded weather icon pack"
+        "SL_version": "1.912",
+        "SL_downloadlink": "https://www.icloud.com/shortcuts/b2a0659704f44d65ac65da094d59cb62",
+        "SL_updatenotes": "Enabled option for second encoded weather icon pack",
+        "SH_version": "1.10",
+        "SH_downloadlink": "https://www.icloud.com/shortcuts/b2a0659704f44d65ac65da094d59cb62",
+        "SH_updatenotes": "Added encoder functions / Added removal of base64 objects from the json"
     }
 }
