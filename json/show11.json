@@ -160,6 +160,56 @@
     ],
     "themes": [
         {
+            "title": "JB90_rajjaryaa",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB90_rajjaryaa.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB90_rajjaryaa.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB150_FAlhmma",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB150_FAlhmma.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB150_FAlhmma.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB161_SeanKly",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB161_SeanKly",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB161_SeanKly",
+            "isDownload": true
+        },
+        {
+            "title": "IDMRemake",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/IDMRemake.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/IDMRemake.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoomini36",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoomini36.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini36.zip",
+            "isDownload": true
+        },
+        {
             "title": "Zoomini35",
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
