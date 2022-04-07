@@ -10,50 +10,61 @@
             "buttonTitle": "$5.00",
             "targetUrl": "https://t.co/FuLTQ4NmRe",
             "blurIsDark": false,
-            "headerHexColor": "ff0000",
+            "headerHexColor": "ffffff",
             "headerTitle": "Featured"
         },
         {
             "type": "Icon Pack",
-            "title": "Flossy",
+            "title": "S1MPL3",
             "subtitle": "Icon theme by @SteveMeyer420",
             "buttonSubtitle": "PayPal",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/Flossy_icon.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB112.jpg",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Steve.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/S1MPL3_homeHeader.jpg",
             "buttonTitle": "$3.50",
             "targetUrl": "https://PayPal.me/Meyer760",
             "blurIsDark": true,
-            "headerHexColor": "00ff00",
-            "headerTitle": "Exclusive"
+            "headerHexColor": "242424",
+            "headerTitle": "Featured"
         },
         {
             "type": "Weather Icons",
             "title": "SK Weather",
             "subtitle": "Weather by @SeanKly",
             "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/SKWeather.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB130.jpg",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SKweather_headerImage.jpg",
             "buttonTitle": "FREE",
             "targetUrl": "https://app.gumroad.com/seankly",
             "blurIsDark": false,
-            "headerHexColor": "0000ff",
-            "headerTitle": "Wow"
+            "headerHexColor": "242424",
+            "headerTitle": "Exclusive"
         },
         {
             "type": "Icon Pack",
-            "title": "Chewies",
-            "subtitle": "Brighten up your day!",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/chewiesicon.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB84.jpg",
-            "buttonTitle": "£1.00",
-            "targetUrl": "https://seankly.gumroad.com/l/eBZgY",
+            "title": "Odysseus Dark",
+            "subtitle": "Icons by @DaddyKool",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Gary.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/OdysseusDark.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://www.paypal.com/paypalme/daddykool666",
             "blurIsDark": true,
-            "headerHexColor": "ff00ff",
-            "headerTitle": "Coool"
+            "headerHexColor": "ffffff",
+            "headerTitle": "Featured"
         }
     ],
     "home": [
+        {
+            "type": "Icon Pack",
+            "title": "Muffin Dark",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_muffin_dark_icon.jpg",
+            "screenshotUrl": "",
+            "buttonTitle": "$3.49",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffindark",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "Kobu Z",
@@ -77,17 +88,6 @@
             "isDownload": false
         },
         {
-            "type": "Weather Icons",
-            "title": "SK Weather",
-            "subtitle": "Weather by @SeanKly",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/SKWeather.jpg",
-            "screenshotUrl": "",
-            "buttonTitle": "FREE",
-            "targetUrl": "https://app.gumroad.com/seankly",
-            "isDownload": false
-        },
-        {
             "type": "Icon Pack",
             "title": "Chewies",
             "subtitle": "Brighten up your day!",
@@ -96,17 +96,6 @@
             "screenshotUrl": "",
             "buttonTitle": "£1.00",
             "targetUrl": "https://seankly.gumroad.com/l/eBZgY",
-            "isDownload": false
-        },
-         {
-            "type": "Icon Pack",
-            "title": "Muffin Dark",
-            "subtitle": "Crafted icons by @ounidesigns",
-            "buttonSubtitle": "Geometric Store",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_muffin_dark_icon.jpg",
-            "screenshotUrl": "",
-            "buttonTitle": "$3.49",
-            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffindark",
             "isDownload": false
         }
     ],
@@ -376,7 +365,7 @@
             "tag2Text": "",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB151_daddykool.zip",
             "isDownload": true
-        }, 
+        },
         {
             "title": "JB152_FAlhmma",
             "subtitle": "Live Laugh Love @jennysblessed",
@@ -446,7 +435,7 @@
             "tag2Text": "",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB148_Jkauf55.zip",
             "isDownload": true
-        }, 
+        },
         {
             "title": "Zoomini31",
             "subtitle": "A theme by @Zooropalg",
@@ -466,7 +455,7 @@
             "tag2Text": "",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB146_hs.zip",
             "isDownload": true
-        }, 
+        },
         {
             "title": "CurtSWA4",
             "subtitle": "A recreation by @UtdAll",
