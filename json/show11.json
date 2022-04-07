@@ -23,7 +23,7 @@
             "buttonTitle": "$3.50",
             "targetUrl": "https://PayPal.me/Meyer760",
             "blurIsDark": true,
-            "headerHexColor": "242424",
+            "headerHexColor": "000000",
             "headerTitle": "Featured"
         },
         {
@@ -36,7 +36,7 @@
             "buttonTitle": "FREE",
             "targetUrl": "https://app.gumroad.com/seankly",
             "blurIsDark": false,
-            "headerHexColor": "242424",
+            "headerHexColor": "878787",
             "headerTitle": "Exclusive"
         },
         {
@@ -49,7 +49,7 @@
             "buttonTitle": "£3.00",
             "targetUrl": "https://www.paypal.com/paypalme/daddykool666",
             "blurIsDark": true,
-            "headerHexColor": "ffffff",
+            "headerHexColor": "000000",
             "headerTitle": "Featured"
         }
     ],
