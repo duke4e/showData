@@ -104,6 +104,46 @@
     ],
     "themes": [
         {
+            "title": "ASMI47",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi47.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi47.zip",
+            "isDownload": true
+        },
+        {
+            "title": "ASMI48",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi86.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi48.zip",
+            "isDownload": true
+        },
+        {
+            "title": "ASMI49",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi49.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi49.zip",
+            "isDownload": true
+        },
+        {
+            "title": "ASMI49 Dark",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi49Dark.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi49Dark.zip",
+            "isDownload": true
+        },
+        {
             "title": "JB90_rajjaryaa",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
