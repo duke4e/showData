@@ -130,7 +130,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/SLApp_Helper.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/adcf33ef98cf41c5bd161d544ffa6f39",
+            "targetUrl": "https://www.icloud.com/shortcuts/088daa1d05cb48d688df9a66fb0ff73d",
             "isDownload": false
         },
         {
@@ -2685,7 +2685,7 @@
         "themesImageWidth": 1190,
         "themesImageHeight": 736,
         "freeItemsOnly": false,
-        "newsText": "lorem ipsum dolor s2it amet",
-        "featuredAutoscrollSpeed": 6
+        "newsText": "The Showlive Helper shortcut has been updated to include the ability to remove encoded objects from the json, to encode to base64 and also change username without a text editor.",
+        "featuredAutoscrollSpeed": 5
     }
 }
