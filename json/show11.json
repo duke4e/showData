@@ -51,6 +51,19 @@
             "blurIsDark": true,
             "headerHexColor": "000000",
             "headerTitle": "Featured"
+        },
+        {
+            "type": "Icon Pack",
+            "title": "BlackMond Rose",
+            "subtitle": "Icons by @seperior_82",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/seperior_82.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/home_Featured_seperior_82.jpg",
+            "buttonTitle": "€4.50",
+            "targetUrl": "https://seperior82.gumroad.com/l/jkqtk",
+            "blurIsDark": false,
+            "headerHexColor": "000000",
+            "headerTitle": "Featured"
         }
     ],
     "home": [
