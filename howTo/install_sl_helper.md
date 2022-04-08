@@ -1,8 +1,8 @@
 ![enter image description here](https://github.com/duke4e/showData/raw/main/howTo/images/page1/page1_ss.png)
 
-## SHOWLIVE HELPER AND INSTALL A THEME
+### SHOWLIVE HELPER AND INSTALL A THEME
 
-Navigate to the ShowApp and find the section that says **“Shortcuts”** Tap the **“GET”** button next to ShowLive Helper. 
+Navigate to the ShowApp and find the section that says **“Shortcuts”**. Tap the **“GET”** button next to ShowLive Helper. 
 
 A new window will open and confirm you want to download the shortcut. Tap on the **“Get Shortcut”** button.
 
@@ -14,7 +14,7 @@ The ShowLive Helper shortcut primarily is actioned from the share sheet. When yo
 
 Select **”ShowLive Helper”** from the list on the share sheet. 
 
-> *Note I recommend editing the share sheet and moving ShowLive Helper into the favourites section at the very top of the list.*
+> *Note: I recommend editing the share sheet and moving ShowLive Helper into the favourites section at the very top of the list.*
 
 You will be prompted for permission during the first run. You must choose **“Always Allow”** for the shortcut to function properly.
 
@@ -33,6 +33,8 @@ During the first run of ShowLive you will be prompted via a notification to Allo
 > *Note: If there is no theme wallpaper installed you will promoted to choose one from your photo library.*
 
 Choose an image you want to set as your wallpaper and ShowLive will copy that image to the ShowLive folder.
+
+> *Note: The first run of ShowLive can take longer than usual. Be patient even if you think nothing is happening, ShowLive is still running*
 
 Selecting **Exit** will quit the ShowLive Helper shortcut. Your downloaded theme is still installed into the ShowLive folder for application later. 
 

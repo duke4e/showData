@@ -1,6 +1,6 @@
 ![enter image description here](https://github.com/duke4e/showData/raw/main/howTo/images/page1/page1_ss.png)
 
-## CHANGE A SHOWLIVE THEME
+### CHANGE A SHOWLIVE THEME
 
 Make sure you have both the ShowLive and ShowLive Helper shortcuts installed first!
 
@@ -10,7 +10,7 @@ Navigate to the **“Themes”** section and browse  for a theme you’d like to
 > 
 > *Identified by **Home** or **Lock***
 
-Follow the process for installing the theme as described in the **“ShowLive Helper”.** 
+Follow the process for installing the theme as described in the **“ShowLive Helper”** tutorial. 
 
 The ShowLive Helper Shortcut will overwrite your currently installed theme and prompt you to **“Run ShowLive”** or **“Exit”**
 

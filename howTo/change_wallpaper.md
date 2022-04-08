@@ -1,6 +1,6 @@
 ![enter image description here](https://github.com/duke4e/showData/raw/main/howTo/images/page1/page1_ss.png)
 
-## CHANGE A SHOWLIVE WALLPAPER 
+### CHANGE A SHOWLIVE WALLPAPER 
 
 Navigate to your Shortcuts app and tap to open **”ShowLive Helper”** shortcut. 
 

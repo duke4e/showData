@@ -1,6 +1,6 @@
 ![enter image description here](https://github.com/duke4e/showData/raw/main/howTo/images/page1/page1_ss.png)
 
-## SHOWLIVE HELPER -ADDITIONAL FUNCTIONS 
+### SHOWLIVE HELPER -ADDITIONAL FUNCTIONS 
 
 The ShowLive Installer is a universal shortcut that can perform a number of tasks. Primarily used to manage ShowLive themes it can also manage them files and wallpaper installation and deletion.
 
