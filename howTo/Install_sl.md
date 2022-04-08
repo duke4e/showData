@@ -2,7 +2,7 @@
 
 ### INSTALL SHOWLIVE SHORTCUT
 
-Navigate to the ShowApp and find the section labelled “Shortcuts” Tap the **“GET”** button next to ShowLive. 
+Navigate to the ShowApp and find the section labelled **“Shortcuts”** Tap the **“GET”** button next to ShowLive. 
 
 A new window will open and confirm you want to download the shortcut. Tap on the **“Get Shortcut”** button.
 

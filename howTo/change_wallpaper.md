@@ -14,7 +14,7 @@ You may receive a prompt asking for permission, select **“Always Allow”**. T
 
 That’s it! The wallpaper is now transferred, named and ready to be applied by running ShowLive.
 
-> Be sure to check out the other features of the ShowLive helper shortcut in our other tutorials.
+> *Be sure to check out the other features of the ShowLive helper shortcut in our other tutorials.*
 
 ---
 
