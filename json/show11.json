@@ -1919,7 +1919,7 @@
             "buttonSubtitle": "Tutorial",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader2.jpg",
             "buttonTitle": "GO",
-            "targetUrl": "https://express.adobe.com/page/h753gfm2b5Zby/",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/howTo/Install_sl.md",
             "isDownload": false
         },
         {
@@ -1929,7 +1929,7 @@
             "buttonSubtitle": "Tutorial",
             "screenshotUrl": "",
             "buttonTitle": "GO",
-            "targetUrl": "https://express.adobe.com/page/Vl1HoAUWkDVev/",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/howTo/install_sl_helper.md",
             "isDownload": false
         },
         {
@@ -1939,7 +1939,7 @@
             "buttonSubtitle": "Tutorial",
             "screenshotUrl": "",
             "buttonTitle": "GO",
-            "targetUrl": "https://express.adobe.com/page/4olDGvEcrjxVs/",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/howTo/change_theme.md",
             "isDownload": false
         },
         {
@@ -1949,7 +1949,7 @@
             "buttonSubtitle": "Tutorial",
             "screenshotUrl": "",
             "buttonTitle": "GO",
-            "targetUrl": "https://express.adobe.com/page/irNm7qh9bqHmQ/",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/howTo/change_wallpaper.md",
             "isDownload": false
         },
         {
@@ -1959,7 +1959,7 @@
             "buttonSubtitle": "Tutorial",
             "screenshotUrl": "",
             "buttonTitle": "GO",
-            "targetUrl": "https://express.adobe.com/page/cNceyMUfMRlUx/",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/howTo/helper_functions.md",
             "isDownload": false
         }
     ],
