@@ -40,5 +40,10 @@ Selecting **Exit** will quit the ShowLive Helper shortcut. Your downloaded theme
 
 That’s all there is to it! You have successfully installed the ShowLive Helper.
 
+---
+
 If you experience difficulty with any of the tutorials then please visit our Show Discord server for further support [Show Discord](https://discord.gg/ab5H95YYXd).
+
+
+
 

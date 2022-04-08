@@ -16,4 +16,10 @@ The ShowLive Helper Shortcut will overwrite your currently installed theme and p
 
 That’s it you have successfully changed themes!
 
+---
+
 If you experience difficulty with any of the tutorials then please visit our Show Discord server for further support [Show Discord](https://discord.gg/ab5H95YYXd).
+
+
+
+

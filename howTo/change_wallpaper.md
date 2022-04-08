@@ -16,4 +16,10 @@ That’s it! The wallpaper is now transferred, named and ready to be applied by 
 
 > Be sure to check out the other features of the ShowLive helper shortcut in our other tutorials.
 
+---
+
 If you experience difficulty with any of the tutorials then please visit our Show Discord server for further support [Show Discord](https://discord.gg/ab5H95YYXd).
+
+
+
+

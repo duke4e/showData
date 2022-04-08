@@ -20,4 +20,10 @@ Tap on the action you want to perform and the corresponding theme file will firs
 
 That’s it, you have successfully deleted a theme file!
 
+---
+
 If you experience difficulty with any of the tutorials then please visit our Show Discord server for further support [Show Discord](https://discord.gg/ab5H95YYXd).
+
+
+
+

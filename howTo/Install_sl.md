@@ -22,6 +22,10 @@ That’s it, ShowLive is now installed and ready to install themes!
 
 Now it’s time to install the SL App Helper.
 
+---
+
 If you experience difficulty with any of the tutorials then please visit our Show Discord server for further support [Show Discord](https://discord.gg/ab5H95YYXd).
+
+
 
 
