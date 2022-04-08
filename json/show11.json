@@ -1,7 +1,116 @@
 {
     "featured": [
+        {
+            "type": "Icon Pack",
+            "title": "Kobu Z",
+            "subtitle": "Use code SHOWCUTS for 15% off",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/KobuZ_icon.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/sedelesbiano_home_Featured1.jpg",
+            "buttonTitle": "$5.00",
+            "targetUrl": "https://t.co/FuLTQ4NmRe",
+            "blurIsDark": false,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Featured"
+        },
+        {
+            "type": "Icon Pack",
+            "title": "S1MPL3",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Steve.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/S1MPL3_homeHeader.jpg",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
+            "blurIsDark": true,
+            "headerHexColor": "000000",
+            "headerTitle": "Featured"
+        },
+        {
+            "type": "Weather Icons",
+            "title": "SK Weather",
+            "subtitle": "Weather by @SeanKly",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SKweather_headerImage.jpg",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://app.gumroad.com/seankly",
+            "blurIsDark": false,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Exclusive"
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Odysseus Dark",
+            "subtitle": "Icons by @DaddyKool",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Gary.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/OdysseusDark.jpg",
+            "buttonTitle": "£3.00",
+            "targetUrl": "https://www.paypal.com/paypalme/daddykool666",
+            "blurIsDark": true,
+            "headerHexColor": "000000",
+            "headerTitle": "Featured"
+        },
+        {
+            "type": "Icon Pack",
+            "title": "BlackMond Rose",
+            "subtitle": "Icons by @seperior_82",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/seperior_82.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/home_Featured_seperior_82.jpg",
+            "buttonTitle": "€4.50",
+            "targetUrl": "https://seperior82.gumroad.com/l/jkqtk",
+            "blurIsDark": false,
+            "headerHexColor": "000000",
+            "headerTitle": "Featured"
+        }
     ],
     "home": [
+        {
+            "type": "Icon Pack",
+            "title": "Muffin Dark",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric Store",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_muffin_dark_icon.jpg",
+            "screenshotUrl": "",
+            "buttonTitle": "$3.49",
+            "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffindark",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Kobu Z",
+            "subtitle": "Use code SHOWCUTS for 15% off",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/KobuZ_icon.jpg",
+            "screenshotUrl": "",
+            "buttonTitle": "$5.00",
+            "targetUrl": "https://t.co/FuLTQ4NmRe",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Flossy",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/Flossy_icon.png",
+            "screenshotUrl": "",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Chewies",
+            "subtitle": "Brighten up your day!",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/chewiesicon.jpg",
+            "screenshotUrl": "",
+            "buttonTitle": "£1.00",
+            "targetUrl": "https://seankly.gumroad.com/l/eBZgY",
+            "isDownload": false
+        }
     ],
     "shortcuts": [
         {
@@ -2063,8 +2172,7 @@
             "isDownload": false
         }
     ],
-    "shop": [
-    ],
+    "shop": [],
     "metadata": {
         "shopMessage": "**Vibrant and Colourful** or Muted and Dark? Choose from a variety of amazing icon designs by the best creators out there! There is something available for everyone.\n\n**Note:** When purchasing via PayPal leave the name of the theme you wish to purchase in the notes. ShowLive doesn't theme icons. You will need to use Shortcuts app to do that.",
         "shortcutsMessage": "**Explore** the Show shortcuts below. ShowLive & ShowLive Helper shortcuts are required to install themes with this app. Install and setup ShowLive first before downloading themes.\n\nShorcut versions are for **iOS 15.1 and higher**. See our Discord server for other versions.",
