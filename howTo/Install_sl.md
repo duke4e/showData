@@ -1,6 +1,6 @@
 ![enter image description here](https://github.com/duke4e/showData/raw/main/howTo/images/page1/page1_ss.png)
 
-# INSTALL SHOWLIVE SHORTCUT
+## INSTALL SHOWLIVE SHORTCUT
 
 Navigate to the ShowApp and find the section labelled “Shortcuts” Tap the **“GET”** button next to ShowLive. A new window will open and confirm you want to download the shortcut. Tap on the **“Get Shortcut”** button.
 ShowLive will now download and install to your “All Shortcuts” section in the Shortcuts App. 

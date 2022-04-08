@@ -1,6 +1,6 @@
 ![enter image description here](https://github.com/duke4e/showData/raw/main/howTo/images/page1/page1_ss.png)
 
-# CHANGE A SHOWLIVE THEME
+## CHANGE A SHOWLIVE THEME
 
 Make sure you have both the ShowLive and ShowLive Helper shortcuts installed first!
 

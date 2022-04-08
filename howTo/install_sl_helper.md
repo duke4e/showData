@@ -1,6 +1,6 @@
 ![enter image description here](https://github.com/duke4e/showData/raw/main/howTo/images/page1/page1_ss.png)
 
-# SHOWLIVE HELPER AND INSTALL A THEME
+## SHOWLIVE HELPER AND INSTALL A THEME
 
 Navigate to the ShowApp and find the section that says **“Shortcuts”** Tap the **“GET”** button next to ShowLive Helper. 
 
