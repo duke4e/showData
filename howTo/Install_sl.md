@@ -1,4 +1,4 @@
-![Install ShowLive](https://github.com/duke4e/showData/raw/main/howTo/images/howTo/howtoHeader.png)
+![Install ShowLive](https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader.png)
 
 ### INSTALL SHOWLIVE SHORTCUT
 

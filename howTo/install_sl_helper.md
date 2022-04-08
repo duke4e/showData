@@ -1,4 +1,4 @@
-![ShowLive Helper](https://github.com/duke4e/showData/raw/main/howTo/images/howTo/howtoHeader.png)
+![ShowLive Helper](https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader.png)
 
 ### SHOWLIVE HELPER AND INSTALL A THEME
 
