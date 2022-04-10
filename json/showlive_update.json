@@ -2,7 +2,7 @@
     "update": {
         "SL_version": "1.915",
         "SL_downloadlink": "https://www.icloud.com/shortcuts/4b00291226ec47198f29af328986e2f7",
-        "SL_updatenotes": "Added [country] action to "City". Use it in pre and post label",
+        "SL_updatenotes": "Added [country] action to City. Use it in pre and post label",
         "SH_version": "1.11",
         "SH_downloadlink": "https://www.icloud.com/shortcuts/9d905a70168149d29156e61728a25bfd",
         "SH_updatenotes": "Added ability to download a master json file which includes all objects"
