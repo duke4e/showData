@@ -19,12 +19,12 @@
             "subtitle": "Use code SHOWCUTS for 15% off",
             "buttonSubtitle": "Gumroad",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/KobuZ_icon.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/sedelesbiano_home_Featured1.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/kobuZ_feature2.jpg",
             "buttonTitle": "$5.00",
             "targetUrl": "https://t.co/FuLTQ4NmRe",
             "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Featured"
+            "headerHexColor": "26262e",
+            "headerTitle": "Updated"
         },
         {
             "type": "Weather Icons",
@@ -159,6 +159,36 @@
         }
     ],
     "themes": [
+        {
+            "title": "JB163_asdlordesigns",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB163_asdlordesigns.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB163_asdlordesigns.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB164_21MaRc012",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB164_21MaRc012.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB164_21MaRc012.zip",
+            "isDownload": true
+        },
+        {
+            "title": "SWA24mod",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA24mod.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/SWA24mod.zip",
+            "isDownload": true
+        },
         {
             "title": "CurtSWA18",
             "subtitle": "A recreation by @UtdAll",
