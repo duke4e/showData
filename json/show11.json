@@ -2345,6 +2345,16 @@
     "shop": [
         {
             "type": "Icon Pack",
+            "title": "Pink Candiese",
+            "subtitle": "Icon Pack by @suitcaselabs",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/PinkCandies.png",
+            "buttonTitle": "$4.00",
+            "targetUrl": "https://suitcaselabs.gumroad.com/l/pinkcandies",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "Vintage",
             "subtitle": "Discount code: L3SLY3 (%25)",
             "buttonSubtitle": "Ko-fi",
