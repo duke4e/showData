@@ -69,6 +69,17 @@
     "home": [
         {
             "type": "Icon Pack",
+            "title": "iOnyx",
+            "subtitle": "Code: ionyx50 for 50% off!",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iOnyx_icon.png",
+            "screenshotUrl": "",
+            "buttonTitle": "$4.89",
+            "targetUrl": "https://mylovejewel.gumroad.com/l/ionyx",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "Muffin",
             "subtitle": "Crafted icons by @ounidesigns",
             "buttonSubtitle": "Geometric Store",
@@ -87,17 +98,6 @@
             "screenshotUrl": "",
             "buttonTitle": "£1.00",
             "targetUrl": "https://seankly.gumroad.com/l/GDDjL",
-            "isDownload": false
-        },
-        {
-            "type": "Icon Pack",
-            "title": "Cod3Blu3",
-            "subtitle": "Icon theme by @SteveMeyer420",
-            "buttonSubtitle": "PayPal",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Cod3Blu3_icon.png",
-            "screenshotUrl": "",
-            "buttonTitle": "$3.50",
-            "targetUrl": "https://PayPal.me/Meyer760",
             "isDownload": false
         },
         {
