@@ -1,10 +1,10 @@
 {
     "update": {
-        "SL_version": "1.915",
-        "SL_downloadlink": "https://www.icloud.com/shortcuts/4b00291226ec47198f29af328986e2f7",
-        "SL_updatenotes": "Added [country] action to City. Use it in pre and post label",
-        "SH_version": "1.11",
-        "SH_downloadlink": "https://www.icloud.com/shortcuts/9d905a70168149d29156e61728a25bfd",
-        "SH_updatenotes": "Added ability to download a master json file which includes all objects"
+        "SL_version": "1.916",
+        "SL_downloadlink": "https://www.icloud.com/shortcuts/2275ba68504c4ac69666cf505fbdbb34",
+        "SL_updatenotes": "Added actions to enable the helper shortcut to change the wallpaper without running ShowLive again.",
+        "SH_version": "1.12",
+        "SH_downloadlink": "https://www.icloud.com/shortcuts/e581b1e1264b42c787c9205b340488a0",
+        "SH_updatenotes": "Added function to the menu to change the wallpaper without running ShowLive"
     }
 }
