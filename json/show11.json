@@ -160,6 +160,116 @@
     ],
     "themes": [
         {
+            "title": "EliseCat",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseCat_hs.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseCat_hs.zip",
+            "isDownload": true
+        },
+        {
+            "title": "EliseCity",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseCity_ls.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseCity_ls.zip",
+            "isDownload": true
+        },
+        {
+            "title": "EliseCountryside",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseCountryside_hs.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseCountryside_hs.zip",
+            "isDownload": true
+        },
+        {
+            "title": "EliseDroplets",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseDroplets_ls.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseDroplets_ls.zip",
+            "isDownload": true
+        },
+        {
+            "title": "EliseEglantine",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseEglantine_ls.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseEglantine_ls.zip",
+            "isDownload": true
+        },
+        {
+            "title": "EliseEvergreen",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseEvergreen_hs.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseEvergreen_hs.zip",
+            "isDownload": true
+        },
+        {
+            "title": "EliseFlowers",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseFlowers_hs.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseFlowers_hs.zip",
+            "isDownload": true
+        },
+        {
+            "title": "EliseFluo",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseFluo_hs.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseFluo_hs.zip",
+            "isDownload": true
+        },
+        {
+            "title": "EliseForest",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseForest_ls.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseForest_ls.zip",
+            "isDownload": true
+        },
+        {
+            "title": "CurtSWA29",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA29.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/SWA29.zip",
+            "isDownload": true
+        },
+        {
+            "title": "CurtSWA28",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA28.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/SWA28.zip",
+            "isDownload": true
+        },
+        {
             "title": "JB169",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
