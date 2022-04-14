@@ -116,7 +116,7 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive",
-            "subtitle": "ShowLive for iOS 15.1+",
+            "subtitle": "ShowLive v1.917",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcuts_Header7.png",
@@ -127,7 +127,7 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive Helper",
-            "subtitle": "Companion Shortcut",
+            "subtitle": "Companion Shortcut v1.12",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/SLApp_Helper.png",
             "screenshotUrl": "",
