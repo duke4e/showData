@@ -7,9 +7,13 @@ Updating the information on your theme requires the ShowLive shortcut to be run 
 - Manually run the ShowLive shortcut
 - Shortcut Automations
 
+Personal Automations allows the ShowLive shortcut to be run in the background without any intervention by the user.
+
 > Creating personal automations requires some set up in the Shortcuts App.
 
-There are various ways available to trigger personal automations, the most common practice is to use the **time of day**. EG, every hour from 6am to 8pm or at Sunset and Sunrise or even a combination of both. You can also use **location triggers** to run ShowLive so that when you arrive or leave a certain location ShowLive shortcut will run and update your theme. 
+There are various ways available to trigger personal automations, the most common practice is to use the **time of day**. 
+
+EG, every hour from 6am to 8pm or at Sunset and Sunrise or even a combination of both. You can also use **location triggers** to run ShowLive so that when you arrive or leave a certain location ShowLive shortcut will run and update your theme. 
 
 > Apple has a page dedicated to creating personal automations: [Create a new personal automation in Shortcuts on iPhone or iPad](https://support.apple.com/en-gb/guide/shortcuts/apdfbdbd7123/ios)
 
