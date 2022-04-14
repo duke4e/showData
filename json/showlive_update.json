@@ -1,8 +1,8 @@
 {
     "update": {
-        "SL_version": "1.916",
-        "SL_downloadlink": "https://www.icloud.com/shortcuts/2275ba68504c4ac69666cf505fbdbb34",
-        "SL_updatenotes": "Added actions to enable the helper shortcut to change the wallpaper without running ShowLive again.",
+        "SL_version": "1.917",
+        "SL_downloadlink": "https://www.icloud.com/shortcuts/308124f70e8346438c883bebc3efe8f4",
+        "SL_updatenotes": "Fixed a bug in condition+2 action",
         "SH_version": "1.12",
         "SH_downloadlink": "https://www.icloud.com/shortcuts/e581b1e1264b42c787c9205b340488a0",
         "SH_updatenotes": "Added function to the menu to change the wallpaper without running ShowLive"
