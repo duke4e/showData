@@ -2533,6 +2533,16 @@
         },
         {
             "type": "HOW TO",
+            "title": "Create Personal Automations",
+            "subtitle": "Update theme infomation",
+            "buttonSubtitle": "Tutorial",
+            "screenshotUrl": "",
+            "buttonTitle": "GO",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/howTo/shortcut_automations.md",
+            "isDownload": false
+        },
+        {
+            "type": "HOW TO",
             "title": "Helper Features & Advanced",
             "subtitle": "Learn the additional features",
             "buttonSubtitle": "Tutorial",
