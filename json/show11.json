@@ -2546,8 +2546,18 @@
     "howTo": [
         {
             "type": "HOW TO",
-            "title": "Install ShowLive",
+            "title": "Read Me First",
             "subtitle": "The first thing you need to do",
+            "buttonSubtitle": "Tutorial",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader3.jpg",
+            "buttonTitle": "GO",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/howTo/read_first.md",
+            "isDownload": false
+        },
+        {
+            "type": "HOW TO",
+            "title": "Install ShowLive",
+            "subtitle": "The second thing you need to do",
             "buttonSubtitle": "Tutorial",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader3.jpg",
             "buttonTitle": "GO",
