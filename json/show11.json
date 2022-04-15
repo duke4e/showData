@@ -1,6 +1,19 @@
 {
     "featured": [
         {
+            "type": "Icon Pack",
+            "title": "iOnyx",
+            "subtitle": "Code: ionyx50 for 50% off!",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iOnyx_icon.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SLWeatherCard.jpg",
+            "buttonTitle": "$4.89",
+            "targetUrl": "https://mylovejewel.gumroad.com/l/ionyx",
+            "blurIsDark": false,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Featured"
+        },
+        {
             "type": "Weather Icons",
             "title": "SL Cards",
             "subtitle": "Weather Cards by @SeanKly",
@@ -69,13 +82,13 @@
     "home": [
         {
             "type": "Icon Pack",
-            "title": "iOnyx",
-            "subtitle": "Code: ionyx50 for 50% off!",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iOnyx_icon.png",
+            "title": "J3nny",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Gumroad Purchase",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/jenny_icon.jpg",
             "screenshotUrl": "",
-            "buttonTitle": "$4.89",
-            "targetUrl": "https://mylovejewel.gumroad.com/l/ionyx",
+            "buttonTitle": "£1.00",
+            "targetUrl": "https://seankly.gumroad.com/l/ZtHLo",
             "isDownload": false
         },
         {
@@ -91,24 +104,24 @@
         },
         {
             "type": "Icon Pack",
-            "title": "Whit3",
-            "subtitle": "Icon theme by @SeanKly",
+            "title": "Circuit Icon Theme",
+            "subtitle": "Icon theme by @MyLoveJewels",
             "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/whit3_icon.jpg",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/CircuitTheme_icon.jpg",
             "screenshotUrl": "",
-            "buttonTitle": "£1.00",
-            "targetUrl": "https://seankly.gumroad.com/l/GDDjL",
+            "buttonTitle": "$4.89",
+            "targetUrl": "https://mylovejewel.gumroad.com/l/c1rcuit",
             "isDownload": false
         },
         {
             "type": "Icon Pack",
-            "title": "Chewies",
-            "subtitle": "Brighten up your day!",
+            "title": "Skittles Blk",
+            "subtitle": "Black for those that like the dark side",
             "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/chewiesicon.jpg",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Skittles_Black_icon.jpg",
             "screenshotUrl": "",
-            "buttonTitle": "£1.00",
-            "targetUrl": "https://seankly.gumroad.com/l/eBZgY",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://boots7210.gumroad.com/l/rdxxy",
             "isDownload": false
         }
     ],
@@ -159,6 +172,26 @@
         }
     ],
     "themes": [
+        {
+            "title": "JB70",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB70.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB70.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB81",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB81.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB81.zip",
+            "isDownload": true
+        },
         {
             "title": "JB173_SK",
             "subtitle": "Live Laugh Love @jennysblessed",
