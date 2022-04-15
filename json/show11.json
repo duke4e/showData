@@ -1,6 +1,19 @@
 {
     "featured": [
         {
+            "type": "Weather Icons",
+            "title": "SL Cards",
+            "subtitle": "Weather Cards by @SeanKly",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SLWeatherCard.jpg",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://seankly.gumroad.com/l/mvisa",
+            "blurIsDark": false,
+            "headerHexColor": "000000",
+            "headerTitle": "Featured"
+        },
+        {
             "type": "Icon Pack",
             "title": "Vintage",
             "subtitle": "Discount code: L3SLY3 (25%)",
@@ -25,19 +38,6 @@
             "blurIsDark": false,
             "headerHexColor": "26262e",
             "headerTitle": "Updated"
-        },
-        {
-            "type": "Weather Icons",
-            "title": "SK Weather",
-            "subtitle": "Weather by @SeanKly",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SKweather_headerImage.jpg",
-            "buttonTitle": "FREE",
-            "targetUrl": "https://app.gumroad.com/seankly",
-            "blurIsDark": false,
-            "headerHexColor": "485C62",
-            "headerTitle": "Exclusive"
         },
         {
             "type": "Icon Pack",
