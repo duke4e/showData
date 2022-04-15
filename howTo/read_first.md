@@ -1,4 +1,4 @@
-# WHATS THIS APP AND SHORTCUTS ALL ABOUT?
+### WHATS THIS APP AND SHORTCUTS ALL ABOUT?
 
 Apple doesn’t allow theming your iOS device natively. This app along with the ShowLive shortcuts help by allowing you to set “themes” on your Home and Lock screens. 
 
@@ -18,9 +18,14 @@ The ShowLive Helper shortcut is the “bridge” between the app and the ShowLiv
 
 Now you have a basic understanding on how a theme is installed it’s time to do download the shortcuts, find a theme you like and install it with the ShowLive Helper shortcut! 
 
-—-
+—
 
 If you experience difficulty with any of the tutorials then please visit our Show Discord server for further support [Show Discord](https://discord.gg/ab5H95YYXd).
+
+
+
+
+
 
 
 
