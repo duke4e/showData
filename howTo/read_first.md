@@ -6,9 +6,7 @@ Apple doesn’t allow theming your iOS device natively. This app along with the 
 
 The themes contain **static information** like weather condition, battery level, moon phase information, weather forecast and more. 
 
-> *Note: The theme information is overlaid on a wallpaper image and then set on your Home and/or Lock screen.*
-
-**The information contained in the theme won’t update until you run the ShowLive shortcut again.**
+> *Note: The theme information is overlaid on a wallpaper image and then set on your Home and/or Lock screen. The information contained in the theme won’t update until you run the ShowLive shortcut again.*
 
 When you select a theme from the **Themes tab**, a zip file is downloaded that contains the theme file. This file contains all the information the ShowLive shortcut needs to build the theme. 
 
