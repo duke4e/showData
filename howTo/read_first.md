@@ -2,7 +2,7 @@
 
 Apple doesn’t allow theming your iOS device natively. This app along with the ShowLive shortcuts help by allowing you to set “themes” on your Home and Lock screens. 
 
-*The app showcases themes from the best creators and allows you to browse and download a theme to your device.*
+> *The app showcases themes from the best creators and allows you to browse and download a theme to your device.*
 
 The themes contain **static information** like weather condition, battery level, moon phase information, weather forecast and more. 
 
