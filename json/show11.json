@@ -160,6 +160,16 @@
     ],
     "themes": [
         {
+            "title": "JB173_SK",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB173_SK.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB173_SK.zip",
+            "isDownload": true
+        },
+        {
             "title": "Boots 5",
             "subtitle": "A theme by @boots6972",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Boots.jpg",
