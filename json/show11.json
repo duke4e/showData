@@ -160,6 +160,16 @@
     ],
     "themes": [
         {
+            "title": "Boots 5",
+            "subtitle": "A theme by @boots6972",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Boots.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Boots5.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/boots6972/Boots5_SL.zip",
+            "isDownload": true
+        },
+        {
             "title": "Asmi53 Cyan",
             "subtitle": "A theme by ASMI",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
