@@ -129,12 +129,12 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive",
-            "subtitle": "ShowLive v1.917",
+            "subtitle": "ShowLive v1.918",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcuts_Header7.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/f4a652e0fe284108b67a08ee9fe240d6",
+            "targetUrl": "https://www.icloud.com/shortcuts/51435fcf24fe4ac9aba9c20bc5024da0",
             "isDownload": false
         },
         {
