@@ -2803,6 +2803,16 @@
         }
     ],
     "shop": [
+     {
+        "type": "Icon Pack",
+        "title": "Newbury",
+        "subtitle": "Icon pack by @corderoeliezer",
+        "buttonSubtitle": "Geometric",
+        "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Newbury _icon.png",
+        "buttonTitle": "FREE",
+        "targetUrl": "https://store.geometricsoftware.se/packages/com.angelmimi.newbury",
+        "isDownload": false
+    },
     {
         "type": "Icon Pack",
         "title": "Symplo",
