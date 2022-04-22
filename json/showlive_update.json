@@ -1,8 +1,8 @@
 {
     "update": {
-        "SL_version": "1.918",
-        "SL_downloadlink": "https://www.icloud.com/shortcuts/51435fcf24fe4ac9aba9c20bc5024da0",
-        "SL_updatenotes": "Added [season] to weather description user",
+        "SL_version": "1.919",
+        "SL_downloadlink": "https://www.icloud.com/shortcuts/b5c8d79f7c674e91b3d5d6dac06a09b9",
+        "SL_updatenotes": "Added Format 2 to Month to enable lowercase, fixed a bug with Last Update",
         "SH_version": "1.12",
         "SH_downloadlink": "https://www.icloud.com/shortcuts/1408d4d8c61a4d7fb2f9a20528e13fb4",
         "SH_updatenotes": "Added function to the menu to change the wallpaper without running ShowLive"
