@@ -1,6 +1,19 @@
 {
     "featured": [
         {
+            "type": "Wallpapers",
+            "title": "WallpaperLY",
+            "subtitle": "Wallpapers by @RajjAryaa",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/RajjAryaa_icon.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/RajjAryaa_Featured.jpg",
+            "buttonTitle": "$3.00",
+            "targetUrl": "https://t.co/lqBoFS28oA",
+            "blurIsDark": false,
+            "headerHexColor": "000000",
+            "headerTitle": "Wallpaper"
+        },
+        {
             "type": "Icon Pack",
             "title": "Kobu Z",
             "subtitle": "Use code SHOWCUTS for 15% off",
@@ -63,7 +76,7 @@
             "targetUrl": "https://elijahcreative.gumroad.com/l/weatherwave",
             "blurIsDark": false,
             "headerHexColor": "ffffff",
-            "headerTitle": "Limited"
+            "headerTitle": "Featured"
         }
     ],
     "home": [
