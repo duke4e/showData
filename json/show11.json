@@ -1,33 +1,6 @@
 {
     "featured": [
         {
-<<<<<<< Updated upstream
-            "type": "Widgy Widget",
-            "title": "Weather Wave",
-            "subtitle": "Widgy by @ElijahCreative",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/elijah_Featured.PNG",
-            "buttonTitle": "$3.00",
-            "targetUrl": "https://elijahcreative.gumroad.com/l/weatherwave",
-            "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Featured"
-=======
-            "type": "Wallpapers",
-            "title": "Wallpaper LY",
-            "subtitle": "Wallpapers by @RajjAryaa",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/RajjAryaa_icon.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/RajjAryaa_Featured.jpg",
-            "buttonTitle": "$3.00",
-            "targetUrl": "https://rajjaryaa.gumroad.com/l/WallpaperLY",
-            "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Wallpaper"
->>>>>>> Stashed changes
-        },
-        {
             "type": "Icon Pack",
             "title": "Kobu Z",
             "subtitle": "Use code SHOWCUTS for 15% off",
