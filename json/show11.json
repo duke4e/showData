@@ -160,6 +160,16 @@
     ],
     "themes": [
         {
+            "title": "EliseButterflies",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseButterflies.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseButterflies.zip",
+            "isDownload": true
+        },
+        {
             "title": "JB172_Wigebox",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
