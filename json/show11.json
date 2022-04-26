@@ -4,14 +4,15 @@
             "type": "ShowLive Theme",
             "title": "JB177_asdlordesigns",
             "subtitle": "Live Laugh Love @jennysblessed",
+            "buttonSubtitle": "Download",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/JB177_asdlordesigns.jpg",
             "buttonTitle": "GET",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB177_asdlordesigns.zip",
             "blurIsDark": true,
             "headerHexColor": "000000",
-            "headerTitle": "Featured",
-            "isDownload": true
+            "headerTitle": "Featured"
+
         },
         {
             "type": "Icon Pack",
