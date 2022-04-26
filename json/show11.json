@@ -1,5 +1,18 @@
 {
     "featured": [
+         {
+            "type": "ShowLive Theme",
+            "title": "JB177_asdlordesigns",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/JB177_asdlordesigns.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB177_asdlordesigns.zip",
+            "blurIsDark": true,
+            "headerHexColor": "000000",
+            "headerTitle": "Featured",
+            "isDownload": true
+        },
         {
             "type": "Icon Pack",
             "title": "Kobu Z",
@@ -159,6 +172,16 @@
         }
     ],
     "themes": [
+        {
+            "title": "JB177_asdlordesigns",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB177_asdlordesigns.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB177_asdlordesigns.zip",
+            "isDownload": true
+        },
         {
             "title": "EliseButterflies",
             "subtitle": "I create out of thin air...",
