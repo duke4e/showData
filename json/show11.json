@@ -81,15 +81,15 @@
         }
     ],
     "home": [
-        {
+         {
             "type": "Icon Pack",
-            "title": "Mut3d",
-            "subtitle": "Icon pack by @SeanKly",
-            "buttonSubtitle": "Gumroad Purchase",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/mut3d_icon.jpg",
-            "screenshotUrl": "",
-            "buttonTitle": "£1.00",
-            "targetUrl": "https://seankly.gumroad.com/l/iOpAut",
+            "title": "iOnyx",
+            "subtitle": "Code: ionyx25 for 25% off!",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iOnyx_icon.png",
+             "screenshotUrl": "",
+            "buttonTitle": "$4.89",
+            "targetUrl": "https://mylovejewel.gumroad.com/l/ionyx",
             "isDownload": false
         },
         {
