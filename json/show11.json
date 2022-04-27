@@ -160,6 +160,16 @@
     ],
     "themes": [
         {
+            "title": "skMD",
+            "subtitle": "I make stuff! @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/skMD.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/skMD.zip",
+            "isDownload": true
+        },
+        {
             "title": "Swa51_2",
             "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
