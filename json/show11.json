@@ -160,6 +160,16 @@
     ],
     "themes": [
         {
+            "title": "JBskWidget",
+            "subtitle": "I make stuff! @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JBskWidget.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/JBskWidget.zip",
+            "isDownload": true
+        },
+        {
             "title": "SWA46",
             "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
