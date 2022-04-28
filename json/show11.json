@@ -160,6 +160,16 @@
     ],
     "themes": [
         {
+            "title": "JBskDockWidget",
+            "subtitle": "I make stuff! @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/skdockwidget.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/skdockwidget.zip",
+            "isDownload": true
+        },
+        {
             "title": "JBskWidget",
             "subtitle": "I make stuff! @SeanKly",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
