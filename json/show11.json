@@ -160,6 +160,16 @@
     ],
     "themes": [
         {
+            "title": "JBskWired",
+            "subtitle": "Collab @Seankly & @Jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JBskWired.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/JBskWired.zip",
+            "isDownload": true
+        },
+        {
             "title": "JB166 Daws72",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
@@ -191,7 +201,7 @@
         },
         {
             "title": "JBskDayGuage",
-            "subtitle": "I make stuff! @SeanKly",
+            "subtitle": "Collab @Seankly & @Jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JBskDayGuage.jpg",
             "tag1Text": "HOME",
@@ -201,7 +211,7 @@
         },
         {
             "title": "JBskDockWidget",
-            "subtitle": "I make stuff! @SeanKly",
+            "subtitle": "Collab @Seankly & @Jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/skdockwidget.jpg",
             "tag1Text": "HOME",
@@ -211,7 +221,7 @@
         },
         {
             "title": "JBskWidget",
-            "subtitle": "I make stuff! @SeanKly",
+            "subtitle": "Collab @Seankly & @Jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JBskWidget.jpg",
             "tag1Text": "HOME",
