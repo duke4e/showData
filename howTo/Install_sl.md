@@ -24,6 +24,10 @@ Now it’s time to install the SL App Helper.
 
 ---
 
+Watch a video tutorial by [iReviews on YouTube](https://youtu.be/RsKQNw6-NZI)
+
+---
+
 If you experience difficulty with any of the tutorials then please visit our Show Discord server for further support [Show Discord](https://discord.gg/ab5H95YYXd).
 
 

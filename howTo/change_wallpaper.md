@@ -12,9 +12,13 @@ Select the Wallpaper you want to change on the menu. You will now be asked to pi
 
 You may receive a prompt asking for permission, select **“Always Allow”**. The selected wallpaper will be copied and transferred into the ShowLive folder.
 
-That’s it! The wallpaper is now transferred, named and ready to be applied by running ShowLive.
+That’s it! The wallpaper is now transferred, named and ready to be applied by tapping **Run ShowLive** or choosing the option to **Apply Wallpaper - No Update** which will change the wallpaper without running ShowLive again (Super Fast!).
 
 > *Be sure to check out the other features of the ShowLive helper shortcut in our other tutorials.*
+
+---
+
+Watch a video tutorial by [iReviews on YouTube](https://youtu.be/RsKQNw6-NZI)
 
 ---
 

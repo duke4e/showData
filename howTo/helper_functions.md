@@ -36,9 +36,11 @@ ShowLive themes are different from other theming shortcuts as almost all assets 
 
 It sounds easy however one mistake in the JSON can result in ShowLive not running as expected or even at all. I would strongly recommend visitng the Show support channel on Discord before attempting to edit a theme file.
 
-On the Show Support channel you will find extensive instruction on how to edit and add objects to your theme.
+On the Show Support channel you will find extensive instruction on how to edit and add objects to your theme. A link to visit the Show Discord channel can be found below.
 
-A link to visit the Show Discord channel can be found below.
+---
+
+Watch a video tutorial by [iReviews on YouTube](https://youtu.be/RsKQNw6-NZI)
 
 ---
 
