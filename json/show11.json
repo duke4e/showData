@@ -160,6 +160,16 @@
     ],
     "themes": [
         {
+            "title": "SJ_jbSK",
+            "subtitle": "Original by @Simonjap63",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SJ_jbSK.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/SJ_jbSK.zip",
+            "isDownload": true
+        },
+        {
             "title": "JBskWired",
             "subtitle": "Collab @Seankly & @Jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
