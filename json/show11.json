@@ -67,13 +67,13 @@
         }
     ],
     "home": [
-         {
+        {
             "type": "Icon Pack",
             "title": "iOnyx",
             "subtitle": "Code: ionyx25 for 25% off!",
             "buttonSubtitle": "Gumroad",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iOnyx_icon.png",
-             "screenshotUrl": "",
+            "screenshotUrl": "",
             "buttonTitle": "$4.89",
             "targetUrl": "https://mylovejewel.gumroad.com/l/ionyx",
             "isDownload": false
@@ -160,7 +160,37 @@
     ],
     "themes": [
         {
-            "title": "JBskDayGauge",
+            "title": "JB166 Daws72",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB166_Daws72.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB166_Daws72.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoomini49",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoomini49.jpg",
+            "tag1Text": "LOCK+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini49.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Zoomini48",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoomini48.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini48.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JBskDayGuage",
             "subtitle": "I make stuff! @SeanKly",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JBskDayGuage.jpg",
@@ -208,7 +238,7 @@
             "tag2Text": "",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini47.zip",
             "isDownload": true
-        }, 
+        },
         {
             "title": "Asmi62",
             "subtitle": "A theme by ASMI",
@@ -219,7 +249,7 @@
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi62.zip",
             "isDownload": true
         },
-         {
+        {
             "title": "Asmi63",
             "subtitle": "A theme by ASMI",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
@@ -3003,6 +3033,36 @@
         }
     ],
     "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "Enigma Light",
+            "subtitle": "Icon theme by @coburn67_94",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/EnigmaLight_icon.jpg",
+            "buttonTitle": "$3.00",
+            "targetUrl": "https://t.co/ZPJwvSKLxI",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Enigma Dark",
+            "subtitle": "Icon theme by @coburn67_94",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Enigma_icon.jpg",
+            "buttonTitle": "$3.10",
+            "targetUrl": "https://t.co/ZPJwvSKLxI",
+            "isDownload": false
+        },
+        {
+            "type": "Insomnia Dark",
+            "title": "Insomnia Dark",
+            "subtitle": "Icon theme by @coburn67_94",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/InsomniaDark_icon",
+            "buttonTitle": "$3.10",
+            "targetUrl": "https://t.co/ZPJwvSKLxI",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "Newbury",
