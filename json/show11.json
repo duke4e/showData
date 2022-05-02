@@ -27,6 +27,19 @@
             "headerTitle": "Updated"
         },
         {
+            "type": "Weather Icons",
+            "title": "Hardline Black",
+            "subtitle": "Weather Icons by @SeanKly",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/hardLineBLK_Featured.jpg",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://seankly.gumroad.com/l/bpozd",
+            "blurIsDark": true,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Featured"
+        },
+        {
             "type": "Widgy Widget",
             "title": "Weather Wave",
             "subtitle": "Widgy by @ElijahCreative",
