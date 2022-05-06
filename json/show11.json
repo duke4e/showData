@@ -114,12 +114,12 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive Helper",
-            "subtitle": "Helper v1.12",
+            "subtitle": "Helper v1.14",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/SLApp_Helper.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/1408d4d8c61a4d7fb2f9a20528e13fb4",
+            "targetUrl": "https://www.icloud.com/shortcuts/7dc313251ca0440f9ee21ad371dbfa91",
             "isDownload": false
         },
         {
@@ -4054,7 +4054,7 @@
         "themesImageWidth": 1190,
         "themesImageHeight": 736,
         "freeItemsOnly": false,
-        "newsText": "ShowLive v1.919 and SL Helper v1.12 both working fine with the latest iOS 15.5 Beta 4 (19F5070b)",
+        "newsText": "ShowLive Helper updated to v1.14 - Adds ability to replace encoded weather icons without using a text editor.",
         "featuredAutoscrollSpeed": 5
     }
 }
