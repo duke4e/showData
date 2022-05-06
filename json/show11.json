@@ -147,6 +147,16 @@
     ],
     "themes": [
         {
+            "title": "JB189_SK",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB189_SK.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB189_SK.zip",
+            "isDownload": true
+        },
+        {
             "title": "Zoomini56",
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
