@@ -1,6 +1,32 @@
 {
     "featured": [
         {
+            "type": "Icon Pack",
+            "title": "Silver Chariot",
+            "subtitle": "New Release by @MyLoveJewels",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MyLoveJewels.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SilverChariot_Featured_twin.jpg",
+            "buttonTitle": "$4.89",
+            "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot",
+            "blurIsDark": false,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Featured"
+        },
+        {
+            "type": "Wallpapers",
+            "title": "Smart Wallpaper Art",
+            "subtitle": "Wallpapers by @TeboulDavid1",
+            "buttonSubtitle": "Twitter",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SWA_Featured_twin.jpg",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://twitter.com/TeboulDavid1?s=20&t=pVXASvMQdctQX6tHlKFvlA",
+            "blurIsDark": true,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Wallpapers"
+        },
+        {
             "type": "Weather Icons",
             "title": "GlosSK",
             "subtitle": "Weather Icons by @SeanKly",
@@ -13,7 +39,7 @@
             "headerHexColor": "ffffff",
             "headerTitle": "Featured"
         },
-        {
+                {
             "type": "Icon Pack",
             "title": "Kobu Z",
             "subtitle": "Use code SHOWCUTS for 15% off",
@@ -24,19 +50,6 @@
             "targetUrl": "https://t.co/FuLTQ4NmRe",
             "blurIsDark": false,
             "headerHexColor": "26262e",
-            "headerTitle": "Featured"
-        },
-        {
-            "type": "Weather Icons",
-            "title": "Hardline Black",
-            "subtitle": "Weather Icons by @SeanKly",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/hardLineBLK_Featured.jpg",
-            "buttonTitle": "FREE",
-            "targetUrl": "https://seankly.gumroad.com/l/bpozd",
-            "blurIsDark": true,
-            "headerHexColor": "ffffff",
             "headerTitle": "Featured"
         },
         {
@@ -3390,6 +3403,16 @@
         }
     ],
     "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "Silver Chariot",
+            "subtitle": "New Release by @MyLoveJewels",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/SilverC.png",
+            "buttonTitle": "$4.89",
+            "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "Skittles Blk",
