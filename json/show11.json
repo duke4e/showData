@@ -116,23 +116,23 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive",
-            "subtitle": "ShowLive v1.919",
+            "subtitle": "ShowLive v1.920",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcuts_Header7.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/b5c8d79f7c674e91b3d5d6dac06a09b9",
+            "targetUrl": "https://www.icloud.com/shortcuts/0ecb3c98f27c4fb18fad662a11267eff",
             "isDownload": false
         },
         {
             "type": "SHORTCUT",
             "title": "ShowLive Helper",
-            "subtitle": "Helper v1.14",
+            "subtitle": "Helper v1.15",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/SLApp_Helper.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/7dc313251ca0440f9ee21ad371dbfa91",
+            "targetUrl": "https://www.icloud.com/shortcuts/3edf3a9b561b481092067b80c3deefd5",
             "isDownload": false
         },
         {
@@ -4257,7 +4257,7 @@
         "themesImageWidth": 1190,
         "themesImageHeight": 736,
         "freeItemsOnly": false,
-        "newsText": "ShowLive Helper updated to v1.14 - Adds ability to replace encoded weather icons without using a text editor.",
+        "newsText": "ShowLive(1.920) and Helper(1.15) shortcuts updated",
         "featuredAutoscrollSpeed": 5
     }
 }
