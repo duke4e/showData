@@ -39,7 +39,7 @@
             "headerHexColor": "ffffff",
             "headerTitle": "Featured"
         },
-                {
+        {
             "type": "Icon Pack",
             "title": "Kobu Z",
             "subtitle": "Use code SHOWCUTS for 15% off",
@@ -3473,6 +3473,26 @@
         }
     ],
     "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "DarkDesire2",
+            "subtitle": "Icon theme by @Coccco28",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/DarkDesire2.png",
+            "buttonTitle": "£3.00",
+            "targetUrl": "http://paypal.me/coccco28design",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Spektrum",
+            "subtitle": "Icon theme by @Coccco28",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Spektrum.png",
+            "buttonTitle": "£3.00",
+            "targetUrl": "http://paypal.me/coccco28design",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "Silver Chariot",
