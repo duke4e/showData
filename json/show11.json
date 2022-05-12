@@ -14,6 +14,19 @@
             "headerTitle": "Featured"
         },
         {
+            "type": "Weather Icons",
+            "title": "DentGlSK",
+            "subtitle": "Weather Icons by @SeanKly",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/DentGlSK_featured.png",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://seankly.gumroad.com/l/zodhj",
+            "blurIsDark": false,
+            "headerHexColor": "000000",
+            "headerTitle": "Featured"
+        },
+        {
             "type": "Wallpapers",
             "title": "Smart Wallpaper Art",
             "subtitle": "Wallpapers by @TeboulDavid1",
@@ -25,19 +38,6 @@
             "blurIsDark": true,
             "headerHexColor": "ffffff",
             "headerTitle": "Wallpapers"
-        },
-        {
-            "type": "Weather Icons",
-            "title": "GlosSK",
-            "subtitle": "Weather Icons by @SeanKly",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/GlosSK_Featured.jpg",
-            "buttonTitle": "FREE",
-            "targetUrl": "https://seankly.gumroad.com/l/ncfgw",
-            "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Featured"
         },
         {
             "type": "Icon Pack",
@@ -3513,6 +3513,36 @@
         }
     ],
     "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "Aragon",
+            "subtitle": "Icon theme by @Coccco28",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Aragon_icon.png",
+            "buttonTitle": "$3.00",
+            "targetUrl": "http://paypal.me/coccco28design",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Sunset",
+            "subtitle": "Icon theme by @Coccco28",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Sunset_icon.png",
+            "buttonTitle": "$3.00",
+            "targetUrl": "http://paypal.me/coccco28design",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Desire",
+            "subtitle": "Icon theme by @Coccco28",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Desire_icon.png",
+            "buttonTitle": "$3.00",
+            "targetUrl": "http://paypal.me/coccco28design",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "OGround2",
