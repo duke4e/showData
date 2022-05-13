@@ -1,6 +1,19 @@
 {
     "featured": [
         {
+            "type": "Wallpapers",
+            "title": "Smart Wallpaper Art",
+            "subtitle": "Wallpapers by @TeboulDavid1",
+            "buttonSubtitle": "Twitter",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SWA2_Featured.jpg",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://twitter.com/TeboulDavid1?s=20&t=pVXASvMQdctQX6tHlKFvlA",
+            "blurIsDark": true,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Wallpapers"
+        },
+        {
             "type": "Icon Pack",
             "title": "Silver Chariot",
             "subtitle": "New Release by @MyLoveJewels",
@@ -25,19 +38,6 @@
             "blurIsDark": false,
             "headerHexColor": "000000",
             "headerTitle": "Featured"
-        },
-        {
-            "type": "Wallpapers",
-            "title": "Smart Wallpaper Art",
-            "subtitle": "Wallpapers by @TeboulDavid1",
-            "buttonSubtitle": "Twitter",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SWA_Featured_twin.jpg",
-            "buttonTitle": "FREE",
-            "targetUrl": "https://twitter.com/TeboulDavid1?s=20&t=pVXASvMQdctQX6tHlKFvlA",
-            "blurIsDark": true,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Wallpapers"
         },
         {
             "type": "Icon Pack",
