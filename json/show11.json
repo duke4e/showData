@@ -69,6 +69,17 @@
     "home": [
         {
             "type": "Icon Pack",
+            "title": "Vintage",
+            "subtitle": "Icon pack by @LeslyeCream",
+            "buttonSubtitle": "Ko-fi",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/vintage_icon.jpg",
+            "screenshotUrl": "",
+            "buttonTitle": "$4.00",
+            "targetUrl": "https://t.co/gFXne3WQOI",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "Iconic Apple",
             "subtitle": "Icon pack by @SeanKly",
             "buttonSubtitle": "Gumroad",
@@ -76,17 +87,6 @@
             "screenshotUrl": "",
             "buttonTitle": "£1.00",
             "targetUrl": "https://seankly.gumroad.com/l/pMUBjF",
-            "isDownload": false
-        },
-        {
-            "type": "Icon Pack",
-            "title": "M1sh",
-            "subtitle": "Icon pack by @SeanKly",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/m1sh_icon.jpg",
-            "screenshotUrl": "",
-            "buttonTitle": "£1.00",
-            "targetUrl": "https://seankly.gumroad.com/l/CTTio",
             "isDownload": false
         },
         {
@@ -216,7 +216,7 @@
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoomini61.jpg",
             "tag1Text": "LOCK+",
             "tag2Text": "",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini61.zip",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini61_2.zip",
             "isDownload": true
         },
         {
@@ -3613,6 +3613,16 @@
         }
     ],
     "shop": [
+        {
+            "type": "New Release",
+            "title": "1llusįon",
+            "subtitle": "Icon theme by seperior_82",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/1llusįon_icon.jpg",
+            "buttonTitle": "€4.00",
+            "targetUrl": "https://seperior82.gumroad.com/l/tfhqq",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "Liaca Glyphs",
