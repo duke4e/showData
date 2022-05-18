@@ -1,6 +1,19 @@
 {
     "featured": [
         {
+            "type": "New Release",
+            "title": "1llusįon",
+            "subtitle": "Icon theme by seperior_82",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/1llus_icon.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/1llusion_Featured.jpg",
+            "buttonTitle": "€4.00",
+            "targetUrl": "https://seperior82.gumroad.com/l/tfhqq",
+            "blurIsDark": true,
+            "headerHexColor": "000000",
+            "headerTitle": "Featured"
+        },
+        {
             "type": "Wallpapers",
             "title": "Smart Wallpaper Art",
             "subtitle": "Wallpapers by @TeboulDavid1",
@@ -24,32 +37,6 @@
             "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot",
             "blurIsDark": false,
             "headerHexColor": "ffffff",
-            "headerTitle": "Featured"
-        },
-        {
-            "type": "Weather Icons",
-            "title": "DentGlSK",
-            "subtitle": "Weather Icons by @SeanKly",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/DentGlSK_featured.png",
-            "buttonTitle": "FREE",
-            "targetUrl": "https://seankly.gumroad.com/l/zodhj",
-            "blurIsDark": false,
-            "headerHexColor": "000000",
-            "headerTitle": "Featured"
-        },
-        {
-            "type": "Icon Pack",
-            "title": "Kobu Z",
-            "subtitle": "Use code SHOWCUTS for 15% off",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/home/KobuZ_icon.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/kobuZ_feature2.jpg",
-            "buttonTitle": "$5.00",
-            "targetUrl": "https://t.co/FuLTQ4NmRe",
-            "blurIsDark": false,
-            "headerHexColor": "26262e",
             "headerTitle": "Featured"
         },
         {
