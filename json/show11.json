@@ -103,23 +103,23 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive",
-            "subtitle": "ShowLive v1.920",
+            "subtitle": "ShowLive v1.923",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcuts_Header7.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/0ecb3c98f27c4fb18fad662a11267eff",
+            "targetUrl": "https://www.icloud.com/shortcuts/c448f515aa834ce598fcf95ec30ad995",
             "isDownload": false
         },
         {
             "type": "SHORTCUT",
             "title": "ShowLive Helper",
-            "subtitle": "Helper v1.15",
+            "subtitle": "Helper v1.16",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/SLApp_Helper.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/e6afab3a347e47b1aef94a9b0c39854d",
+            "targetUrl": "https://www.icloud.com/shortcuts/516d8789a6e04dbca31d32f65155844f",
             "isDownload": false
         },
         {
@@ -4664,7 +4664,7 @@
         "themesImageWidth": 1190,
         "themesImageHeight": 736,
         "freeItemsOnly": false,
-        "newsText": "Congratulations to @jennysblessed on her 200th ShowLive Theme!",
+        "newsText": "ShowLive and SL Helper Shortcuts Updated. Download them from the Shortcuts tab",
         "featuredAutoscrollSpeed": 5
     }
 }
