@@ -146,6 +146,16 @@
         }
     ],
     "themes": [
+         {
+            "title": "SWA63Evo",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/swa63evo.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/swa63evo.zip",
+            "isDownload": true
+        },
         {
             "title": "JB204_evynw",
             "subtitle": "Live Laugh Love @jennysblessed",
