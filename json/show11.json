@@ -1,6 +1,19 @@
 {
     "featured": [
         {
+            "type": "Coming Soon",
+            "title": "1NF3RRED",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "Twitter",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Steve.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/1NF3RRED_Featured.jpg",
+            "buttonTitle": "SOON",
+            "targetUrl": "https://twitter.com/SteveMeyer420?s=20&t=e5MJUKbknSgjSMay7wLnIw",
+            "blurIsDark": true,
+            "headerHexColor": "d30f40",
+            "headerTitle": "Coming Soon"
+        },
+        {
             "type": "New Release",
             "title": "1llusįon",
             "subtitle": "Icon theme by seperior_82",
@@ -146,7 +159,7 @@
         }
     ],
     "themes": [
-         {
+        {
             "title": "SWA63Evo",
             "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
@@ -3742,6 +3755,86 @@
     "shop": [
         {
             "type": "Icon Pack",
+            "title": "Sweet10Black",
+            "subtitle": "Icon theme by Chris59_Design",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Sweet10Black_Icon.png",
+            "buttonTitle": "$2",
+            "targetUrl": "https://t.co/Pzf0HJE806?ssr=true",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Etna",
+            "subtitle": "Icon theme by Chris59_Design",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Etna_Icon.png",
+            "buttonTitle": "$2",
+            "targetUrl": "https://t.co/Pzf0HJE806?ssr=true",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mesa",
+            "subtitle": "Icon theme by Chris59_Design",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Mesa_Icon.png",
+            "buttonTitle": "$2",
+            "targetUrl": "https://t.co/Pzf0HJE806?ssr=true",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mesa",
+            "subtitle": "Icon theme by Chris59_Design",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Mesa_Icon.png",
+            "buttonTitle": "$2",
+            "targetUrl": "https://t.co/Pzf0HJE806?ssr=true",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Ax1um",
+            "subtitle": "Icon theme by Chris59_Design",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Ax1um_Icon.png",
+            "buttonTitle": "$2",
+            "targetUrl": "https://t.co/Pzf0HJE806?ssr=true",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Noe",
+            "subtitle": "Icon theme by Chris59_Design",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Noe_Icon.png",
+            "buttonTitle": "$2",
+            "targetUrl": "https://t.co/Pzf0HJE806?ssr=true",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Agoa",
+            "subtitle": "Icon theme by Chris59_Design",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Agoa_Icon.png",
+            "buttonTitle": "$2",
+            "targetUrl": "https://t.co/Pzf0HJE806?ssr=true",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mel",
+            "subtitle": "Icon theme by Chris59_Design",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Mel_Icon.png",
+            "buttonTitle": "$2",
+            "targetUrl": "https://t.co/Pzf0HJE806?ssr=true",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "BlackMond Rose",
             "subtitle": "Icon theme by seperior_82",
             "buttonSubtitle": "Gumroad",
@@ -4674,7 +4767,7 @@
         "themesImageWidth": 1190,
         "themesImageHeight": 736,
         "freeItemsOnly": false,
-        "newsText": "ShowLive and SL Helper Shortcuts Updated. Maps have been added. *Latest iOS 15.5 version required!",
+        "newsText": "Icon Packs by @Chris59_Design added to the Shop. Go check them out!",
         "featuredAutoscrollSpeed": 5
     }
 }
