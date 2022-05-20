@@ -103,23 +103,23 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive",
-            "subtitle": "ShowLive v1.923",
+            "subtitle": "ShowLive v1.924",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcuts_Header7.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/c448f515aa834ce598fcf95ec30ad995",
+            "targetUrl": "https://www.icloud.com/shortcuts/f48d3277bd7b44fd822f420d20c72fcc",
             "isDownload": false
         },
         {
             "type": "SHORTCUT",
             "title": "ShowLive Helper",
-            "subtitle": "Helper v1.16",
+            "subtitle": "Helper v1.18",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/SLApp_Helper.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/516d8789a6e04dbca31d32f65155844f",
+            "targetUrl": "https://www.icloud.com/shortcuts/f977f0d7d91341888ce13b4fec6dd305",
             "isDownload": false
         },
         {

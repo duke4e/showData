@@ -1,10 +1,10 @@
 {
     "update": {
-        "SL_version": "1.923",
-        "SL_downloadlink": "https://www.icloud.com/shortcuts/c448f515aa834ce598fcf95ec30ad995",
-        "SL_updatenotes": "Added Maps function",
-        "SH_version": "1.16",
-        "SH_downloadlink": "https://www.icloud.com/shortcuts/516d8789a6e04dbca31d32f65155844f",
-        "SH_updatenotes": "Added Maps object to JSON"
+        "SL_version": "1.924",
+        "SL_downloadlink": "https://www.icloud.com/shortcuts/f48d3277bd7b44fd822f420d20c72fcc",
+        "SL_updatenotes": "Added wind direction to maps marker. Added Y value to overlay",
+        "SH_version": "1.18",
+        "SH_downloadlink": "https://www.icloud.com/shortcuts/f977f0d7d91341888ce13b4fec6dd305",
+        "SH_updatenotes": "Updated Master JSON"
     }
 }
