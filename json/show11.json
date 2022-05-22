@@ -13,7 +13,19 @@
             "headerHexColor": "ffffff",
             "headerTitle": "Exclusive"
         },
-
+        {
+            "type": "New Release",
+            "title": "1NF3RRED Weather",
+            "subtitle": "New Release by @SeanKly",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/1NF3RREDWeather_Featured.jpg",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://seankly.gumroad.com/l/mfboo",
+            "blurIsDark": true,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Weather"
+        },
         {
             "type": "New Release",
             "title": "1llusįon",
@@ -160,6 +172,36 @@
         }
     ],
     "themes": [
+        {
+            "title": "JB1NF3RR3D1_DK",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB1NF3RR3D1_DK.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB1NF3RR3D1_DK.zip",
+            "isDownload": true
+        },
+         {
+            "title": "JB1NF3RR3D2_DK",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB1NF3RR3D2_DK.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB1NF3RR3D2_DK.zip",
+            "isDownload": true
+        },
+         {
+            "title": "JB1NF3RR3D3_DK",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB1NF3RR3D3_DK.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB1NF3RR3D3_DKle.zip",
+            "isDownload": true
+        },
         {
             "title": "SWA64Zoop",
             "subtitle": "Mashup - @TeboulDavid1 @Zooropalg",
