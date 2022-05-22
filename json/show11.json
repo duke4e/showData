@@ -1,18 +1,19 @@
 {
     "featured": [
         {
-            "type": "Coming Soon",
+            "type": "New Release",
             "title": "1NF3RRED",
-            "subtitle": "Icon theme by @SteveMeyer420",
-            "buttonSubtitle": "Twitter",
+            "subtitle": "New Release by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Steve.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/1NF3RRED_Featured.jpg",
-            "buttonTitle": "SOON",
-            "targetUrl": "https://twitter.com/SteveMeyer420?s=20&t=e5MJUKbknSgjSMay7wLnIw",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/1NF3RRED_Featured_2.jpg",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
             "blurIsDark": true,
             "headerHexColor": "ffffff",
-            "headerTitle": "Coming Soon"
+            "headerTitle": "Exclusive"
         },
+
         {
             "type": "New Release",
             "title": "1llusįon",
@@ -3803,6 +3804,16 @@
         }
     ],
     "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "1NF3RRED",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/1NF3RR3D_icon.png",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "Sweet10Black",
