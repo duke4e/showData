@@ -14,6 +14,19 @@
             "headerTitle": "Exclusive"
         },
         {
+            "type": "Icon Pack",
+            "title": "Devil Boss",
+            "subtitle": "New Release by @coburn67_94",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/coburn67_94.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/coburn67_94_Featured.jpg",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://www.paypal.me/ayiprughby",
+            "blurIsDark": true,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Featured"
+        },
+        {
             "type": "New Release",
             "title": "1NF3RRED Weather",
             "subtitle": "New Release by @SeanKly",
@@ -61,19 +74,6 @@
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SilverChariot_Featured_twin.jpg",
             "buttonTitle": "$4.89",
             "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot",
-            "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Featured"
-        },
-        {
-            "type": "Widgy Widget",
-            "title": "Weather Wave",
-            "subtitle": "Widgy by @ElijahCreative",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/elijah_Featured.PNG",
-            "buttonTitle": "$3.00",
-            "targetUrl": "https://elijahcreative.gumroad.com/l/weatherwave",
             "blurIsDark": false,
             "headerHexColor": "ffffff",
             "headerTitle": "Featured"
@@ -173,6 +173,16 @@
     ],
     "themes": [
         {
+            "title": "Asmi84",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi84.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi84.zip",
+            "isDownload": true
+        },
+        {
             "title": "JB1NF3RR3D4_DK",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
@@ -192,7 +202,7 @@
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB1NF3RR3D1_DK.zip",
             "isDownload": true
         },
-         {
+        {
             "title": "JB1NF3RR3D2_DK",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
@@ -202,7 +212,7 @@
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB1NF3RR3D2_DK.zip",
             "isDownload": true
         },
-         {
+        {
             "title": "JB1NF3RR3D3_DK",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
@@ -3856,6 +3866,16 @@
         }
     ],
     "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "Devil Boss",
+            "subtitle": "Icon theme by @coburn67_94",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/DevilBoss_icon.png",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://www.paypal.me/ayiprughby",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "1NF3RRED",
