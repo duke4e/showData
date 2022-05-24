@@ -173,6 +173,26 @@
     ],
     "themes": [
         {
+            "title": "JB210_evywn",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB210_evywn.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB210_evywn.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB211_ppickCH",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB211_ppickCH.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB211_ppickCH.zip",
+            "isDownload": true
+        },
+        {
             "title": "SWA65",
             "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
@@ -3876,6 +3896,46 @@
         }
     ],
     "shop": [
+        {
+            "type": "Icon Pack",
+            "title": "Elixir",
+            "subtitle": "Icon theme by @Coccco28",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Elixir_icon.png",
+            "buttonTitle": "$3.00",
+            "targetUrl": "http://paypal.me/coccco28design",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Era",
+            "subtitle": "Icon theme by @Coccco28",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Era_icon.png",
+            "buttonTitle": "$3.00",
+            "targetUrl": "http://paypal.me/coccco28design",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "EraFlat",
+            "subtitle": "Icon theme by @Coccco28",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/EraFlat_icon.png",
+            "buttonTitle": "$3.00",
+            "targetUrl": "http://paypal.me/coccco28design",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
+            "title": "DesireBlack&Gold",
+            "subtitle": "Icon theme by @Coccco28",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/DesireBlack&Gold_icon.png",
+            "buttonTitle": "$3.00",
+            "targetUrl": "http://paypal.me/coccco28design",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "Devil Boss",
