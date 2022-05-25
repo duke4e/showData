@@ -173,6 +173,46 @@
     ],
     "themes": [
         {
+            "title": "skMapjb",
+            "subtitle": "Joint Effort @jennysblessed & @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/skMapD.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/skMapD.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB43_ppickCH",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB43_ppickCH.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB43_ppickCH.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB213_ppickCH",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB213_ppickCH.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB213_ppickCH.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB214_21MaRc012",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB214_21MaRc012.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB214_21MaRc012.zip",
+            "isDownload": true
+        },
+        {
             "title": "JB210_evywn",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
