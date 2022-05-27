@@ -7,13 +7,14 @@
 - iOS ShortCuts Method
 - Appstore App
 
-> Creating themed icons with iOS SHortcut is my preffered choice
+> Creating themed icons with iOS Shortcuts App is my preffered choice
 
 Using iOS Shortcuts to theme your Homescreen icons is my recommended method. This method requires you to theme each individual icon, creating a shortcut to each app whilst using a custom icon image of your choice.
 
 The process for creating these app shortcuts is a straight forward process and simple once you have themed one or two icons. iDM from YouTube has an excellent video showing you how to thme your icons with the Shortcuts method (Link at the bottom of the page).
 
-> Using Shortcuts to theme your icons does have downsides
+
+> Using Shortcuts to theme your icons does have downsides!
 
 Some important things to be aware of are:
 
