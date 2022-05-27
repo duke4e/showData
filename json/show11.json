@@ -3963,6 +3963,16 @@
             "buttonTitle": "GO",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/howTo/helper_functions.md",
             "isDownload": false
+        },
+        {
+            "type": "HOW TO",
+            "title": "Theme Homescreen Icons",
+            "subtitle": "Change the appearance of your Icons",
+            "buttonSubtitle": "Tutorial",
+            "screenshotUrl": "",
+            "buttonTitle": "GO",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/howTo/theme_icons.md",
+            "isDownload": false
         }
     ],
     "shop": [
