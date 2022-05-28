@@ -4008,6 +4008,16 @@
     "shop": [
     {
             "type": "Icon Pack",
+            "title": "Av4tAr Icon Theme",
+            "subtitle": "Icon theme by @MyLoveJewels",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Av4tAr.JPG",
+            "buttonTitle": "$4.89",
+            "targetUrl": "https://mylovejewel.gumroad.com/l/Avatar",
+            "isDownload": false
+        },
+    {
+            "type": "Icon Pack",
             "title": "Stranger Icons",
             "subtitle": "Icon theme by @suitcaselabs",
             "buttonSubtitle": "Gumroad",
