@@ -4006,6 +4006,16 @@
         }
     ],
     "shop": [
+    {
+            "type": "Icon Pack",
+            "title": "Elagen",
+            "subtitle": "Icon theme by Hà Tía Tô",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Elagen_icon.JPG",
+            "buttonTitle": "$4.50",
+            "targetUrl": "http://paypal.me/hatiato95",
+            "isDownload": false
+        },
         {
             "type": "Icon Pack",
             "title": "Elixir",
