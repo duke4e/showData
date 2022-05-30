@@ -146,7 +146,57 @@
         }
     ],
     "themes": [
-         {
+        {
+            "title": "JB21_evynw",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB21_evynw.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB21_evynw.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB189_evywn",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB212_ppickCH.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB189_evywn.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Asmi87",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi87.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi87.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Asmi88 Blue",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi88Blue.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi88Blue.zip",
+            "isDownload": true
+        },
+        {
+            "title": "Asmi88 Red",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi88Red.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi88Red.zip",
+            "isDownload": true
+        },
+        {
             "title": "Asmi86Light",
             "subtitle": "A theme by ASMI",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
