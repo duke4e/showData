@@ -2,6 +2,19 @@
     "featured": [
            {
             "type": "Icon Pack",
+            "title": "Stranger Icons",
+            "subtitle": "New Release by @suitcaselabs",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/suitcaselabs.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/StrangerIcons_featured.png",
+            "buttonTitle": "€4.00",
+            "targetUrl": "https://suitcaselabs.gumroad.com/l/strangericons",
+            "blurIsDark": true,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Featured"
+        },
+           {
+            "type": "Icon Pack",
             "title": "Av4tAr",
             "subtitle": "New Release by @MyLoveJewels",
             "buttonSubtitle": "Gumroad",
