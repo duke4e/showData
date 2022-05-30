@@ -1,5 +1,18 @@
 {
     "featured": [
+           {
+            "type": "Icon Pack",
+            "title": "Av4tAr",
+            "subtitle": "New Release by @MyLoveJewels",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MyLoveJewels.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/Av4tAr_Featured.jpg",
+            "buttonTitle": "$4.89",
+            "targetUrl": "https://mylovejewel.gumroad.com/l/Avatar",
+            "blurIsDark": false,
+            "headerHexColor": "000000",
+            "headerTitle": "Featured"
+        },
         {
             "type": "New Release",
             "title": "1NF3RRED",
@@ -28,19 +41,6 @@
         },
         {
             "type": "New Release",
-            "title": "1NF3RRED Weather",
-            "subtitle": "New Release by @SeanKly",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/1NF3RREDWeather_Featured.jpg",
-            "buttonTitle": "FREE",
-            "targetUrl": "https://seankly.gumroad.com/l/mfboo",
-            "blurIsDark": true,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Weather"
-        },
-        {
-            "type": "New Release",
             "title": "1llusįon",
             "subtitle": "Icon theme by seperior_82",
             "buttonSubtitle": "Gumroad",
@@ -51,32 +51,6 @@
             "blurIsDark": false,
             "headerHexColor": "000000",
             "headerTitle": "New"
-        },
-        {
-            "type": "Wallpapers",
-            "title": "Smart Wallpaper Art",
-            "subtitle": "Wallpapers by @TeboulDavid1",
-            "buttonSubtitle": "Twitter",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SWA2_Featured.jpg",
-            "buttonTitle": "FREE",
-            "targetUrl": "https://twitter.com/TeboulDavid1?s=20&t=pVXASvMQdctQX6tHlKFvlA",
-            "blurIsDark": true,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Wallpapers"
-        },
-        {
-            "type": "Icon Pack",
-            "title": "Silver Chariot",
-            "subtitle": "New Release by @MyLoveJewels",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MyLoveJewels.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SilverChariot_Featured_twin.jpg",
-            "buttonTitle": "$4.89",
-            "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot",
-            "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Featured"
         }
     ],
     "home": [
