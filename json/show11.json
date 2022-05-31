@@ -160,6 +160,16 @@
     ],
     "themes": [
         {
+            "title": "mittiSL01",
+            "subtitle": "Live Laugh Love @mittiboy",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/mittiboy.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/mittiSL01.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/mitti/mittiSL01.zip",
+            "isDownload": true
+        },
+        {
             "title": "JB21_evynw",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
