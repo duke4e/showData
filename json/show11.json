@@ -4265,6 +4265,16 @@
     "shop": [
         {
             "type": "Icon Pack",
+            "title": "1NF3RB1U3",
+            "subtitle": "Icon theme by @SteveMeyer420",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/1NF3RB1U3_icon.png",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://PayPal.me/Meyer760",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "Av4tAr Icon Theme",
             "subtitle": "Icon theme by @MyLoveJewels",
             "buttonSubtitle": "Gumroad",
