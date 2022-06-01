@@ -160,6 +160,86 @@
     ],
     "themes": [
         {
+            "title": "EliseCard",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseCard_HS.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseCard_HS.zip",
+            "isDownload": true
+        },
+        {
+            "title": "EliseD",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseD_Theme_HS.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseD_Theme_HS.zip",
+            "isDownload": true
+        },
+        {
+            "title": "EliseHM",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseHM_Theme_HS.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseHM_Theme_HS.zip",
+            "isDownload": true
+        },
+        {
+            "title": "EliseInfinity",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseInfinity_Theme_HS.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseInfinity_Theme_HS.zip",
+            "isDownload": true
+        },
+        {
+            "title": "EliseObviously",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseObviously_Theme_HS.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseObviously_Theme_HS.zip",
+            "isDownload": true
+        },
+        {
+            "title": "ElisePA",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/ElisePA_HS.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/ElisePA_HS.zip",
+            "isDownload": true
+        },
+        {
+            "title": "ElisePrivate",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/ElisePrivate-Theme_HS.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/ElisePrivate-Theme_HS.zip",
+            "isDownload": true
+        },
+        {
+            "title": "EliseTexture",
+            "subtitle": "I create out of thin air...",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/elise.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/EliseTexture-Theme_HS.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/EliseMihael/EliseTexture-Theme_HS.zip",
+            "isDownload": true
+        },
+        {
             "title": "SWA67",
             "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
