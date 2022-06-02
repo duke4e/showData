@@ -4315,6 +4315,16 @@
     "shop": [
         {
             "type": "Icon Pack",
+            "title": "Lucent",
+            "subtitle": "Icon theme by @Iba_graphics",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Lucent_icon.PNG",
+            "buttonTitle": "$5.00",
+            "targetUrl": "https://ibagraphics.gumroad.com/l/YKbUN",
+            "isDownload": false
+        },
+        {
+            "type": "Icon Pack",
             "title": "1NF3RB1U3",
             "subtitle": "Icon theme by @SteveMeyer420",
             "buttonSubtitle": "PayPal",
