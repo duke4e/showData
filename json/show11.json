@@ -159,6 +159,26 @@
         }
     ],
     "themes": [
+         {
+            "title": "Zoomini76",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoomini76.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini76.zip",
+            "isDownload": true
+        },
+         {
+            "title": "Zoomini77",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoomini77.jpg",
+            "tag1Text": "LOCK+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini77.zip",
+            "isDownload": true
+        },
         {
             "title": "JB217_FAlhmma",
             "subtitle": "Live Laugh Love @jennysblessed",
@@ -178,7 +198,8 @@
             "tag2Text": "",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/Swa69.zip",
             "isDownload": true
-        },{
+        },
+        {
             "title": "Zoomini75",
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
