@@ -159,7 +159,37 @@
         }
     ],
     "themes": [
-         {
+        {
+            "title": "inkedup1",
+            "subtitle": "A theme by @inkeduprunner",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/inkeduprunner.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/inkedup1.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/mitti/inkedup1.zip",
+            "isDownload": true
+        }, 
+        {
+            "title": "mittiSL02",
+            "subtitle": "A theme by @mittiboy",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/mittiboy.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/mittiSL02.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/mitti/mittiSL02.zip",
+            "isDownload": true
+        }, 
+        {
+            "title": "Asmi91",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi91.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi91.zip",
+            "isDownload": true
+        },
+        {
             "title": "Zoomini76",
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
@@ -481,7 +511,7 @@
         },
         {
             "title": "mittiSL01",
-            "subtitle": "Live Laugh Love @mittiboy",
+            "subtitle": "A theme by @mittiboy",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/mittiboy.jpg",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/mittiSL01.jpg",
             "tag1Text": "HOME",
