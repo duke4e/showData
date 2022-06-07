@@ -159,6 +159,56 @@
         }
     ],
     "themes": [
+         {
+            "title": "Zoomini78",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Zoomini78.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini78.zip",
+            "isDownload": true
+        },
+        {
+            "title": "tb01",
+            "subtitle": "A theme by @tombowie",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/tb01_sk.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tombowie/tb01_sk.zip",
+            "isDownload": true
+        },
+        {
+            "title": "JB218_FAlhmma",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB218_FAlhmma.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB218_FAlhmma.zip",
+            "isDownload": true
+        },
+        {
+            "title": "SKJB",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SKJB.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/SKJB.zip",
+            "isDownload": true
+        },
+        {
+            "title": "SWA70",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Swa70.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/Swa70.zip",
+            "isDownload": true
+        },
         {
             "title": "inkedup1",
             "subtitle": "A theme by @inkeduprunner",
@@ -199,7 +249,7 @@
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/Zoomini76.zip",
             "isDownload": true
         },
-         {
+        {
             "title": "Zoomini77",
             "subtitle": "A theme by @Zooropalg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
@@ -5527,7 +5577,7 @@
         "themesImageWidth": 1190,
         "themesImageHeight": 736,
         "freeItemsOnly": false,
-        "newsText": "⚠️ iOS 16 beta 1 has various issues with setting wallpape DO NOT UPGRADE if you want to continue using ShowLive Shortcut",
+        "newsText": "⚠️ iOS 16 Beta 1 has various issues with setting wallpaper DO NOT UPGRADE if you want to continue using ShowLive Shortcut. I have a workaround and will release it soon.",
         "featuredAutoscrollSpeed": 5
     }
 }
