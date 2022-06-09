@@ -10601,16 +10601,16 @@
     "widgys":
     [
         {
-            "title": "Asmi86Light",
+            "title": "The Hour Glass",
             "subtitle": "A widget by ASMI",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls":
             [
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg93.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg95.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg92.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/The_Hour_Glass.png",
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/The_Hour_Glass.png",
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/The_Hour_Glass.png"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/1_widgyFeatured.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/The_Hour_Glass.png",
             "author": "ASMI",
             "buttonSubtitle": "Gumroad",
             "buttonTitle": "$2.00",
@@ -10779,7 +10779,7 @@
         "shortcutsHeaderAspectFit": false,
         "howToHeaderAspectFit": false,
         "freeItemsOnly": false,
-        "newsUrl": "https://github.com/duke4e/showData/raw/main/howTo/helper_functions.md",
+        "newsUrl": "https://github.com/duke4e/showData/raw/main/news/news.md",
         "contentRightsUrl": "https://github.com/duke4e/showData/raw/main/howTo/helper_functions.md",
         "newsLastDate": "28.08.2022",
         "featuredAutoscrollSpeed": 5,
