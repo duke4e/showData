@@ -1,4 +1,4 @@
-![Change a ShowLive Theme](https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader.png)
+
 
 ### CHANGE A SHOWLIVE THEME
 

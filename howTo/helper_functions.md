@@ -1,4 +1,4 @@
-![ShowLive Helper](https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader.png)
+
 
 ### SHOWLIVE HELPER -ADDITIONAL FUNCTIONS 
 

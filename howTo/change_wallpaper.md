@@ -1,4 +1,4 @@
-![Change a Wallpaper](https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader.png)
+
 
 ### CHANGE A SHOWLIVE WALLPAPER 
 

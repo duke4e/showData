@@ -1,4 +1,4 @@
-![Shortcut Automations](https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader.png)
+
 
 ### UPDATE YOUR THEME WITH AUTOMATIONS 
 

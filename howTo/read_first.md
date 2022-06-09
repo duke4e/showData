@@ -1,4 +1,3 @@
-![All About?](https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader.png)
 
 ### WHATS THIS APP AND SHORTCUTS ALL ABOUT?
 

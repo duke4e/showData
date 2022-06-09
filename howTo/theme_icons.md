@@ -1,4 +1,3 @@
-![Theme Homescreen Icons](https://github.com/duke4e/showData/raw/main/images/howto/howtoHeader.png)
 
 ### THEME YOUR HOMESCREEN ICONS 
 
