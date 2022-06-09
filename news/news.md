@@ -63,8 +63,9 @@ Adds y value for overlay
 
     "y": 0,
 
+<br>
 
-*Helper updated to v1.14*
+#### Helper updated to v1.14
 
 Added option to replace the encoded weather icons without using a text editor. 
 
