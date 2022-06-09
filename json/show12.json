@@ -10780,8 +10780,8 @@
         "howToHeaderAspectFit": false,
         "freeItemsOnly": false,
         "newsUrl": "https://github.com/duke4e/showData/raw/main/news/news.md",
-        "contentRightsUrl": "https://github.com/duke4e/showData/raw/main/howTo/helper_functions.md",
-        "newsLastDate": "28.08.2022",
+        "contentRightsUrl": "https://github.com/duke4e/showData/raw/main/contentRights/contentRights.md",
+        "newsLastDate": "09.06.2022",
         "featuredAutoscrollSpeed": 5,
         "infoHeaderText": "ShowCuts 1.2\nShowTeam\n\nShowLive Build 1.923 last updated 30/05/22\nShowLive Helper Build 1.112 last updated 28/05/22"
     }
