@@ -10606,159 +10606,391 @@
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls":
             [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/The_Hour_Glass.PNG",
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/The_Hour_Glass.PNG",
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/The_Hour_Glass.PNG"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/The_Hour_Glass.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/The_Hour_Glass.png",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/The_Hour_Glass.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Beautiful Weather",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Beautiful_Weather.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Beautiful_Weather.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Flip Clock",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Flip_Clock.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Flip_Clock.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Minimal",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Minimal.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Minimal.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Fluid Clock",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Fluid_Clock.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Fluid_Clock.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Dot Matrix Clock",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Dot_Matrix_Clock.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Dot_Matrix_Clock.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Radar Watch",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Radar_Watch.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Radar_Watch.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Day & Year Progress",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Day_&_Year_Progress.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Day_&_Year_Progress.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Coffee Break",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Coffee_Break.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Coffee_Break.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Minimal 2",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Minimal_2.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Minimal_2.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Minimal 3",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Minimal_3.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Minimal_3.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Minimal 4",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Minimal_4.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Minimal_4.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Info Watch",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Info_Watch.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Info_Watch.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Classic Dashboard Weather",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Classic_Dashboard_Weather.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Classic_Dashboard_Weather.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
             "buttonTitle": "FREE",
             "targetUrl": "https://elijahcreative.gumroad.com/"
         },
         {
-            "title": "JB212_ppickCH",
-            "subtitle": "Live Laugh Love @jennysblessed",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "title": "Sky Weather",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls":
             [
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg93.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg95.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg92.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/Sky_Weather.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/2_widgyFeatured.jpg",
-            "author": "ASMI",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/Sky_Weather.jpg",
+            "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "$2.00",
-            "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot"
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
         },
-        {
-            "title": "JB212_ppickCH",
-            "subtitle": "Live Laugh Love @jennysblessed",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+{
+            "title": "Chameleon",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls":
             [
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg93.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg95.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg92.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/Chameleon.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/3_widgyFeatured.jpg",
-            "author": "Jennysblessed",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/Chameleon.jpg",
+            "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "$2.00",
-            "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot"
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
         },
-        {
-            "title": "JB212_ppickCH",
-            "subtitle": "Live Laugh Love @jennysblessed",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+{
+            "title": "Emoji Island",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls":
             [
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg93.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg95.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg92.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/Emoji_Island.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/4_widgyFeatured.jpg",
-            "author": "Jennysblessed",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/Emoji_Island.jpg",
+            "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "Free",
-            "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot"
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
         },
-        {
-            "title": "JB212_ppickCH",
-            "subtitle": "Live Laugh Love @jennysblessed",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+{
+            "title": "The Boat Race",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls":
             [
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg93.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg95.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg92.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/The_Boat_Race.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/5_widgyFeatured.jpg",
-            "author": "Jennysblessed",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/The_Boat_Race.jpg",
+            "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "$2.00",
-            "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot"
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
         },
-        {
-            "title": "JB212_ppickCH",
-            "subtitle": "Live Laugh Love @jennysblessed",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+{
+            "title": "Mountain Hike",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls":
             [
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg93.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg95.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg92.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/Mountain_Hike.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/6_widgyFeatured.jpg",
-            "author": "Jennysblessed",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/Mountain_Hike.jpg",
+            "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "$2.00",
-            "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot"
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
         },
-        {
-            "title": "JB212_ppickCH",
-            "subtitle": "Live Laugh Love @jennysblessed",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+{
+            "title": "Mimik",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls":
             [
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg93.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg95.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg92.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/Mimik.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/7_widgyFeatured.jpg",
-            "author": "Jennysblessed",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/Mimik.jpg",
+            "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "Free",
-            "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot"
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
         },
-        {
-            "title": "JB212_ppickCH",
-            "subtitle": "Live Laugh Love @jennysblessed",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+{
+            "title": "Woody",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls":
             [
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg93.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg95.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg92.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/Woody.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/8_widgyFeatured.jpg",
-            "author": "Jennysblessed",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/Woody.jpg",
+            "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "$2.00",
-            "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot"
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
         },
-        {
-            "title": "JB212_ppickCH",
-            "subtitle": "Live Laugh Love @jennysblessed",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+{
+            "title": "Neon Weather",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls":
             [
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg93.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg95.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg92.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/Neon_Weather.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/9_widgyFeatured.jpg",
-            "author": "Jennysblessed",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/Neon_Weather.jpg",
+            "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "$2.00",
-            "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot"
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
         },
-        {
-            "title": "JB215_ppickCH",
-            "subtitle": "Live Laugh Love @jennysblessed",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+{
+            "title": "Sunny Day",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls":
             [
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg93.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg95.jpg",
-                "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg92.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/Sunny_Day.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/10_widgyFeatured.jpg",
-            "author": "Sean",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/Sunny_Day.jpg",
+            "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "Free",
-            "targetUrl": "https://mylovejewel.gumroad.com/l/silverchariot"
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Globe Of Life",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/Globe_Of_Life.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/Globe_Of_Life.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "F1 Next Race",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/F1_Next_Race.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/F1_Next_Race.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "The Room",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/The_Room.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/The_Room.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Coming Home",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/Coming_Home.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/Coming_Home.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
+        },
+{
+            "title": "Weather Wave",
+            "subtitle": "A widget by ElijahCreative",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidPreview/Weather_Wave.jpg"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/paidMockup/Weather_Wave.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Gumroad",
+            "buttonTitle": "PAID",
+            "targetUrl": "https://elijahcreative.gumroad.com/"
         }
     ],
     "metadata":
