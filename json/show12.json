@@ -7427,7 +7427,11 @@
     "wallpapers": [
         {
             "author" : "TeboulDavid1",
-            "colors" : [],
+            "colors" : [
+                "Gray",
+                "Black",
+                "Blue"
+            ],
             "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg650_thumb.jpg",
             "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
             "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg650.png"
