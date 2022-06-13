@@ -12,7 +12,7 @@
             "blurIsDark": false,
             "headerHexColor": "ffffff",
             "headerTitle": "Featured",
-            "internalType": "icon"
+            "internalType": "widget"
         },
         {
             "type": "ShowLive Theme",
@@ -26,7 +26,7 @@
             "blurIsDark": true,
             "headerHexColor": "000000",
             "headerTitle": "Featured",
-            "internalType": "icon"
+            "internalType": "theme"
         },
         {
             "type": "Wallpaper",
@@ -40,7 +40,7 @@
             "blurIsDark": false,
             "headerHexColor": "ffffff",
             "headerTitle": "Featured",
-            "internalType": "icon"
+            "internalType": "wallpaper"
         }
     ],
     "today": [
