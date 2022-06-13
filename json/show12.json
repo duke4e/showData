@@ -7454,6 +7454,14 @@
     ],
     "wallpapers": [
         {
+            "color": "Red",
+            "lightness": "Dark",
+            "author": "TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/IMG_2173_thumb.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/IMG_2173.PNG"
+        },
+        {
             "color": "Green",
             "lightness": "Dark",
             "author": "TeboulDavid1",
