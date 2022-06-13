@@ -5760,6 +5760,66 @@
     "icons": [
         {
             "type": "Icon Pack",
+            "title": "Col3r",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Direct Download",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Col3r_icon.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Col3r.zip",
+            "isDownload": false,
+            "author": "SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Col3r.png"
+            ]
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Concav3_Alt",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Direct Download",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Concav3Alt_icon.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Concav3_Alt.zip",
+            "isDownload": false,
+            "author": "SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Concav3_Alt.png"
+            ]
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Umb3r_Gr3yscal3",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Direct Download",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Umb3rGreyscale_icon.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Umb3r Grayscale.zip",
+            "isDownload": false,
+            "author": "SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Umb3r_Gr3yscal3.png"
+            ]
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Mut3d_Black",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Direct Download",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Mut3dBlack_icon.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Mut3d_Black.zip",
+            "isDownload": false,
+            "author": "SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Mut3d_Black.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Chewies.png"
+            ]
+        },
+        {
+            "type": "Icon Pack",
             "title": "Lucent",
             "subtitle": "Icon theme by @Iba_graphics",
             "buttonSubtitle": "Gumroad",
