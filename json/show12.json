@@ -7427,6 +7427,24 @@
     "wallpapers": [
         {
             "author" : "TeboulDavid1",
+            "colors" : [],
+            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg650_thumb.jpg",
+            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg650.png"
+        },
+        {
+            "author" : "TeboulDavid1",
+            "colors" : [
+                "Blue",
+                "Black",
+                "Purple"
+            ],
+            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg651_thumb.jpg",
+            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg651.png"
+        },
+        {
+            "author" : "TeboulDavid1",
             "colors" : [
                 "Blue",
                 "Red"
