@@ -46,77 +46,62 @@
     "today": [
         {
             "type": "Icon Pack",
-            "title": "Vintage",
-            "subtitle": "Icon pack by @LeslyeCream",
-            "buttonSubtitle": "Ko-fi",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/vintage_icon.jpg",
-            "buttonTitle": "$4.00",
-            "targetUrl": "https://t.co/gFXne3WQOI",
-            "isDownload": false,
-            "author": "SeanKly",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
-            "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/themes/JB25.jpg"
-            ]
-        },
-        {
-            "type": "Icon Pack",
-            "title": "Iconic Apple",
+            "title": "Col3r",
             "subtitle": "Icon pack by @SeanKly",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iconicapple_icon.jpg",
-            "buttonTitle": "£1.00",
-            "targetUrl": "https://seankly.gumroad.com/l/pMUBjF",
+            "buttonSubtitle": "Direct Download",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Col3r_icon.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Col3r.zip",
             "isDownload": false,
             "author": "SeanKly",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/themes/JB25.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Col3r.png"
             ]
         },
         {
             "type": "Icon Pack",
-            "title": "Essense",
-            "subtitle": "Use code: ShowApp for 35% discount",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/essense_icon.jpg",
-            "buttonTitle": "$6.99",
-            "targetUrl": "https://dinhassets.gumroad.com/l/essense",
+            "title": "Concav3_Alt",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Direct Download",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Concav3Alt_icon.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Concav3_Alt.zip",
             "isDownload": false,
             "author": "SeanKly",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/themes/JB25.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Concav3_Alt.png"
             ]
         },
         {
             "type": "Icon Pack",
-            "title": "Essense",
-            "subtitle": "Use code: ShowApp for 35% discount",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/essense_icon.jpg",
-            "buttonTitle": "$6.99",
-            "targetUrl": "https://dinhassets.gumroad.com/l/essense",
+            "title": "Umb3r_Gr3yscal3",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Direct Download",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Umb3rGreyscale_icon.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Umb3r Grayscale.zip",
             "isDownload": false,
             "author": "SeanKly",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/themes/JB25.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Umb3r_Gr3yscal3.png"
             ]
         },
         {
             "type": "Icon Pack",
-            "title": "Circuit Icon Theme",
-            "subtitle": "Icon theme by @MyLoveJewels",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/CircuitTheme_icon.jpg",
-            "buttonTitle": "$4.89",
-            "targetUrl": "https://mylovejewel.gumroad.com/l/c1rcuit",
+            "title": "Mut3d_Black",
+            "subtitle": "Icon pack by @SeanKly",
+            "buttonSubtitle": "Direct Download",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Mut3dBlack_icon.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Mut3d_Black.zip",
             "isDownload": false,
             "author": "SeanKly",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/themes/JB25.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Mut3d_Black.png"
             ]
         }
     ],
