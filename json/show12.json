@@ -7581,6 +7581,16 @@
         }
     ],
     "wallpapers": [
+         {
+            "author" : "TeboulDavid1",
+            "colors" : [
+                "Gray",
+                "Black"
+            ],
+            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg652_thumb.jpg",
+            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg652.png"
+        },
         {
             "author" : "TeboulDavid1",
             "colors" : [
