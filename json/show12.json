@@ -7,7 +7,7 @@
             "buttonSubtitle": "Gumroad",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/elijah_featured2.jpg",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/weatherbeautiful",
             "blurIsDark": false,
             "headerHexColor": "ffffff",
@@ -5861,7 +5861,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Col3r_icon.png",
             "buttonTitle": "GET",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Col3r.zip",
-            "isDownload": false,
+            "isDownload": true,
             "author": "SeanKly",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrls": [
@@ -5876,7 +5876,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Concav3Alt_icon.png",
             "buttonTitle": "GET",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Concav3_Alt.zip",
-            "isDownload": false,
+            "isDownload": true,
             "author": "SeanKly",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrls": [
@@ -5891,7 +5891,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Umb3rGreyscale_icon.png",
             "buttonTitle": "GET",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Umb3r Grayscale.zip",
-            "isDownload": false,
+            "isDownload": true,
             "author": "SeanKly",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrls": [
@@ -5906,7 +5906,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Mut3dBlack_icon.png",
             "buttonTitle": "GET",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Mut3d_Black.zip",
-            "isDownload": false,
+            "isDownload": true,
             "author": "SeanKly",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrls": [
@@ -6444,7 +6444,7 @@
             "subtitle": "Icon pack by @corderoeliezer",
             "buttonSubtitle": "Geometric",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Newbury_icon.png",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://store.geometricsoftware.se/packages/com.angelmimi.newbury",
             "isDownload": false,
             "author": "corderoeliezer",
@@ -6924,7 +6924,7 @@
             "subtitle": "Icon pack by @ThemesOnFire",
             "buttonSubtitle": "Gumroad",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/TacoTaco_icon.jpg",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://t.co/3m9zSiVOmW",
             "isDownload": false,
             "author": "ThemesOnFire",
@@ -6954,7 +6954,7 @@
             "subtitle": "Icon theme by @TeboulDavid1",
             "buttonSubtitle": "Gumroad",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/PaletteDark_icon.png",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://smartwallpaperart.gumroad.com/l/Palette_Dark",
             "isDownload": false,
             "author": "TeboulDavid1",
@@ -7209,7 +7209,7 @@
             "subtitle": "Icon theme by @DaddyKool",
             "buttonSubtitle": "Link",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Orsam_icon.png",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://app.box.com/s/vmw539qetnmegcwzm6le52lo5yl7x6cj",
             "isDownload": false,
             "author": "DaddyKool",
@@ -7449,7 +7449,7 @@
             "subtitle": "Icon theme by @DaddyKool",
             "buttonSubtitle": "PayPal",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/iLarkeMotif_icon.png",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://www.paypal.com/paypalme/daddykool666",
             "isDownload": false,
             "author": "DaddyKool",
@@ -30498,12 +30498,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/The_Hour_Glass.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/The_Hour_Glass.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/The_Hour_Glass.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/The_Hour_Glass.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/thehourglass"
         },
         {
@@ -30511,12 +30511,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Beautiful_Weather.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/Beautiful_Weather.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Beautiful_Weather.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/Beautiful_Weather.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/weatherbeautiful"
         },
         {
@@ -30524,12 +30524,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Flip_Clock.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/Flip_Clock.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Flip_Clock.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/Flip_Clock.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/flipclock"
         },
         {
@@ -30537,12 +30537,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Minimal.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/Minimal.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Minimal.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/Minimal.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/minimal1"
         },
         {
@@ -30550,12 +30550,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Fluid_Clock.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/Fluid_Clock.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Fluid_Clock.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/Fluid_Clock.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/fluidclock"
         },
         {
@@ -30563,12 +30563,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Dot_Matrix_Clock.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/Dot_Matrix_Clock.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Dot_Matrix_Clock.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/Dot_Matrix_Clock.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/dotmatrixclock"
         },
         {
@@ -30576,12 +30576,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Radar_Watch.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/Radar_Watch.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Radar_Watch.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/Radar_Watch.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/radarwatch"
         },
         {
@@ -30589,12 +30589,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Day_&_Year_Progress.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/Day_&_Year_Progress.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Day_&_Year_Progress.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/Day_&_Year_Progress.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/progresschart"
         },
         {
@@ -30602,12 +30602,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Coffee_Break.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/Coffee_Break.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Coffee_Break.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/Coffee_Break.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/mycoffeebreak"
         },
         {
@@ -30615,12 +30615,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Minimal_2.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/Minimal_2.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Minimal_2.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/Minimal_2.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/minimal2"
         },
         {
@@ -30628,12 +30628,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Minimal_3.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/Minimal_3.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Minimal_3.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/Minimal_3.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/minimal3"
         },
         {
@@ -30641,12 +30641,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Minimal_4.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/Minimal_4.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Minimal_4.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/Minimal_4.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/minimal4"
         },
         {
@@ -30654,12 +30654,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Info_Watch.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/Info_Watch.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Info_Watch.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/Info_Watch.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/infowatch"
         },
         {
@@ -30667,12 +30667,12 @@
             "subtitle": "A widget by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freePreview/Classic_Dashboard_Weather.jpg"
+                "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETPreview/Classic_Dashboard_Weather.jpg"
             ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/freeMockup/Classic_Dashboard_Weather.jpg",
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/ElijahsWidgets/GETMockup/Classic_Dashboard_Weather.jpg",
             "author": "ElijahCreative",
             "buttonSubtitle": "Gumroad",
-            "buttonTitle": "FREE",
+            "buttonTitle": "GET",
             "targetUrl": "https://elijahcreative.gumroad.com/l/dashboardweather"
         },
         {
