@@ -171,6 +171,71 @@
     ],
     "themes": [
         {
+            "title": "SWA72",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Swa72.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/Swa72.zip",
+            "isDownload": true,
+            "authors": [
+                "TeboulDavid1"
+            ]
+        },
+        {
+            "title": "Asmi93",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi93.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi93.zip",
+            "isDownload": true,
+            "authors": [
+                "Asmi"
+            ]
+        },
+        {
+            "title": "Asmi94",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi94.jpg",
+            "tag1Text": "LOCK+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi94.zip",
+            "isDownload": true,
+            "authors": [
+                "Asmi"
+            ]
+        },
+        {
+            "title": "tb02",
+            "subtitle": "A theme by @tombowie",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/tb02.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tombowie/tb02.zip",
+            "isDownload": true,
+            "authors": [
+                "tombowie"
+            ]
+        },
+        {
+            "title": "tb03",
+            "subtitle": "A theme by @tombowie",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/tb03.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tombowie/tb03.zip",
+            "isDownload": true,
+            "authors": [
+                "tombowie"
+            ]
+        },
+        {
             "title": "SWA71",
             "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
