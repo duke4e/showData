@@ -5745,6 +5745,51 @@
     "icons": [
         {
             "type": "Icon Pack",
+            "title": "Glamour Pop",
+            "subtitle": "Icon pack by @LeslyeCream",
+            "buttonSubtitle": "Ko-fi",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/GlamourPop_icon.png",
+            "buttonTitle": "$4.00",
+            "targetUrl": "https://ko-fi.com/s/762852142a",
+            "isDownload": false,
+            "author": "leslyeCream",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/leslyeCream_avatar.jpg",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/GlamourPop_preview.png"
+            ]
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Noha",
+            "subtitle": "Icon pack by @LeslyeCream",
+            "buttonSubtitle": "Ko-fi",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Noha_icon.png",
+            "buttonTitle": "$4.00",
+            "targetUrl": "https://ko-fi.com/s/a528fe99e5",
+            "isDownload": false,
+            "author": "leslyeCream",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/leslyeCream_avatar.jpg",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Noah_preview.png"
+            ]
+        },
+        {
+            "type": "Icon Pack",
+            "title": "DUO",
+            "subtitle": "Icon pack by @LeslyeCream",
+            "buttonSubtitle": "Ko-fi",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/DUO_icon.png",
+            "buttonTitle": "$2.75",
+            "targetUrl": "https://ko-fi.com/s/87c347e6f7",
+            "isDownload": false,
+            "author": "leslyeCream",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/leslyeCream_avatar.jpg",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Duo_preview.png"
+            ]
+        },
+        {
+            "type": "Icon Pack",
             "title": "Col3r",
             "subtitle": "Icon pack by @SeanKly",
             "buttonSubtitle": "Direct Download",
