@@ -52,7 +52,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Col3r_icon.png",
             "buttonTitle": "GET",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Col3r.zip",
-            "isDownload": false,
+            "isDownload": true,
             "author": "SeanKly",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrls": [
@@ -67,7 +67,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Concav3Alt_icon.png",
             "buttonTitle": "GET",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Concav3_Alt.zip",
-            "isDownload": false,
+            "isDownload": true,
             "author": "SeanKly",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrls": [
@@ -82,7 +82,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Umb3rGreyscale_icon.png",
             "buttonTitle": "GET",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Umb3r Grayscale.zip",
-            "isDownload": false,
+            "isDownload": true,
             "author": "SeanKly",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrls": [
@@ -97,7 +97,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Mut3dBlack_icon.png",
             "buttonTitle": "GET",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/iconPacks/Mut3d_Black.zip",
-            "isDownload": false,
+            "isDownload": true,
             "author": "SeanKly",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "screenshotUrls": [
