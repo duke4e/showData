@@ -1,14 +1,15 @@
 {
     "featured": [
+        
         {
             "type": "Widgy Widget",
-            "title": "Emoji Island",
+            "title": "Beautiful Weather",
             "subtitle": "Widgy Widget by @ElijahCreative",
             "buttonSubtitle": "Gumroad",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/elijah_featured.jpg",
-            "buttonTitle": "PAID",
-            "targetUrl": "https://elijahcreative.gumroad.com/l/emojiisland",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/elijah_featured2.jpg",
+            "buttonTitle": "FREE",
+            "targetUrl": "https://elijahcreative.gumroad.com/l/weatherbeautiful",
             "blurIsDark": false,
             "headerHexColor": "ffffff",
             "headerTitle": "Featured",
