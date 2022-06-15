@@ -112,7 +112,7 @@
             "subtitle": "v1.926 iOS16 Beta1",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive_update.png",
-            "screenshotUrl": "",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/Shortcuts_Header_v2.png",
             "buttonTitle": "GET",
             "targetUrl": "https://www.icloud.com/shortcuts/fdba1eece8104d09996a029ab7fd148a",
             "isDownload": false
@@ -123,7 +123,7 @@
             "subtitle": "v1.924 - iOS 15",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/Shortcuts_Header_v2.png",
+            "screenshotUrl": "",
             "buttonTitle": "GET",
             "targetUrl": "https://www.icloud.com/shortcuts/f48d3277bd7b44fd822f420d20c72fcc",
             "isDownload": false
