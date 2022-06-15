@@ -108,19 +108,8 @@
     "shortcuts": [
         {
             "type": "SHORTCUT",
-            "title": "ShowLive",
-            "subtitle": "ShowLive v1.924",
-            "buttonSubtitle": "Shortcuts",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/Shortcuts_Header_v2.png",
-            "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/f48d3277bd7b44fd822f420d20c72fcc",
-            "isDownload": false
-        },
-        {
-            "type": "SHORTCUT",
             "title": "ShowLive iOS 16",
-            "subtitle": "ShowLive v1.926 iOS16",
+            "subtitle": "v1.926 iOS16 Beta1",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive_update.png",
             "screenshotUrl": "",
@@ -130,8 +119,19 @@
         },
         {
             "type": "SHORTCUT",
+            "title": "ShowLive",
+            "subtitle": "v1.924 - iOS 15",
+            "buttonSubtitle": "Shortcuts",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/Shortcuts_Header_v2.png",
+            "buttonTitle": "GET",
+            "targetUrl": "https://www.icloud.com/shortcuts/f48d3277bd7b44fd822f420d20c72fcc",
+            "isDownload": false
+        },
+        {
+            "type": "SHORTCUT",
             "title": "ShowLive Helper",
-            "subtitle": "Helper v1.18",
+            "subtitle": "v1.18 - iOS 15 & 16",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/SLApp_Helper.png",
             "screenshotUrl": "",
