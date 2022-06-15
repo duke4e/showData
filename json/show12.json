@@ -6,7 +6,7 @@
             "subtitle": "New Release by @ThemesOnFire",
             "buttonSubtitle": "Gumroad",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ThemesOnFire.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/dreamyIcons_Feature.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/dreamyIcons_Feature2.jpg",
             "buttonTitle": "PAID",
             "targetUrl": "",
             "blurIsDark": false,
@@ -5848,6 +5848,21 @@
         }
     ],
     "icons": [
+        {
+            "type": "Icon Pack",
+            "title": "Dreamy Icons",
+            "subtitle": "New Release by @ThemesOnFire",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/dreamyIcon_ThemesOnFire.png",
+            "buttonTitle": "PAID",
+            "targetUrl": "",
+            "isDownload": false,
+            "author": "ThemesOnFire",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ThemesOnFire.jpg",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/dreamyPreview_ThemesOnFire.png"
+            ]
+        },
         {
             "type": "Icon Pack",
             "title": "Glamour Pop",
