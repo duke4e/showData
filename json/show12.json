@@ -15,6 +15,20 @@
             "internalType": "widget"
         },
         {
+            "type": "Icon Pack",
+            "title": "Dreamy Icons",
+            "subtitle": "New Release by @ThemesOnFire",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ThemesOnFire.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/dreamyIcons_Feature.jpg",
+            "buttonTitle": "PAID",
+            "targetUrl": "https://themesonfire.gumroad.com/l/Dreamy",
+            "blurIsDark": false,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Featured",
+            "internalType": "icon"
+        },
+        {
             "type": "ShowLive Theme",
             "title": "TB02",
             "subtitle": "New Release by @tombowie",
