@@ -2,6 +2,20 @@
     "featured": [
         {
             "type": "Icon Pack",
+            "title": "Depths Icons",
+            "subtitle": "Give your icons some depths",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Broank_profpic.PNG",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/Broank_Featured.PNG",
+            "buttonTitle": "PAID",
+            "targetUrl": "https://polyphian.gumroad.com/l/Depths",
+            "blurIsDark": false,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Featured",
+            "internalType": "icon"
+        },
+        {
+            "type": "Icon Pack",
             "title": "Dreamy Icons",
             "subtitle": "New Release by @ThemesOnFire",
             "buttonSubtitle": "Gumroad",
@@ -5799,6 +5813,21 @@
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ThemesOnFire.jpg",
             "screenshotUrls": [
                 "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/dreamyPreview_ThemesOnFire.png"
+            ]
+        },
+        {
+            "type": "Icon Pack",
+            "title": "Depths Icons",
+            "subtitle": "Give your icons some depths",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/depths_Icon.png",
+            "buttonTitle": "$7.79",
+            "targetUrl": "https://polyphian.gumroad.com/l/Depths",
+            "isDownload": false,
+            "author": "Polyphian",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Broank_profpic.PNG",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/depthsPreview.png"
             ]
         },
         {
