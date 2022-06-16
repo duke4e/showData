@@ -1,6 +1,20 @@
 {
     "featured": [
         {
+            "type": "Wallpaper",
+            "title": "SWA Wallpaper",
+            "subtitle": "Wallpapers by @TeboulDavid1",
+            "buttonSubtitle": "Download",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/swa_feature3.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg633.png",
+            "blurIsDark": false,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Featured",
+            "internalType": "wallpaper"
+        },
+        {
             "type": "Icon Pack",
             "title": "Depths Icons",
             "subtitle": "Give your icons some depths",
@@ -55,21 +69,8 @@
             "headerHexColor": "000000",
             "headerTitle": "Featured",
             "internalType": "theme"
-        },
-        {
-            "type": "Wallpaper",
-            "title": "SWA Wallpaper",
-            "subtitle": "Wallpapers by @TeboulDavid1",
-            "buttonSubtitle": "Download",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/swa_feature3.jpg",
-            "buttonTitle": "GET",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg633.png",
-            "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Featured",
-            "internalType": "wallpaper"
         }
+
     ],
     "shortcuts": [
         {
