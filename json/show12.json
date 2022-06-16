@@ -47100,7 +47100,7 @@
         "themesImageHeight": 736,
         "shortcutsHeaderAspectFit": false,
         "howToHeaderAspectFit": false,
-        "freeItemsOnly": false,
+        "freeItemsOnly": true,
         "newsUrl": "https://github.com/duke4e/showData/raw/main/news/news.md",
         "contentRightsUrl": "https://github.com/duke4e/showData/raw/main/contentRights/contentRights.md",
         "newsLastDate": "09.06.2022",
