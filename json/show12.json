@@ -7616,6 +7616,27 @@
         }
     ],
     "wallpapers": [
+         {
+            "author": "TeboulDavid1",
+            "colors": [
+                "Blue",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg655.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg655.png"
+        },
+        {
+            "author": "TeboulDavid1",
+            "colors": [
+                "Gray",
+                "Green",
+                "Brown"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg654.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg654.png"
+        },
         {
             "author": "TeboulDavid1",
             "colors": [
@@ -21436,6 +21457,17 @@
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/iBidule/wallThumbs/Enygma_Day_by_ibidule.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/iBidule_profpic.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/iBidule/walls/Enygma_Day_by_ibidule.jpg"
+        },
+        {
+            "author": "themexriver1",
+            "colors": [
+                "Black",
+                "Rose",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/themexriver1/wallThumbs/IMG_0121.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/themexriver1.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/themexriver1/walls/IMG_0121.PNG"
         },
         {
             "author": "themexriver1",
