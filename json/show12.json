@@ -10,7 +10,7 @@
             "buttonTitle": "PAID",
             "targetUrl": "https://polyphian.gumroad.com/l/Depths",
             "blurIsDark": false,
-            "headerHexColor": "ffffff",
+            "headerHexColor": "000000",
             "headerTitle": "Featured",
             "internalType": "icon"
         },
