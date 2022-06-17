@@ -131,6 +131,45 @@
     ],
     "themes": [
         {
+            "title": "tb04",
+            "subtitle": "A theme by @tombowie",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/tb04.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tombowie/tb04.zip",
+            "isDownload": true,
+            "authors": [
+                "tombowie"
+            ]
+        },
+        {
+            "title": "JB223",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB223.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB223.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB224_ppickCH",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB224_ppickCH.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB224_ppickCH.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
             "title": "SWA73",
             "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
@@ -7616,6 +7655,28 @@
         }
     ],
     "wallpapers": [
+        {
+            "author": "TeboulDavid1",
+            "colors": [
+                "Blue",
+                "Orange",
+                "Purple",
+                "White"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg657.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg657.png"
+        },
+        {
+            "author": "TeboulDavid1",
+            "colors": [
+                "Blue",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg658.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg658.png"
+        },
         {
             "author": "TeboulDavid1",
             "colors": [
@@ -23226,6 +23287,16 @@
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/themexriver1/wallThumbs/IMG_1112.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/themexriver1.jpg",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/themexriver1/walls/IMG_1112.JPG"
+        },
+        {
+            "author": "fresk0_",
+            "colors": [
+                "Blue",
+			"Pink"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/fresk0_/wallThumbs/755D8E74-479A-4612-8B9A-CC1F2B0CF78A.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/fresk0_.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/fresk0_/walls/755D8E74-479A-4612-8B9A-CC1F2B0CF78A.jpg"
         },
         {
             "author": "fresk0_",
