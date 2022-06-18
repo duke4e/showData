@@ -47183,6 +47183,8 @@
         "socialHandles2": "@Jacmeister\n@TeboulDavid1\n@Tito\n@Boots",
         "twitterUrl": "https://mobile.twitter.com/SeanKly",
         "discordUrl": "https://discord.gg/ab5H95YYXd",
+        "emailUrl": "support@show-online.co.uk",
+        "telegramUrl": "https://t.me/+urxfCpCtJYllMjhk",
         "themesImageWidth": 1190,
         "themesImageHeight": 736,
         "shortcutsHeaderAspectFit": false,
@@ -47194,6 +47196,8 @@
         "featuredAutoscrollSpeed": 5,
         "infoHeaderText": "ShowCuts 1.2\n#ShowTeam\n\nShowLive Build 1.925 last updated 30/05/22\nShowLive Helper Build 1.18 last updated 28/05/22",
         "appsByFriendsTitle": "We are here for you!",
-        "appsByFriendsSubtitle": "Be sure to check us out..."
+        "appsByFriendsSubtitle": "Be sure to check us out...",
+        "socialTitle": "We are here for you!",
+        "socialSubtitle": "Be sure to check us out..."
     }
 }
