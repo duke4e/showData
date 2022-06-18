@@ -90,7 +90,7 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive",
-            "subtitle": "v1.924",
+            "subtitle": "v1.925",
             "buttonSubtitle": "Shortcut",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/Shortcuts_Header_v2.png",
@@ -47192,8 +47192,8 @@
         "contentRightsUrl": "https://github.com/duke4e/showData/raw/main/contentRights/contentRights.md",
         "newsLastDate": "09.06.2022",
         "featuredAutoscrollSpeed": 5,
-        "infoHeaderText": "ShowCuts 1.2\n#ShowTeam\n\nShowLive Build 1.924 last updated 30/05/22\nShowLive Helper Build 1.18 last updated 28/05/22",
-        "appsByFriendsTitle": "Want more great stuff?",
-        "appsByFriendsSubtitle": "Be sure to check this out!"
+        "infoHeaderText": "ShowCuts 1.2\n#ShowTeam\n\nShowLive Build 1.925 last updated 30/05/22\nShowLive Helper Build 1.18 last updated 28/05/22",
+        "appsByFriendsTitle": "We are here for you!",
+        "appsByFriendsSubtitle": "Be sure to check us out..."
     }
 }
