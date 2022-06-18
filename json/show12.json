@@ -6,9 +6,9 @@
             "subtitle": "New Release by @jennysblessed",
             "buttonSubtitle": "Download",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/jbfeature1.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/jbfeature2.jpg",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tombowie/JB227_ppickCH.zip",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tombowie/JB225_ppickCH.zip",
             "blurIsDark": false,
             "headerHexColor": "000000",
             "headerTitle": "Featured",
@@ -133,19 +133,6 @@
         }
     ],
     "themes": [
-        {
-            "title": "JB227_ppickCH",
-            "subtitle": "Live Laugh Love @jennysblessed",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB227_ppickCH.jpg",
-            "tag1Text": "HOME",
-            "tag2Text": "",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB227_ppickCH.zip",
-            "isDownload": true,
-            "authors": [
-                "jennysblessed"
-            ]
-        },
         {
             "title": "tb04",
             "subtitle": "A theme by @tombowie",
