@@ -79,12 +79,12 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive",
-            "subtitle": "ShowLive v1.924",
+            "subtitle": "ShowLive v1.927",
             "buttonSubtitle": "Shortcuts",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/shortcuts_Header7.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/f48d3277bd7b44fd822f420d20c72fcc",
+            "targetUrl": "https://www.icloud.com/shortcuts/18e95d0f38b54029ba19af819b884257",
             "isDownload": false
         },
         {
@@ -5714,7 +5714,7 @@
         "themesImageWidth": 1190,
         "themesImageHeight": 736,
         "freeItemsOnly": false,
-        "newsText": "⚠️ iOS 16 Beta 1 has various issues with setting wallpaper DO NOT UPGRADE if you want to continue using ShowLive Shortcut. I have a workaround and will release it soon.",
+        "newsText": "ShowLive shortcut updated to v1.927 Adds Months of the year actions",
         "featuredAutoscrollSpeed": 5
     }
 }
