@@ -76,12 +76,12 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive iOS 16",
-            "subtitle": "v1.926 iOS16 Beta1",
+            "subtitle": "v1.927 iOS16 Beta1",
             "buttonSubtitle": "Shortcut",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive_update.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/Shortcuts_Header_v2.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/fdba1eece8104d09996a029ab7fd148a",
+            "targetUrl": "https://www.icloud.com/shortcuts/8c5d52b53ae4418b9783aaf7d4adf554",
             "isDownload": false
         },
         {
@@ -92,7 +92,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/f48d3277bd7b44fd822f420d20c72fcc",
+            "targetUrl": "https://www.icloud.com/shortcuts/04803efa4dac4264b3fb5d1f78179dfc",
             "isDownload": false
         },
         {

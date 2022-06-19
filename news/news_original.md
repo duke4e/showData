@@ -4,6 +4,16 @@
 
 <br>
 
+#### ShowLive v1.927
+June 19th 2022
+
+
+Added “Months of the Year” actions. 
+
+<br>
+
+—
+
 #### ShowLive v1.926 iOS16 
 May 07th 2022
 
