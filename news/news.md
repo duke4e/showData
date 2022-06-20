@@ -20,8 +20,11 @@ v1.2 Release notes:
 + Themes filter by Type & Creator
 + Gallery page now has Icon Packs, Wallpapers & Widgets
 + Icon packs can be filtered by creator
++ Icon packs can be previewed in full screen
 + Wallpapers can be filtered by dominant Colour & Creator
++ Wallpapers can be previewed in full screen
 + Widgets can be filtered by Size and Creator
++ Widgets can be previewed full screen
 
 Info Page:
 + App Icon can be changed from Info page
