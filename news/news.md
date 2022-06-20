@@ -26,14 +26,10 @@ v1.2 Release notes:
 Info Page:
 + App Icon can be changed from Info page
 + Added appearance toggle to Info page
-+ Added Donation buttons to info page
-+ Submit your design added to info page
++ Added Donation buttons to Info page
++ Submit your design added to Info page
 + Apps by friends added
 + Social links now active and clickable
-
-
-
-
 
 <br>
 
