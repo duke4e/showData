@@ -4,20 +4,6 @@
 
 <br>
 
-
-#### ShowLive v1.925 
-May 20th 2022
-
-Adds Mapaper App integration into Maps
-
-Requires Mapaper App to work. 
-
-Add this line to the json:
-
-    "mapaperApp": 1,
-
-<br>
-
 ---
 
 #### ShowLive v1.925  Helper v1.19 
