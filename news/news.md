@@ -6,6 +6,39 @@
 
 ---
 
+#### ShowCuts App Update v1.2
+June 20th 2022
+
+v1.2 Release notes:
+
++ Renamed Home page to Today page
++ Added Info page
++ Added Gallery page
++ Added random Icon Packs feature to Today page instead of pre-populated Icon Packs
++ HowTo page moved to Shortcuts Page as Link
++ Shortcuts header image updated
++ Themes filter by Type & Creator
++ Gallery page now has Icon Packs, Wallpapers & Widgets
++ Icon packs can be filtered by creator
++ Wallpapers can be filtered by dominant Colour & Creator
++ Widgets can be filtered by Size and Creator
+
+Info Page:
++ App Icon can be changed from Info page
++ Added appearance toggle to Info page
++ Added Donation buttons to info page
++ Submit your design added to info page
++ Apps by friends added
++ Social links now active and clickable
+
+
+
+
+
+<br>
+
+---
+
 #### ShowLive v1.927  Helper v1.20 
 June 16th 2022
 
