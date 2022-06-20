@@ -6,6 +6,21 @@
 
 ---
 
+#### ShowLive v1.927  Helper v1.20 
+June 16th 2022
+
+Adds function to ShowLive:
+
+    "Months of the Year"
+
+Helper has added function to encode MOTY images to Base64 Code
+
+
+<br>
+
+
+---
+
 #### ShowLive v1.925  Helper v1.19 
 May 20th 2022
 
