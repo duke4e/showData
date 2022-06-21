@@ -20,10 +20,6 @@ Please remember to "Always Allow" on every prompt.
 
 <br>
 
-
----
-<br>
-
 ---
 
 #### ShowCuts App Update v1.2
