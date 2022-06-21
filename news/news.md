@@ -1,7 +1,27 @@
 <font size="2">
 
 ## News and Updates
+<br>
 
+---
+
+#### ShowLive v1.929
+June 21st 2022
+
+ShowLive Shortcut updated:
+
++ Only one shortcut now required for iOS 14, 15 & 16
+
+Shortcut versions for iOS 14 & 15 work as normal and set wallpaper automatically. iOS 16 Version continues to use the workaround but will show a preview of the theme and will also save the image to your "Recents" photo album for setting manually in Wallpaper settings.
+
+The link has been updated in the "Shortcuts" section in the App.
+
+Please remember to "Always Allow" on every prompt.
+
+<br>
+
+
+---
 <br>
 
 ---
