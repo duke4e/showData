@@ -522,6 +522,7 @@
     },
     "it": {
         "SERENO": "1",
+        "SOLEGGIATO": "1",
         "PREVALENTEMENTE SERENO": "1",
         "PARZIALMENTE NUVOLOSO": "2",
         "PIÙ NUVOLOSO": "3",
