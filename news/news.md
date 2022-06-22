@@ -6,6 +6,21 @@
 ---
 
 #### ShowLive v1.929
+June 22nd 2022
+
+ShowLive Shortcut updated:
+
++ Fixed an issue with weather walls not showing. 
+
+No version change on this one. Just a bug fix.  
+
+Download the updated shortcut from the Shortcuts page. Replace the installed shortcut. 
+
+<br>
+
+—
+
+#### ShowLive v1.929
 June 21st 2022
 
 ShowLive Shortcut updated:
