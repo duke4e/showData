@@ -4,6 +4,22 @@
 <br>
 
 ---
+#### screenshotSL
+June 29th 2022
+
+screenshotSL Shortcut updated:
+
++ Assets are no longer saved into memory but downloaded 
+
+Fix for iOS 16 beta. Images would load then close immediately.
+
+Assets are downloaded from Box.com. Please "Always allow" on every prompt.
+
+Download the updated shortcut from the Shortcuts page. Replace the already installed shortcut. 
+
+<br>
+
+—
 
 #### ShowLive v1.929
 June 22nd 2022
@@ -14,7 +30,7 @@ ShowLive Shortcut updated:
 
 No version change on this one. Just a bug fix.  
 
-Download the updated shortcut from the Shortcuts page. Replace the installed shortcut. 
+Download the updated shortcut from the Shortcuts page. Replace the already installed shortcut. 
 
 <br>
 
