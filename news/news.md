@@ -4,6 +4,21 @@
 <br>
 
 ---
+#### ShowLive v1.931
+July 11th 2022
+
+ShowLive Shortcut updated:
+
++ Code optimisations 
++ Better blur rendering
++ Added "weatherdesc_user2"
++ Removed "Edit" mode  
+
+Download the updated shortcut from the Shortcuts page. Replace the already installed shortcut. 
+
+<br>
+
+—
 #### screenshotSL
 June 29th 2022
 
