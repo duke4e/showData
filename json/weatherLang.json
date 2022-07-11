@@ -247,7 +247,19 @@
         "HURRICANE": "14",
         "TORNADO": "14",
         "FRIGID TEMPS": "50",
-        "HOT": "51"
+        "HOT": "51",
+        "january": "january",
+        "february": "february",
+        "march": "march",
+        "april": "april",
+        "may": "may",
+        "june": "june",
+        "july": "july",
+        "august": "august",
+        "september": "september",
+        "october": "october",
+        "november": "november",
+        "december": "december"
     },
     "es": {
         "CALIENTE": "51",
@@ -296,7 +308,19 @@
         "HUMO": "13",
         "HURACAN": "14",
         "TORMENTAS DISPERSAS": "8",
-        "TEMPERATURAS CONGELANTES": "50"
+        "TEMPERATURAS CONGELANTES": "50",
+        "enero": "january",
+        "febrero": "february",
+        "marzo": "march",
+        "abril": "april",
+        "mayo": "may",
+        "junio": "june",
+        "julio": "july",
+        "agosto": "august",
+        "septiembre": "september",
+        "octubre": "october",
+        "noviembre": "november",
+        "diciembre": "december"
     },
     "fi": {
         "SELKEÄÄ": "1",
