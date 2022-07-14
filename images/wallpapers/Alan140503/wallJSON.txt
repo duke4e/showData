@@ -1,0 +1,1056 @@
+{
+            "author": "Alan140503",
+            "colors": [
+                "Yellow",
+                "Pink"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/@G_Walls_2614.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/@G_Walls_2614.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Purple",
+                "Green",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/@G_Walls_2615.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/@G_Walls_2615.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Purple",
+                "Green",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/@G_Walls_2617.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/@G_Walls_2617.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Cyan",
+                "Pink",
+                "Green"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/@G_Walls_2618.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/@G_Walls_2618.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Purple",
+                "Blue",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/@G_Walls_2619.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/@G_Walls_2619.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Purple",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/AlanG_0507222.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/AlanG_0507222.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/AlanG_0507221.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/AlanG_0507221.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Purple",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/@G_Walls_2613.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/@G_Walls_2613.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/@G_Walls_2612.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/@G_Walls_2612.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Purple",
+                "Green"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/@G_Walls_2611.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/@G_Walls_2611.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Purple"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/@G_Walls_2610.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/@G_Walls_2610.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Purple",
+                "Orange",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2609.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2609.jpg"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2546.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2546.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2547.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2547.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Rose",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2591.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2591.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2396.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2396.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Cyan",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2383.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2383.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Brown",
+                "Green"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2341.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2341.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Gray",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2545.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2545.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Rose",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2590.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2590.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Gray",
+                "Purple"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2384.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2384.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "White",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2544.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2544.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2587.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2587.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Rose",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2407_05.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2407_05.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Blue",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2408.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2408.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2418.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2418.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Brown"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2568.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2568.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Blue",
+                "Rose"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2434.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2434.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2353.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2353.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Green"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2409.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2409.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Blue",
+                "Purple"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2386.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2386.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Rose",
+                "Green"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2557.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2557.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Cyan",
+                "White"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2421.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2421.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Purple"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2347.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2347.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2541.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2541.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2555.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2555.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2479.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2479.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Purple"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2508_Geom.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2508_Geom.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2387.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2387.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2436.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2436.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Blue",
+                "Purple"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2581.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2581.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2509_Geom.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2509_Geom.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Gray",
+                "Blue",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2492.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2492.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2556.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2556.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "White",
+                "Gray",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2493.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2493.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Rose",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2486.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2486.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Purple",
+                "White"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2518.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2518.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Violet"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2487.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2487.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Cyan",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2453.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2453.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Blue",
+                "White"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2478.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2478.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2325.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2325.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2491.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2491.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2483.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2483.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Violet",
+                "Rose",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2495.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2495.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2454.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2454.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Green",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2456.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2456.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Yellow"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_250322.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_250322.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2494.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2494.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Gray",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2441.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2441.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2522.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2522.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Red",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2464.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2464.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Violet",
+                "Gray",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2498.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2498.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Violet",
+                "Brown"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2539.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2539.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Cyan",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2465.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2465.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Purple",
+                "Yellow"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2327.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2327.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2513.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2513.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Blue",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2328.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2328.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Cyan",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2521.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2521.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Orange",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2517.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2517.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Red",
+                "Orange",
+                "Violet"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2462.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2462.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2512.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2512.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Gray",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2475.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2475.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2448.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2448.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Gray",
+                "Purple",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2529.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2529.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Cyan",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2461.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2461.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Gray",
+                "Black",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2506.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2506.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Violet"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2567.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2567.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2474.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2474.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Gray",
+                "Purple"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2406.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2406.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Red",
+                "Rose"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2573.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2573.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2572.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2572.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2349.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2349.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Brown",
+                "Rose"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2598.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2598.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Purple",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2407.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2407.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2566.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2566.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "White",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2603.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2603.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2388.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2388.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2510_Geom.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2510_Geom.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2377.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2377.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Purple"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2565.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2565.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2558.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2558.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Cyan",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2564.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2564.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2560.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2560.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Purple",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2602.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2602.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2548.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2548.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Cyan",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2414.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2414.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Blue",
+                "Gray",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2601.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2601.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black",
+                "Blue",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2574.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2574.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Gray",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2366.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2366.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Gray",
+                "Purple",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2365.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2365.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Yellow",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2588.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2588.png"
+        },
+        {
+            "author": "Alan140503",
+            "colors": [
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/wallThumbs/G_Walls_2507_Geom.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Alan140503.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Alan140503/walls/G_Walls_2507_Geom.png"
+        },
