@@ -8769,6 +8769,29 @@
             "author": "TeboulDavid1",
             "colors": [
                 "Black",
+                "Red",
+                "Orange",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg719.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg719.png"
+        },
+        {
+            "author": "TeboulDavid1",
+            "colors": [
+                "White",
+                "Gray",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg718.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg718.png"
+        },
+        {
+            "author": "TeboulDavid1",
+            "colors": [
+                "Black",
                 "Blue",
                 "Yellow",
                 "Purple"
