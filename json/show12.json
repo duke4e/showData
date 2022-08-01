@@ -102,6 +102,111 @@
         }
     ],
     "themes": [
+        
+        {
+            "title": "JB256_simonjap63",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB256_simonjap63.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB256_simonjap63.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB17_wigebox",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB17_wigebox.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB17_wigebox.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB255_mittiboy",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB255_mittiboy.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB255_mittiboy.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB253_FAlhmma",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB253_FAlhmma.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB253_FAlhmma.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB67",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB67.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB67.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB50_jaimito503",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB50_jaimito503.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB50_jaimito503.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB17_wigebox",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB17_wigebox.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB17_wigebox.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "Swa85",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Swa85.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/Swa85.zip",
+            "isDownload": true,
+            "authors": [
+                "TeboulDavid1"
+            ]
+        },
         {
             "title": "Swa84",
             "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
