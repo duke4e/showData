@@ -4,6 +4,22 @@
 <br>
 
 ---
+#### ShowLive v1.932
+August 02nd 2022
+
+ShowLive Shortcut updated:
+
++ Added support for iOS 16 b4
++ Fixed language error for iOS 16 b4 
++ Code optimisations  
+
+*Please note that this version will no longer show a theme preview. The theme will be saved to your "Recents" photo album.*
+
+Download the updated shortcut from the Shortcuts page. Replace the already installed shortcut. 
+
+<br>
+
+—
 #### ShowLive v1.931
 July 11th 2022
 
