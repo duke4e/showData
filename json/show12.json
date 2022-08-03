@@ -2,57 +2,42 @@
     "featured": [
         {
             "type": "ShowLive Theme",
-            "title": "Swa83",
-            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SWA83Feature.jpg",
+            "title": "SKJB_shads_evynw",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SKJB_shads_evynw.jpg",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/Swa83.zip",
-            "blurIsDark": true,
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/SKJB_shads_evynw.zip",
+            "blurIsDark": false,
             "headerHexColor": "ffffff",
             "headerTitle": "Featured",
             "internalType": "theme"
-        },
-        {
-            "type": "Icon Pack",
-            "title": "Abstract Icon Theme",
-            "subtitle": "Icon pack by @MyLoveJewels",
-            "buttonSubtitle": "GumRoad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MyLoveJewels.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/MyLoveJewels_feature.jpg",
-            "buttonTitle": "GET",
-            "targetUrl": "https://t.co/jqF5hFSQUB",
-            "blurIsDark": false,
-            "headerHexColor": "000000",
-            "headerTitle": "Featured",
-            "internalType": "icon"
         },
         {
             "type": "ShowLive Theme",
-            "title": "Boots 7",
+            "title": "B8-lialioo",
             "subtitle": "A theme by @boots6972",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Boots.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/BootsFeature.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/B8-lialioo.jpg",
             "buttonTitle": "GET",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/boots6972/boots7_2.zip",
-            "blurIsDark": true,
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/boots6972/B8-lialioo.zip",
+            "blurIsDark": false,
             "headerHexColor": "ffffff",
             "headerTitle": "Featured",
             "internalType": "theme"
         },
         {
-            "type": "Icon Pack",
-            "title": "iOS Old School",
-            "subtitle": "Icon pack by @BenVessey",
-            "buttonSubtitle": "GumRoad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/BenVessey.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/oldSchool_Featured.jpg",
-            "buttonTitle": "£4.99",
-            "targetUrl": "https://completesense.gumroad.com/l/ios_old_school",
-            "blurIsDark": true,
-            "headerHexColor": "000000",
+            "type": "ShowLive Theme",
+            "title": "JB262_asdlordesigns",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB262_asdlordesigns.jpg",
+            "buttonTitle": "GET",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB262_asdlordesigns.zip",
+            "blurIsDark": false,
+            "headerHexColor": "ffffff",
             "headerTitle": "Featured",
-            "internalType": "icon"
+            "internalType": "theme"
         }
     ],
     "shortcuts": [
@@ -102,6 +87,32 @@
         }
     ],
     "themes": [
+        {
+            "title": "SKJB_shads_evynw",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SKJB_shads_evynw.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/SKJB_shads_evynw.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB262_asdlordesigns",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB262_asdlordesigns.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB262_asdlordesigns.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
         {
             "title": "B8-lialioo",
             "subtitle": "A theme by @boots6972",
