@@ -88,6 +88,123 @@
     ],
     "themes": [
         {
+            "title": "Swa86",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Swa86.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/Swa86.zip",
+            "isDownload": true,
+            "authors": [
+                "TeboulDavid1"
+            ]
+        },
+        {
+            "title": "Swa87",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Swa87.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/Swa87.zip",
+            "isDownload": true,
+            "authors": [
+                "TeboulDavid1"
+            ]
+        },
+        {
+            "title": "CurtMit3",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtMit3.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtMit3.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
+            "title": "CurtMit1",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtMit1.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtMit1.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
+            "title": "CurtMit2",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtMit2.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtMit2.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
+            "title": "CurtSWA13",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtSWA13.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtSWA13.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
+            "title": "CurtDOTW",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtDOTW.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtDOTW.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
+            "title": "Boots9",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Boots9.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/Boots9.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
+            "title": "CurtPayRun",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtPayRun.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtPayRun.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
             "title": "SKJB_shads_evynw",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
@@ -8854,6 +8971,28 @@
         }
     ],
     "wallpapers": [
+        {
+            "author": "TeboulDavid1",
+            "colors": [
+                "Black",
+                "Blue",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg726.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg726.png"
+        },
+        {
+            "author": "TeboulDavid1",
+            "colors": [
+                "Black",
+                "Blue",
+                "Green"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg725.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg725.png"
+        },
         {
             "author": "TeboulDavid1",
             "colors": [
