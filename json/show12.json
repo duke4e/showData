@@ -179,19 +179,6 @@
             ]
         },
         {
-            "title": "CurtTom2",
-            "subtitle": "A recreation by @UtdAll",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtTom2.jpg",
-            "tag1Text": "HOME",
-            "tag2Text": "",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtTom2.zip",
-            "isDownload": true,
-            "authors": [
-                "UtdAll"
-            ]
-        },
-        {
             "title": "CurtTom1",
             "subtitle": "A recreation by @UtdAll",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
@@ -199,6 +186,19 @@
             "tag1Text": "HOME",
             "tag2Text": "",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtTom1.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
+            "title": "CurtTom2",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtTom2.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtTom2.zip",
             "isDownload": true,
             "authors": [
                 "UtdAll"
