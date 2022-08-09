@@ -4,6 +4,23 @@
 <br>
 
 ---
+#### ShowLive v1.934
+August 09th 2022
+
+ShowLive Shortcut updated:
+
++ Added support for iOS 16 b5
++ Code optimisations  
+
+*Please note there are some steps that must to be taken before setting any LS or HS wallpapers automatically with the ShowLive shortcut. If you do not follow the instructions found [HERE](https://github.com/duke4e/showData/raw/main/news/iOS16b5_HowTo.jpg) the shortcut will not set the wallpaper. It is very important that you create both the iOS Focus modes with the exact same and naming & format... "ShowLive On" & "ShowLive Off".*
+
+Remember we have a dedicated Telegram Channel for support. You can find the link for the Telegram support channel on the info page.
+
+Download the updated ShowLive v1.934 shortcut from the Shortcuts page. Replace the already installed shortcut. Backwards compatibility with iOS14 remains the same.
+
+<br>
+
+—
 #### ShowLive v1.932
 August 02nd 2022
 
