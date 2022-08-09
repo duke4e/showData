@@ -1,6 +1,19 @@
 {
     "featured": [
         {
+            "type": "Icon Pack",
+            "title": "Skyline Icon Pack",
+            "subtitle": "New release by Coccco28",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Coccco28.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/Skyline_feature.jpg",
+            "buttonTitle": "PayPal",
+            "targetUrl": "http://paypal.me/coccco28design",
+            "blurIsDark": true,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Exclusive",
+            "internalType": "icon"
+        },
+        {
             "type": "ShowLive Theme",
             "title": "SKJB_shads_evynw",
             "subtitle": "Live Laugh Love @jennysblessed",
@@ -7228,6 +7241,21 @@
     "icons": [
         {
             "type": "Icon Pack",
+            "title": "Skyline",
+            "subtitle": "Icon pack by @Coccco28",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Skyline_icon.png",
+            "buttonTitle": "$3.00",
+            "targetUrl": "http://paypal.me/coccco28design",
+            "isDownload": false,
+            "author": "Coccco28",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Coccco28.jpg",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Skyline.png"
+            ]
+        },
+        {
+            "type": "Icon Pack",
             "title": "Abstract Icon Theme",
             "subtitle": "Icon pack by @MyLoveJewels",
             "buttonSubtitle": "Gumroad",
@@ -9081,7 +9109,7 @@
             "targetUrl": "http://paypal.me/coccco28design",
             "isDownload": false,
             "author": "Coccco28",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Coccco28.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpgco28.jpg",
             "screenshotUrls": [
                 "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Desire.png"
             ]
