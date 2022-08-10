@@ -101,6 +101,19 @@
     ],
     "themes": [
         {
+            "title": "sarah01",
+            "subtitle": "Sarah says... @sarah19773",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/sarah_ProfPic.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/sarah01.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/sarah/sarah01.zip",
+            "isDownload": true,
+            "authors": [
+                "Sarah"
+            ]
+        },
+        {
             "title": "Swa88",
             "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
