@@ -101,6 +101,32 @@
     ],
     "themes": [
         {
+            "title": "CurtTom3",
+            "subtitle": "A colab by @tombowie & @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtTom3.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tombowie/CurtTom3.zip",
+            "isDownload": true,
+            "authors": [
+                "tombowie"
+            ]
+        },
+        {
+            "title": "tb06_Curt",
+            "subtitle": "A colab by @tombowie & UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/tb06_Curt.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tombowie/tb06_Curt.zip",
+            "isDownload": true,
+            "authors": [
+                "tombowie"
+            ]
+        },
+        {
             "title": "sarah01",
             "subtitle": "Sarah says... @sarah19773",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/sarah_ProfPic.png",
