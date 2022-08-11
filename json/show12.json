@@ -162764,6 +162764,166 @@
     ],
     "widgys": [
         {
+            "title": "SWA_W1",
+            "subtitle": "Widgy by @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freePreview/SWA_W1.PNG"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freeMockup/SWA_W1.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Widgy URL",
+            "buttonTitle": "GET",
+            "sizes": [
+                "Medium"
+            ],
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W1.txt"
+        },
+        {
+            "title": "SWA_W2",
+            "subtitle": "Widgy by @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freePreview/SWA_W2.PNG"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freeMockup/SWA_W2.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Widgy URL",
+            "buttonTitle": "GET",
+            "sizes": [
+                "Medium"
+            ],
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W2.txt"
+        },
+        {
+            "title": "SWA_W3",
+            "subtitle": "Widgy by @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freePreview/SWA_W3.PNG"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freeMockup/SWA_W3.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Widgy URL",
+            "buttonTitle": "GET",
+            "sizes": [
+                "Medium"
+            ],
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W3.txt"
+        },
+        {
+            "title": "SWA_W4",
+            "subtitle": "Widgy by @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freePreview/SWA_W4.PNG"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freeMockup/SWA_W4.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Widgy URL",
+            "buttonTitle": "GET",
+            "sizes": [
+                "Medium"
+            ],
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W4.txt"
+        },
+        {
+            "title": "SWA_W5",
+            "subtitle": "Widgy by @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freePreview/SWA_W5.PNG"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freeMockup/SWA_W5.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Widgy URL",
+            "buttonTitle": "GET",
+            "sizes": [
+                "Medium"
+            ],
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W5.txt"
+        },
+        {
+            "title": "SWA_W6",
+            "subtitle": "Widgy by @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freePreview/SWA_W6.PNG"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freeMockup/SWA_W6.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Widgy URL",
+            "buttonTitle": "GET",
+            "sizes": [
+                "Medium"
+            ],
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W6.txt"
+        },
+        {
+            "title": "SWA_W7",
+            "subtitle": "Widgy by @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freePreview/SWA_W7.PNG"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freeMockup/SWA_W7.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Widgy URL",
+            "buttonTitle": "GET",
+            "sizes": [
+                "Medium"
+            ],
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W7.txt"
+        },
+        {
+            "title": "SWA_W8",
+            "subtitle": "Widgy by @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freePreview/SWA_W8.PNG"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freeMockup/SWA_W8.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Widgy URL",
+            "buttonTitle": "GET",
+            "sizes": [
+                "Medium"
+            ],
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W8.txt"
+        },
+        {
+            "title": "SWA_W9",
+            "subtitle": "Widgy by @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freePreview/SWA_W9.PNG"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freeMockup/SWA_W9.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Widgy URL",
+            "buttonTitle": "GET",
+            "sizes": [
+                "Medium"
+            ],
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W9.txt"
+        },
+        {
+            "title": "SWA_W10",
+            "subtitle": "Widgy by @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freePreview/SWA_W10.PNG"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freeMockup/SWA_W10.jpg",
+            "author": "ElijahCreative",
+            "buttonSubtitle": "Widgy URL",
+            "buttonTitle": "GET",
+            "sizes": [
+                "Medium"
+            ],
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W1.txt"
+        },
+        {
             "title": "Northern Lights",
             "subtitle": "Widgy & Watchy by ElijahCreative",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/ElijahSquare.jpg",
