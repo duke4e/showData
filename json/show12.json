@@ -9222,35 +9222,51 @@
     "wallpapers": [
         {
             "author": "TeboulDavid1",
-            "colors": [],
+            "colors": [
+                "Gray",
+                "Cyan"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg733.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg733.png"
         },
         {
             "author": "TeboulDavid1",
-            "colors": [],
+            "colors": [
+                "Green",
+                "Black",
+                "Blue"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg732.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg732.png"
         },
         {
             "author": "TeboulDavid1",
-            "colors": [],
+            "colors": [
+                "Gray",
+                "Blue"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg731.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg731.png"
         },
         {
             "author": "TeboulDavid1",
-            "colors": [],
+            "colors": [
+                "Gray"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg730.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg730.png"
         },
         {
             "author": "TeboulDavid1",
-            "colors": [],
+            "colors": [
+                "Black",
+                "Blue",
+                "Orange"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg729.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg729.png"
@@ -13464,153 +13480,218 @@
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Gray",
+                "Blue"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_39.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_39.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Gray"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_38.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_38.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Blue"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_37.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_37.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Blue"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_36.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_36.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Blue"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_35.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_35.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Blue"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_34.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_34.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Black"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_33.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_33.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Purple",
+                "Blue"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_32.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_32.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Black",
+                "Green"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_31.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_31.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Black",
+                "Rose"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_30.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_30.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Black",
+                "Rose"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_29.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_29.jpg"
-        },{
+        },
+        {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Blue",
+                "Orange"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_18.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_18.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Black",
+                "Yellow",
+                "Cyan"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_19.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_19.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
-            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_20.jpg",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_20.jpg"
-        },
-        {
-            "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Rose",
+                "Cyan"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_21.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_21.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
-            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_22.jpg",
+            "colors": [
+                "Green",
+                "Rose"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_20.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_22.jpg"
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_20.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Gray",
+                "Red"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_23.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_23.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "White",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_22.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_22.jpg"
+        },
+        {
+            "author": "SeanKly",
+            "colors": [
+                "Gray",
+                "Cyan",
+                "Blue"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_24.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_24.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Orange",
+                "Red"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_25.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_25.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Orange",
+                "Cyan",
+                "Yellow"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_26.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_26.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Violet",
+                "Orange",
+                "Red"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_27.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_27.jpg"
         },
         {
             "author": "SeanKly",
-            "colors": [],
+            "colors": [
+                "Rose",
+                "Blue"
+            ],
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_28.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_28.jpg"
@@ -13732,7 +13813,7 @@
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/HoloGrad5D.jpg"
         },
-         {
+        {
             "author": "SeanKly",
             "colors": [
                 "Red",
@@ -13743,7 +13824,7 @@
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SK0908.jpg"
         },
-         {
+        {
             "author": "SeanKly",
             "colors": [
                 "Orange",
@@ -26938,557 +27019,910 @@
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/EvgeniyZemelko/walls/EvgeniyZemelko_2022_27.jpg"
         },
         {
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZCPDFBX0AEelR5.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZCPDFBX0AEelR5.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZCPDFBX0AAz241.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZCPDFBX0AAz241.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYOUTWvXEAALmzq.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYOUTWvXEAALmzq.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FY6f7jAXoAAjZqH.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FY6f7jAXoAAjZqH.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYRKsDyXkAIEAYQ.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYRKsDyXkAIEAYQ.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX6mYl_WAAA-z_d.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX6mYl_WAAA-z_d.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYYivxqWIAQeWla.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYYivxqWIAQeWla.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYbtFN_WAAAqsJq.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYbtFN_WAAAqsJq.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZOisV5WQAAoqj2.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZOisV5WQAAoqj2.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYWgf0bWAAQ--I4.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYWgf0bWAAQ--I4.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX6mYkAXoAAMZzM.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX6mYkAXoAAMZzM.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX6n2s4X0AIpe4H.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX6n2s4X0AIpe4H.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZOisV2XgAElSrm.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZOisV2XgAElSrm.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYRKsDxWIAcQg6X.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYRKsDxWIAcQg6X.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgagfPXgAAkpJk.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgagfPXgAAkpJk.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgagdKWAAEbL4c.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgagdKWAAEbL4c.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXuhSO0UEAMjQtE.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXuhSO0UEAMjQtE.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXzKGcRUIAMfIbc.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXzKGcRUIAMfIbc.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYbtFN-WIAIDcBy.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYbtFN-WIAIDcBy.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FY29kS_WAAYybIE.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FY29kS_WAAYybIE.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXkPazHXgAEzGeo.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXkPazHXgAEzGeo.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYDNkwRWYAQ2Ph3.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYDNkwRWYAQ2Ph3.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX9_pqeXoAEZsyc.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX9_pqeXoAEZsyc.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYWgf0bXEAAHcVc.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYWgf0bXEAAHcVc.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYhlufsWQAINf4E.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYhlufsWQAINf4E.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXuhSO0VUAAuk01.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXuhSO0VUAAuk01.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYmqmJsWIAApDMi.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYmqmJsWIAApDMi.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXlfmudWQAEHLyz.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXlfmudWQAEHLyz.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYOPcYpXoAI9iKX.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYOPcYpXoAI9iKX.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgQPaLWAAQclJS.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgQPaLWAAQclJS.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXkPazEXgAU-9AP.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXkPazEXgAU-9AP.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYYivxnWQAooHrn.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYYivxnWQAooHrn.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXbBNW1XkAAfsHE.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXbBNW1XkAAfsHE.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FY6f7i9XkAAVSxu.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FY6f7i9XkAAVSxu.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX9_pqdXwAEh-bq.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX9_pqdXwAEh-bq.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXpk5foUYAM5mej.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXpk5foUYAM5mej.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYOPcYrXkAAUQ9x.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYOPcYrXkAAUQ9x.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FY29kTEXgAE6XTK.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FY29kTEXgAE6XTK.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgagdKXoAAEGvu.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgagdKXoAAEGvu.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgQPaJWAAAqgTI.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgQPaJWAAAqgTI.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX6n2qzX0AEO794.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX6n2qzX0AEO794.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgagdLXgAAWTP2.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgagdLXgAAWTP2.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX9_pqgXkAcH41M.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX9_pqgXkAcH41M.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZOisV7XgAMVoC5.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZOisV7XgAMVoC5.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYyKaaVWYAMqcAh.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYyKaaVWYAMqcAh.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYRKsDzWIAAbe56.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYRKsDzWIAAbe56.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYDLTh5WAAApByp.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYDLTh5WAAApByp.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZKsCz3WQAYyLQ_.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZKsCz3WQAYyLQ_.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYmqmJtWQAEgPvd.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYmqmJtWQAEgPvd.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXpk5fkUUAEU3HW.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXpk5fkUUAEU3HW.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXzKGcJUcAEmP-b.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXzKGcJUcAEmP-b.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYyKaaUXoAAfjWl.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYyKaaUXoAAfjWl.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYO6Be8XgAIVNXU.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYO6Be8XgAIVNXU.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXuhSOuUsAcGs4G.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXuhSOuUsAcGs4G.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYO6BfGXgAY8-J1.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYO6BfGXgAY8-J1.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXlfmubXoAcJoyM.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXlfmubXoAcJoyM.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgQPaLWYAI5gUY.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgQPaLWYAI5gUY.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYDNkwSXgAAVCbH.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYDNkwSXgAAVCbH.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYOPcYpWQAE24rW.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYOPcYpWQAE24rW.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYbtFN-XgAAMvgd.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYbtFN-XgAAMvgd.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYOUTWsXwAMT4tF.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYOUTWsXwAMT4tF.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX0X0XdVUAA4xRV.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX0X0XdVUAA4xRV.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXkPazEXEAE7g_P.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXkPazEXEAE7g_P.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYhlufrXwAI_U_I.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYhlufrXwAI_U_I.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYhlufsXoAMKrOr.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYhlufsXoAMKrOr.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgQPaLXgAUK8mM.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgQPaLXgAUK8mM.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYDLTh4XwAIu1Re.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYDLTh4XwAIu1Re.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX0X0XeVUAI3DKG.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX0X0XeVUAI3DKG.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZKsCz7WIAAk8tt.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZKsCz7WIAAk8tt.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXlfmuaWIAE7dF9.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXlfmuaWIAE7dF9.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYWgf0eXwAUuazL.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYWgf0eXwAUuazL.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYbtFQCWIAMt55q.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYbtFQCWIAMt55q.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXpk5fpUUAAj2vs.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXpk5fpUUAAj2vs.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZKsCz5WAAEuwgG.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZKsCz5WAAEuwgG.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXuhSRSUEAEp8O8.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXuhSRSUEAEp8O8.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYDLTh4WAAAQw3Q.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYDLTh4WAAAQw3Q.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXzKGcIUEAADCXG.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXzKGcIUEAADCXG.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYyKaaYWAAY9nHn.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYyKaaYWAAY9nHn.jpg"
-        },
-{
-            "author" : "MarcoOliverjgl",
-            "colors" : [ ],
-            "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZCPDFBWYAEW0l_.jpg",
-            "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
-            "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZCPDFBWYAEW0l_.jpg"
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "White",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZCPDFBX0AEelR5.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZCPDFBX0AEelR5.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Red",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZCPDFBX0AAz241.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZCPDFBX0AAz241.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Rose",
+                "Purple",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYOUTWvXEAALmzq.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYOUTWvXEAALmzq.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FY6f7jAXoAAjZqH.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FY6f7jAXoAAjZqH.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYRKsDyXkAIEAYQ.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYRKsDyXkAIEAYQ.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "White",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZOisV2XgAElSrm.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZOisV2XgAElSrm.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Brown",
+                "Black",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYYivxqWIAQeWla.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYYivxqWIAQeWla.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Orange",
+                "Brown"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX6mYkAXoAAMZzM.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX6mYkAXoAAMZzM.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX6mYl_WAAA-z_d.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX6mYl_WAAA-z_d.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "White",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZOisV5WQAAoqj2.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZOisV5WQAAoqj2.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Green"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX6n2s4X0AIpe4H.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX6n2s4X0AIpe4H.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Rose",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYbtFN_WAAAqsJq.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYbtFN_WAAAqsJq.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Yellow",
+                "Black",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYWgf0bWAAQ--I4.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYWgf0bWAAQ--I4.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Gray",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgagdKWAAEbL4c.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgagdKWAAEbL4c.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FY29kS_WAAYybIE.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FY29kS_WAAYybIE.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Orange",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgagfPXgAAkpJk.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgagfPXgAAkpJk.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Green"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXzKGcRUIAMfIbc.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXzKGcRUIAMfIbc.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYRKsDxWIAcQg6X.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYRKsDxWIAcQg6X.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXkPazHXgAEzGeo.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXkPazHXgAEzGeo.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "White",
+                "Black",
+                "Rose"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYbtFN-WIAIDcBy.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYbtFN-WIAIDcBy.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXuhSO0UEAMjQtE.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXuhSO0UEAMjQtE.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYDNkwRWYAQ2Ph3.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYDNkwRWYAQ2Ph3.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYOPcYpXoAI9iKX.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYOPcYpXoAI9iKX.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYmqmJsWIAApDMi.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYmqmJsWIAApDMi.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXuhSO0VUAAuk01.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXuhSO0VUAAuk01.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXlfmudWQAEHLyz.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXlfmudWQAEHLyz.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Red",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYhlufsWQAINf4E.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYhlufsWQAINf4E.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Green",
+                "Gray",
+                "White"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX9_pqeXoAEZsyc.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX9_pqeXoAEZsyc.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYWgf0bXEAAHcVc.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYWgf0bXEAAHcVc.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgQPaLWAAQclJS.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgQPaLWAAQclJS.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue",
+                "Yellow",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYYivxnWQAooHrn.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYYivxnWQAooHrn.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Gray",
+                "White"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXkPazEXgAU-9AP.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXkPazEXgAU-9AP.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX9_pqdXwAEh-bq.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX9_pqdXwAEh-bq.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "White",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXpk5foUYAM5mej.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXpk5foUYAM5mej.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXbBNW1XkAAfsHE.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXbBNW1XkAAfsHE.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue",
+                "Red",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FY6f7i9XkAAVSxu.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FY6f7i9XkAAVSxu.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYOPcYrXkAAUQ9x.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYOPcYrXkAAUQ9x.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FY29kTEXgAE6XTK.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FY29kTEXgAE6XTK.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgagdKXoAAEGvu.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgagdKXoAAEGvu.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgagdLXgAAWTP2.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgagdLXgAAWTP2.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Red",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgQPaJWAAAqgTI.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgQPaJWAAAqgTI.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue",
+                "White"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX6n2qzX0AEO794.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX6n2qzX0AEO794.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZOisV7XgAMVoC5.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZOisV7XgAMVoC5.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX9_pqgXkAcH41M.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX9_pqgXkAcH41M.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Blue",
+                "White"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYyKaaVWYAMqcAh.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYyKaaVWYAMqcAh.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Green"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYRKsDzWIAAbe56.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYRKsDzWIAAbe56.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXpk5fkUUAEU3HW.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXpk5fkUUAEU3HW.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Brown",
+                "Yellow"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYDLTh5WAAApByp.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYDLTh5WAAApByp.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Gray",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYmqmJtWQAEgPvd.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYmqmJtWQAEgPvd.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYO6Be8XgAIVNXU.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYO6Be8XgAIVNXU.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Gray",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYyKaaUXoAAfjWl.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYyKaaUXoAAfjWl.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZKsCz3WQAYyLQ_.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZKsCz3WQAYyLQ_.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "White",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXzKGcJUcAEmP-b.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXzKGcJUcAEmP-b.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYO6BfGXgAY8-J1.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYO6BfGXgAY8-J1.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Gray",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYOPcYpWQAE24rW.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYOPcYpWQAE24rW.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Orange",
+                "Black",
+                "Brown"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXuhSOuUsAcGs4G.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXuhSOuUsAcGs4G.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Green",
+                "Yellow"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXlfmubXoAcJoyM.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXlfmubXoAcJoyM.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYbtFN-XgAAMvgd.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYbtFN-XgAAMvgd.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYOUTWsXwAMT4tF.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYOUTWsXwAMT4tF.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgQPaLWYAI5gUY.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgQPaLWYAI5gUY.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYDNkwSXgAAVCbH.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYDNkwSXgAAVCbH.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Gray",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYhlufsXoAMKrOr.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYhlufsXoAMKrOr.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Red",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX0X0XdVUAA4xRV.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX0X0XdVUAA4xRV.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Red",
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYhlufrXwAI_U_I.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYhlufrXwAI_U_I.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXgQPaLXgAUK8mM.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXgQPaLXgAUK8mM.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Red",
+                "Cyan",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZKsCz7WIAAk8tt.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZKsCz7WIAAk8tt.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXkPazEXEAE7g_P.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXkPazEXEAE7g_P.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Gray",
+                "Black",
+                "Yellow"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYDLTh4XwAIu1Re.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYDLTh4XwAIu1Re.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Gray",
+                "Black",
+                "Yellow"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FX0X0XeVUAI3DKG.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FX0X0XeVUAI3DKG.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXlfmuaWIAE7dF9.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXlfmuaWIAE7dF9.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZKsCz5WAAEuwgG.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZKsCz5WAAEuwgG.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Cyan",
+                "White"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXzKGcIUEAADCXG.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXzKGcIUEAADCXG.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYbtFQCWIAMt55q.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYbtFQCWIAMt55q.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "White",
+                "Orange",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXuhSRSUEAEp8O8.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXuhSRSUEAEp8O8.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYWgf0eXwAUuazL.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYWgf0eXwAUuazL.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FXpk5fpUUAAj2vs.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FXpk5fpUUAAj2vs.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray",
+                "Cyan"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYDLTh4WAAAQw3Q.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYDLTh4WAAAQw3Q.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/MarcoOliverjgl_0507221(2).jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/MarcoOliverjgl_0507221(2).jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FYyKaaYWAAY9nHn.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FYyKaaYWAAY9nHn.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray",
+                "Rose"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/MarcoOliverjgl_0507224(2).jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/MarcoOliverjgl_0507224(2).jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Violet"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/MarcoOliverjgl_05072210(2).jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/MarcoOliverjgl_05072210(2).jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue",
+                "Red"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/FZCPDFBWYAEW0l_.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/FZCPDFBWYAEW0l_.jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/MarcoOliverjgl_0507225(2).jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/MarcoOliverjgl_0507225(2).jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Red",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/MarcoOliverjgl_0507227(2).jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/MarcoOliverjgl_0507227(2).jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Brown",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/MarcoOliverjgl_0507226(2).jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/MarcoOliverjgl_0507226(2).jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Violet",
+                "Red",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/MarcoOliverjgl_0507223(2).jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/MarcoOliverjgl_0507223(2).jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Black",
+                "Gray",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/MarcoOliverjgl_0507228(2).jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/MarcoOliverjgl_0507228(2).jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue",
+                "Rose"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/MarcoOliverjgl_0507222(2).jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/MarcoOliverjgl_0507222(2).jpg"
+        },
+        {
+            "author": "MarcoOliverjgl",
+            "colors": [
+                "Blue",
+                "Orange"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/wallThumbs/MarcoOliverjgl_0507229(2).jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/MarcoOliverjgl_profile.jpg",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/MarcoOliverjgl/walls/MarcoOliverjgl_0507229(2).jpg"
         },
         {
             "author": "MarcoOliverjgl",
