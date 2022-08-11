@@ -162775,7 +162775,7 @@
             "buttonSubtitle": "Widgy URL",
             "buttonTitle": "GET",
             "sizes": [
-                "Medium"
+                "Small"
             ],
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W1.txt"
         },
@@ -162791,7 +162791,7 @@
             "buttonSubtitle": "Widgy URL",
             "buttonTitle": "GET",
             "sizes": [
-                "Medium"
+                "Small"
             ],
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W2.txt"
         },
@@ -162807,7 +162807,7 @@
             "buttonSubtitle": "Widgy URL",
             "buttonTitle": "GET",
             "sizes": [
-                "Medium"
+                "Small"
             ],
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W3.txt"
         },
