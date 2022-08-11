@@ -101,6 +101,19 @@
     ],
     "themes": [
         {
+            "title": "Swa89",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Swa89.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/Swa89.zip",
+            "isDownload": true,
+            "authors": [
+                "TeboulDavid1"
+            ]
+        },
+        {
             "title": "CurtTom3",
             "subtitle": "A colab by @tombowie & @UtdAll",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
@@ -13472,12 +13485,16 @@
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg9.jpg"
         },
         {
-            "author": "SeanKly",
-            "colors": [],
-            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_40.jpg",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_40.jpg"
-        },
+    "author" : "SeanKly",
+    "colors" : [
+      "Black",
+      "Gray",
+      "Blue"
+    ],
+    "thumbUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_40.jpg",
+    "authorImageUrl" : "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+    "targetUrl" : "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_40.jpg"
+  },
         {
             "author": "SeanKly",
             "colors": [
