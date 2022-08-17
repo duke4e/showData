@@ -229698,22 +229698,6 @@
     ],
     "widgys": [
         {
-            "title": "SWA_W1",
-            "subtitle": "Widgy by @TeboulDavid1",
-            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
-            "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freePreview/SWA_W1.PNG"
-            ],
-            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freeMockup/SWA_W1.jpg",
-            "author": "TeboulDavid1",
-            "buttonSubtitle": "Widgy URL",
-            "buttonTitle": "GET",
-            "sizes": [
-                "Small"
-            ],
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W11.txt"
-        },
-        {
             "title": "SWA_W11",
             "subtitle": "Widgy by @TeboulDavid1",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
@@ -229728,6 +229712,22 @@
                 "Small"
             ],
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W1.txt"
+        },
+        {
+            "title": "SWA_W1",
+            "subtitle": "Widgy by @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freePreview/SWA_W1.PNG"
+            ],
+            "thumbnailUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/freeMockup/SWA_W1.jpg",
+            "author": "TeboulDavid1",
+            "buttonSubtitle": "Widgy URL",
+            "buttonTitle": "GET",
+            "sizes": [
+                "Small"
+            ],
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/widgys/SWA_Widgets/WidgyURL/SWA_W11.txt"
         },
         {
             "title": "SWA_W2",
