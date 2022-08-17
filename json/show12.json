@@ -101,6 +101,19 @@
     ],
     "themes": [
         {
+            "title": "ASMI_SWA1",
+            "subtitle": "A theme by ASMI & TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/ASMISWATADA.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/ASMISWATADA.zip",
+            "isDownload": true,
+            "authors": [
+                "Asmi"
+            ]
+        },
+        {
             "title": "JB270_FAlhmma",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
