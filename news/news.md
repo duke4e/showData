@@ -4,12 +4,35 @@
 <br>
 
 ---
+#### ShowLive v1.936 - Helper v1.22
+August 22nd 2022
+
+ShowLive Shortcut updated:
+
++ Added DOTM Action
++ Code optimisations  
+
+
+Helper Shortcut updated:
+
++ Added DOTM Encoding Action
++ Added Lockscreen Wallpaper set action for iOS 16 b6
+
+*Please note you still need to set the wallpaper as previously mentioned for iOS 16 b6 with ShowLive Shortcut*
+
+Remember we have a dedicated Telegram Channel for support. You can find the link for the Telegram support channel on the info page.
+
+Download the updated ShowLive v1.936 & Helper v 1.22 shortcut's from the Shortcuts page. Replace the already installed shortcut. Backwards compatibility with iOS14 remains the same.
+
+<br>
+
+—
 #### ShowLive v1.934
 August 09th 2022
 
 ShowLive Shortcut updated:
 
-+ Added support for iOS 16 b5
++ Added support for iOS16 b5
 + Code optimisations  
 
 *Please note there are some steps that must to be taken before setting any LS or HS wallpapers automatically with the ShowLive shortcut. If you do not follow the instructions found [HERE](https://github.com/duke4e/showData/raw/main/news/iOS16b5_HowTo.jpg) the shortcut will not set the wallpaper. It is very important that you create both the iOS Focus modes with the exact same and naming & format... "ShowLive On" & "ShowLive Off".*
@@ -133,7 +156,7 @@ Info Page:
 
 ---
 
-#### ShowLive v1.927  Helper v1.20 
+#### ShowLive v1.927 - Helper v1.20 
 June 16th 2022
 
 Adds function to ShowLive:
@@ -148,7 +171,7 @@ Helper has added function to encode MOTY images to Base64 Code
 
 ---
 
-#### ShowLive v1.925  Helper v1.19 
+#### ShowLive v1.925 - Helper v1.19 
 May 20th 2022
 
 Adds function to change theme to other screen. 
