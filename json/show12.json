@@ -101,11 +101,154 @@
     ],
     "themes": [
         {
+            "title": "JB27_rajjaryaa",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB27_rajjaryaa.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB27_rajjaryaa.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB273_wigebox",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB273_wigebox.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB273_wigebox.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB275_FAlhmma",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB275_FAlhmma.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB275_FAlhmma.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB276_ersteuomo",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB276_ersteuomo.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB276_ersteuomo.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB277_asdlordesigns",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB277_asdlordesigns.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB277_asdlordesigns.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB278_rheinlandmike",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB278_rheinlandmike.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB278_rheinlandmike.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "CurtZoopLS3",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtZoopLS3.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtZoopLS3.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
+            "title": "CurtJen1",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtJen1.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtJen1.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
+            "title": "CurtZoopLS4",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtZoopLS4.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtZoopLS4.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
+            "title": "CurtZoopLS5",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtZoopLS5.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtZoopLS5.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
+            "title": "CurtJaap1",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtJaap1.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtJaap1.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
             "title": "CurtSWA21",
             "subtitle": "A recreation by @UtdAll",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/CurtSWA21.jpg",
-            "tag1Text": "LOCK",
+            "tag1Text": "HOME",
             "tag2Text": "",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/CurtSWA21.zip",
             "isDownload": true,
