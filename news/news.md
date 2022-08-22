@@ -22,7 +22,7 @@ Helper Shortcut updated:
 
 Remember we have a dedicated Telegram Channel for support. You can find the link for the Telegram support channel on the info page.
 
-Download the updated ShowLive v1.936 & Helper v 1.22 shortcut's from the Shortcuts page. Replace the already installed shortcut. Backwards compatibility with iOS14 remains the same.
+Download the updated ShowLive v1.936 & Helper v1.22 shortcut's from the Shortcuts page. Replace the already installed shortcut. Backwards compatibility with iOS14 remains the same.
 
 <br>
 
