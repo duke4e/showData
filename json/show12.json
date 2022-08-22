@@ -80618,6 +80618,25 @@
         {
             "author": "SeanKly",
             "colors": [
+                "Black",
+                "White"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_69.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_69.jpg"
+        },
+        {
+            "author": "SeanKly",
+            "colors": [
+                "Black"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_70.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_70.jpg"
+        },
+        {
+            "author": "SeanKly",
+            "colors": [
                 "Yellow",
                 "Pink",
                 "Purple",
