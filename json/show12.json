@@ -2,55 +2,17 @@
     "featured": [
         {
             "type": "Icon Pack",
-            "title": "Skyline Icon Pack",
-            "subtitle": "New release by Coccco28",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Coccco28.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/Skyline_feature.jpg",
+            "title": "Muffin Glyph Icon Pack",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Geometric",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Ouni.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/muffinGlyph_Feature.jpg",
             "buttonTitle": "PayPal",
-            "targetUrl": "http://paypal.me/coccco28design",
-            "blurIsDark": true,
+            "targetUrl": "https://www.paypal.com/paypalme/OuniDesigns",
+            "blurIsDark": false,
             "headerHexColor": "ffffff",
-            "headerTitle": "Exclusive",
+            "headerTitle": "Featured",
             "internalType": "icon"
-        },
-        {
-            "type": "ShowLive Theme",
-            "title": "SKJB_shads_evynw",
-            "subtitle": "Live Laugh Love @jennysblessed",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/SKJB_shads_evynw.jpg",
-            "buttonTitle": "GET",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/SKJB_shads_evynw.zip",
-            "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Featured",
-            "internalType": "theme"
-        },
-        {
-            "type": "ShowLive Theme",
-            "title": "B8-lialioo",
-            "subtitle": "A theme by @boots6972",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Boots.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/B8-lialioo.jpg",
-            "buttonTitle": "GET",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/boots6972/B8-lialioo.zip",
-            "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Featured",
-            "internalType": "theme"
-        },
-        {
-            "type": "ShowLive Theme",
-            "title": "JB262_asdlordesigns",
-            "subtitle": "Live Laugh Love @jennysblessed",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/JB262_asdlordesigns.jpg",
-            "buttonTitle": "GET",
-            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB262_asdlordesigns.zip",
-            "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Featured",
-            "internalType": "theme"
         }
     ],
     "shortcuts": [
@@ -7814,6 +7776,21 @@
     "icons": [
         {
             "type": "Icon Pack",
+            "title": "Muffin Glyphs",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/OuniDesigns_muffin_Glyphs.png",
+            "buttonTitle": "$3.20",
+            "targetUrl": "http://PayPal.Me/OuniDesigns",
+            "isDownload": false,
+            "author": "Ounidesigns",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Ouni.png",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/MuffinGlyphs.png"
+            ]
+        },
+        {
+            "type": "Icon Pack",
             "title": "Skyline",
             "subtitle": "Icon pack by @Coccco28",
             "buttonSubtitle": "PayPal",
@@ -8361,7 +8338,7 @@
             "buttonTitle": "$3.49",
             "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffindark",
             "isDownload": false,
-            "author": "ounidesigns",
+            "author": "Ounidesigns",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Ouni.png",
             "screenshotUrls": [
                 "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/MuffinDark.png"
@@ -8451,7 +8428,7 @@
             "buttonTitle": "$2.49",
             "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.mignon",
             "isDownload": false,
-            "author": "ounidesigns",
+            "author": "Ounidesigns",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Ouni.png",
             "screenshotUrls": [
                 "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Mignon.png"
@@ -8751,7 +8728,7 @@
             "buttonTitle": "$2.99",
             "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.sunrise",
             "isDownload": false,
-            "author": "ounidesigns",
+            "author": "Ounidesigns",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Ouni.png",
             "screenshotUrls": [
                 "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Sunrise.png"
@@ -9021,7 +8998,7 @@
             "buttonTitle": "$2.49",
             "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.mignondark",
             "isDownload": false,
-            "author": "ounidesigns",
+            "author": "Ounidesigns",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Ouni.png",
             "screenshotUrls": [
                 "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/MignonDark.png"
@@ -9651,7 +9628,7 @@
             "buttonTitle": "$3.49",
             "targetUrl": "https://store.geometricsoftware.se/packages/com.ounidesigns.muffin",
             "isDownload": false,
-            "author": "ounidesigns",
+            "author": "Ounidesigns",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Ouni.png",
             "screenshotUrls": [
                 "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Muffin.png"
