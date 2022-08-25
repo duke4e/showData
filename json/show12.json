@@ -80749,6 +80749,16 @@
         {
             "author": "SeanKly",
             "colors": [
+                "Yellow",
+                "Green"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_75.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_75.jpg"
+        },
+        {
+            "author": "SeanKly",
+            "colors": [
                 "Black",
                 "Blue"
             ],
