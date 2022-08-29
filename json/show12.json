@@ -19,23 +19,23 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive",
-            "subtitle": "v1.936 All iOS Versions",
+            "subtitle": "v1.937 All iOS Versions",
             "buttonSubtitle": "Shortcut",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive_update.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/Shortcuts_Header_v2.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/e7b80a65ccab452aa424e5423e26c148",
+            "targetUrl": "https://www.icloud.com/shortcuts/e5ce5a49f4554c2d8db88b7148cee495",
             "isDownload": false
         },
         {
             "type": "SHORTCUT",
             "title": "ShowLive Helper",
-            "subtitle": "v1.22 All iOS Versions",
+            "subtitle": "v1.23 All iOS Versions",
             "buttonSubtitle": "Shortcut",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/SLApp_Helper.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/4b246034b0264bf9928a8f81bb75b332",
+            "targetUrl": "https://www.icloud.com/shortcuts/88bfd233512d4dc6b6528c3f54bdddad",
             "isDownload": false
         },
         {
@@ -62,6 +62,58 @@
         }
     ],
     "themes": [
+        {
+            "title": "JB280_rajjaryaa",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB280_rajjaryaa.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB280_rajjaryaa.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB279_EduardoB5to",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB279_EduardoB5to.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB279_EduardoB5to.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "Asmi117",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi117.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi117.zip",
+            "isDownload": true,
+            "authors": [
+                "Asmi"
+            ]
+        },
+        {
+            "title": "Asmi116",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi116.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi116.zip",
+            "isDownload": true,
+            "authors": [
+                "Asmi"
+            ]
+        },
         {
             "title": "UniAW20_Aga1n",
             "subtitle": "Live Laugh Love @jennysblessed",
@@ -80758,6 +80810,24 @@
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Sench022/wallThumbs/Sench022_999.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sench022.jpg",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Sench022/walls/Sench022_999.jpg"
+        },
+        {
+            "author": "SeanKly",
+            "colors": [
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/wallThumbs/SKLY_88.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_88.jpg"
+        },
+        {
+            "author": "SeanKly",
+            "colors": [
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/wallThumbs/SKLY_87.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_87.jpg"
         },
         {
             "author": "SeanKly",
@@ -231666,7 +231736,7 @@
         "contentRightsUrl": "https://github.com/duke4e/showData/raw/main/contentRights/contentRights.md",
         "newsLastDate": "22.08.2022",
         "featuredAutoscrollSpeed": 5,
-        "infoHeaderText": "ShowCuts 1.2\n#ShowTeam\n\nShowLive Build 1.936 last updated 22/08/22\nShowLive Helper Build 1.22 last updated 22/08/22",
+        "infoHeaderText": "ShowCuts 1.2\n#ShowTeam\n\nShowLive Build 1.937 last updated 29/08/22\nShowLive Helper Build 1.27 last updated 29/08/22",
         "appsByFriendsTitle": "Apps by friends",
         "appsByFriendsSubtitle": "Be sure to check them out...",
         "socialTitle": "We are here for you!",

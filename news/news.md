@@ -4,6 +4,26 @@
 <br>
 
 ---
+#### ShowLive v1.937 - Helper v1.23
+August 29th 2022
+
+ShowLive Shortcut updated:
+
++ No longer requires Focus Modes set to set themes on iOS16
+
+
+Helper Shortcut updated:
+
++ Removed iOS16 beta workaround to set Lockscreen wallpaper
+
+
+Download the updated ShowLive v1.937 & Helper v1.23 shortcut's from the Shortcuts page. Replace the already installed shortcut. 
+
+*Backwards compatibility with iOS14 remains the same although moving forward I may decide to remove this support. If you still use iOS 14 then please let me know in the Telegram Chat.*
+
+<br>
+
+—
 #### ShowLive v1.936 - Helper v1.22
 August 22nd 2022
 
