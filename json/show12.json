@@ -80878,6 +80878,38 @@
         {
             "author": "SeanKly",
             "colors": [
+                "Cyan",
+                "Black",
+                "White"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/wallThumbs/SKLY_93.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_93.jpg"
+        },
+        {
+            "author": "SeanKly",
+            "colors": [
+                "Black",
+                "Purple"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/wallThumbs/SKLY_92.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_92.jpg"
+        },
+        {
+            "author": "SeanKly",
+            "colors": [
+                "Blue",
+                "White",
+                "Pink"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/wallThumbs/SKLY_91.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_91.jpg"
+        },
+        {
+            "author": "SeanKly",
+            "colors": [
                 "Blue",
                 "Black",
                 "Brown"
