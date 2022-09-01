@@ -2,6 +2,20 @@
     "featured": [
         {
             "type": "Icon Pack",
+            "title": "Muffin White Icon Pack",
+            "subtitle": "Crafted icons by @ounidesigns",
+            "buttonSubtitle": "Ko-fi",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Ouni.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/muffinWhite_Feature.jpg",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://bit.ly/MuffinWhiteiconpack",
+            "blurIsDark": false,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Featured",
+            "internalType": "icon"
+        },
+        {
+            "type": "Icon Pack",
             "title": "Sutoroku Icon Pack",
             "subtitle": "Icon pack by @RippedThemer",
             "buttonSubtitle": "Gumroad",
