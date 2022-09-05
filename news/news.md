@@ -4,6 +4,19 @@
 <br>
 
 ---
+#### ShowLive Helper v1.24
+September 05th 2022
+
+Helper Shortcut updated:
+
++ Added back the function to change iOS16 Lockscreen Wallpaper
+
+
+Download the updated ShowLive Helper v1.24 shortcut from the Shortcuts page. Replace the already installed shortcut. 
+
+<br>
+
+—
 #### ShowLive v1.937 - Helper v1.23
 August 29th 2022
 

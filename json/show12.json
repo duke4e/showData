@@ -58,12 +58,12 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive Helper",
-            "subtitle": "v1.23 All iOS Versions",
+            "subtitle": "v1.24 All iOS Versions",
             "buttonSubtitle": "Shortcut",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/SLApp_Helper.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/88bfd233512d4dc6b6528c3f54bdddad",
+            "targetUrl": "https://www.icloud.com/shortcuts/f5b489dcc184412bb7d276d10675dde8",
             "isDownload": false
         },
         {
@@ -232420,9 +232420,9 @@
         "freeItemsOnly": false,
         "newsUrl": "https://github.com/duke4e/showData/raw/main/news/news.md",
         "contentRightsUrl": "https://github.com/duke4e/showData/raw/main/contentRights/contentRights.md",
-        "newsLastDate": "29.08.2022",
+        "newsLastDate": "05.09.2022",
         "featuredAutoscrollSpeed": 5,
-        "infoHeaderText": "ShowCuts 1.2\n#ShowTeam\n\nShowLive Build 1.937 last updated 29/08/22\nShowLive Helper Build 1.27 last updated 29/08/22",
+        "infoHeaderText": "ShowCuts 1.2\n#ShowTeam\n\nShowLive Build 1.937 last updated 29/08/22\nShowLive Helper Build 1.24 last updated 05/09/22",
         "appsByFriendsTitle": "Apps by friends",
         "appsByFriendsSubtitle": "Be sure to check them out...",
         "socialTitle": "We are here for you!",
