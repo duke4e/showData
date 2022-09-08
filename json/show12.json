@@ -91,6 +91,19 @@
     ],
     "themes": [
         {
+            "title": "JB66_FAlhmma",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB66_FAlhmma.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "X2",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB66_FAlhmma.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
             "title": "JB285_wigebox",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
