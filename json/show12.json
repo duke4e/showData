@@ -91,6 +91,20 @@
     ],
     "themes": [
         {
+            "title": "dIsland_v2",
+            "subtitle": "We make stuff! @SeanKly & @Jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/dIsland_v2.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/dIsland_v2.zip",
+            "isDownload": true,
+            "authors": [
+                "SeanKly",
+                "jennysblessed"
+            ]
+        },
+        {
             "title": "dIsland",
             "subtitle": "We make stuff! @SeanKly & @Jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
