@@ -4,6 +4,27 @@
 <br>
 
 ---
+#### ShowLive v1.939 - Helper v1.26
+September 08th 2022
+
+ShowLive Shortcut updated:
+
++ Added support for multiple image overlays in one theme allowing different coloured or styled overlays. Still no assets required!
+EG, creator ASMI usually has one theme but in different colours. Now we have the option to include the variations (Max 2 for now)
+
+
+Helper Shortcut updated:
+
++ Added functions to encode new multiple overlays
++ Added function to swap theme overlays without editing the JSON
++ Added back iOS 16 lockscreen wallpaper set since it cant be done otherwise
+
+
+Download the updated ShowLive v1.939 & Helper v1.26 shortcut's from the Shortcuts page. Replace the already installed shortcut. 
+
+<br>
+
+—
 #### ShowLive Helper v1.24
 September 05th 2022
 

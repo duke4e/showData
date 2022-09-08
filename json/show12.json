@@ -47,23 +47,23 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive",
-            "subtitle": "v1.937 All iOS Versions",
+            "subtitle": "v1.939 All iOS Versions",
             "buttonSubtitle": "Shortcut",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive_update.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/Shortcuts_Header_v2.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/e5ce5a49f4554c2d8db88b7148cee495",
+            "targetUrl": "https://www.icloud.com/shortcuts/01adb9a26df84d34bccff816e1a2fa93",
             "isDownload": false
         },
         {
             "type": "SHORTCUT",
             "title": "ShowLive Helper",
-            "subtitle": "v1.24 All iOS Versions",
+            "subtitle": "v1.26 All iOS Versions",
             "buttonSubtitle": "Shortcut",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/SLApp_Helper.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/f5b489dcc184412bb7d276d10675dde8",
+            "targetUrl": "https://www.icloud.com/shortcuts/e978b4bd0a0b496c962c9f2426172936",
             "isDownload": false
         },
         {
@@ -90,6 +90,19 @@
         }
     ],
     "themes": [
+        {
+            "title": "JB285_wigebox",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB285_wigebox.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB285_wigebox.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
         {
             "title": "Swa91",
             "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
@@ -232575,7 +232588,7 @@
         "contentRightsUrl": "https://github.com/duke4e/showData/raw/main/contentRights/contentRights.md",
         "newsLastDate": "05.09.2022",
         "featuredAutoscrollSpeed": 5,
-        "infoHeaderText": "ShowCuts 1.2\n#ShowTeam\n\nShowLive Build 1.937 last updated 29/08/22\nShowLive Helper Build 1.24 last updated 05/09/22",
+        "infoHeaderText": "ShowCuts 1.2\n#ShowTeam\n\nShowLive Build 1.939 last updated 08/09/22\nShowLive Helper Build 1.26 last updated 08/09/22",
         "appsByFriendsTitle": "Apps by friends",
         "appsByFriendsSubtitle": "Be sure to check them out...",
         "socialTitle": "We are here for you!",
