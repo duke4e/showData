@@ -4,6 +4,23 @@
 <br>
 
 ---
+#### screenshotSL updated to v2
+September 12th 2022
+
+screenshotSL updated:
+
++ Since iOS16 Shortcuts doesn't like they way I generated the current selection menu I've had no option but to change the way you select the mockup image.
+
+Now you select from the "Shortcuts/screenshotSL" folder. Just select the mockup image you want to use from the folder and the shortcut will function the same as before.
+
+*Allow time for the first download (25mb). When I update or add images, I will let you know to delete the existing screenshotSL folder so that the new folder is downloaded with the new images.*
+
+
+Download the updated screenshotSL from the Shortcuts page. Replace the already installed shortcut. 
+
+<br>
+
+—
 #### ShowLive v1.939 - Helper v1.26
 September 08th 2022
 
