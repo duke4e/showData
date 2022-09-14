@@ -4,6 +4,23 @@
 <br>
 
 ---
+#### ShowLive v1.941
+September 14th 2022
+
+ShowLive Shortcut updated:
+
++ Added new circle charts
++ Added dataAlt for circle charts - *temp, precip, humidit, low, high*
++ Added new Wallpaper Mask Action
++ Added addtional weatherdesc_user3
++ Code optmisations
+
+
+Download the updated ShowLive v1.941 from the Shortcuts page. Replace the already installed shortcut. 
+
+<br>
+
+—
 #### screenshotSL updated to v2
 September 12th 2022
 
