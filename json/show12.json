@@ -105,6 +105,32 @@
     ],
     "themes": [
         {
+            "title": "Jess6601",
+            "subtitle": "A theme @tombowie",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Jess6601.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tombowie/Jess6601.zip",
+            "isDownload": true,
+            "authors": [
+                "tombowie"
+            ]
+        },
+        {
+            "title": "JenStock2",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JenStock2.jpg",
+            "tag1Text": "LOCK+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JenStock2.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
             "title": "MGSimple2_mod",
             "subtitle": "A theme @tombowie",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
