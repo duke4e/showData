@@ -105,6 +105,58 @@
     ],
     "themes": [
         {
+            "title": "MGSimple2_mod",
+            "subtitle": "A theme @tombowie",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/MGSimple2_mod.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tombowie/MGSimple2_mod.zip",
+            "isDownload": true,
+            "authors": [
+                "tombowie"
+            ]
+        },
+        {
+            "title": "JB290_asdlordesigns",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB290_asdlordesigns.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB290_asdlordesigns.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB291_FAlhmma",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB291_FAlhmma.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB291_FAlhmma.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB292_ios16",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB292_ios16.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB292_ios16.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
             "title": "JenStock1",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
