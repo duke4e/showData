@@ -2,6 +2,20 @@
     "featured": [
         {
             "type": "Icon Pack",
+            "title": "Postal",
+            "subtitle": "Icon pack by @LeslyeCream ($4 use code: P0ST4L)",
+            "buttonSubtitle": "Ko-fi",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/postal_icon.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/postalFeatured.jpg",
+            "buttonTitle": "$5.00",
+            "targetUrl": "https://ko-fi.com/s/cdd232a27b",
+            "blurIsDark": false,
+            "headerHexColor": "000000",
+            "headerTitle": "Featured",
+            "internalType": "icon"
+        },
+        {
+            "type": "Icon Pack",
             "title": "Muffin White Icon Pack",
             "subtitle": "Crafted icons by @ounidesigns",
             "buttonSubtitle": "Ko-fi",
