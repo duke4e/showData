@@ -105,6 +105,19 @@
     ],
     "themes": [
         {
+            "title": "takingtheP1ss",
+            "subtitle": "I make stuff! @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/takingtheP1ss.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/takingtheP1ss.zip",
+            "isDownload": true,
+            "authors": [
+                "SeanKly"
+            ]
+        },
+        {
             "title": "Jess1",
             "subtitle": "A theme by @jesse0166",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jesse0601_profpic.jpg",
