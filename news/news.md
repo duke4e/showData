@@ -4,6 +4,20 @@
 <br>
 
 ---
+#### ShowLive v1.943
+September 16th 2022
+
+ShowLive Shortcut updated:
+
++ Added new circle charts which allows new styes to be used
++ Code optmisations
+
+
+Download the updated ShowLive v1.943 from the Shortcuts page. Replace the already installed shortcut. 
+
+<br>
+
+—
 #### ShowLive v1.941
 September 14th 2022
 
