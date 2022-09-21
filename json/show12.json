@@ -105,6 +105,34 @@
     ],
     "themes": [
         {
+            "title": "thermo1",
+            "subtitle": "We make stuff! @SeanKly @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/thermo1.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/thermo1.zip",
+            "isDownload": true,
+            "authors": [
+                "SeanKly",
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "thermo2",
+            "subtitle": "We make stuff! @SeanKly @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/thermo2.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/thermo2.zip",
+            "isDownload": true,
+            "authors": [
+                "SeanKly",
+                "jennysblessed"
+            ]
+        },
+        {
             "title": "Swa92",
             "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
