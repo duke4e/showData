@@ -105,6 +105,19 @@
     ],
     "themes": [
         {
+            "title": "JB297",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB297.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB297.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
             "title": "glowBalls",
             "subtitle": "We make stuff! @SeanKly @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
