@@ -105,6 +105,34 @@
     ],
     "themes": [
         {
+            "title": "glowBalls",
+            "subtitle": "We make stuff! @SeanKly @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/glowBalls.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/glowBalls.zip",
+            "isDownload": true,
+            "authors": [
+                "SeanKly",
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "darkThermo",
+            "subtitle": "We make stuff! @SeanKly @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/darkThermo.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/darkThermo.zip",
+            "isDownload": true,
+            "authors": [
+                "SeanKly",
+                "jennysblessed"
+            ]
+        },
+        {
             "title": "ps5",
             "subtitle": "We make stuff! @SeanKly @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
