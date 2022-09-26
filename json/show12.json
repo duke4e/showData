@@ -2,6 +2,20 @@
     "featured": [
         {
             "type": "Icon Pack",
+            "title": "M3Du5a",
+            "subtitle": "Icon pack by @mpiregraphix",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/M3Du5a_icon.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/M3Du5aFeatured.jpg",
+            "buttonTitle": "$1.99",
+            "targetUrl": "https://www.paypal.me/mpiregraphix",
+            "blurIsDark": false,
+            "headerHexColor": "000000",
+            "headerTitle": "Featured",
+            "internalType": "icon"
+        },
+        {
+            "type": "Icon Pack",
             "title": "Postal",
             "subtitle": "by @LeslyeCream",
             "buttonSubtitle": "Ko-fi",
@@ -8382,6 +8396,21 @@
         }
     ],
     "icons": [
+        {
+            "type": "Icon Pack",
+            "title": "M3Du5a",
+            "subtitle": "Icon pack by @mpiregraphix",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/M3Du5a_icon.png",
+            "buttonTitle": "$1.99",
+            "targetUrl": "https://www.paypal.me/mpiregraphix",
+            "isDownload": false,
+            "author": "mpiregraphix",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/mpiregraphix.jpg",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/M3Du5a_preview.png"
+            ]
+        },
         {
             "type": "Icon Pack",
             "title": "Postal",
