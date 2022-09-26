@@ -8450,6 +8450,21 @@
     "icons": [
         {
             "type": "Icon Pack",
+            "title": "Parashit Dark Blue",
+            "subtitle": "Icon pack by @coburn67_94",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/parashitDBlue.png",
+            "buttonTitle": "$3.00",
+            "targetUrl": "https://www.paypal.me/ayiprughby",
+            "isDownload": false,
+            "author": "coburn67_94",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/coburn67_94.jpg",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/parashitblueSS.png"
+            ]
+        },
+        {
+            "type": "Icon Pack",
             "title": "M3Du5a",
             "subtitle": "Icon pack by @mpiregraphix",
             "buttonSubtitle": "PayPal",
@@ -8490,7 +8505,7 @@
             "author": "coburn67_94",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/coburn67_94.jpg",
             "screenshotUrls": [
-                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/parashitwhiteSS.png"
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/parashitwhiteSS2.png"
             ]
         },
         {
