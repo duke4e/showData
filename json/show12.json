@@ -2,6 +2,20 @@
     "featured": [
         {
             "type": "Icon Pack",
+            "title": "Marron",
+            "subtitle": "Icon pack by @DaddyKool",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Marron_icon.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/MarronFeatured.jpg",
+            "buttonTitle": "£3.50",
+            "targetUrl": "https://daddykool.gumroad.com/l/quokoq",
+            "blurIsDark": false,
+            "headerHexColor": "ffffff",
+            "headerTitle": "Featured",
+            "internalType": "icon"
+        },
+        {
+            "type": "Icon Pack",
             "title": "M3Du5a",
             "subtitle": "Icon pack by @mpiregraphix",
             "buttonSubtitle": "PayPal",
@@ -8448,6 +8462,21 @@
         }
     ],
     "icons": [
+        {
+            "type": "Icon Pack",
+            "title": "Marron",
+            "subtitle": "Icon pack by @DaddyKool",
+            "buttonSubtitle": "Gumroad",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Marron_icon.png",
+            "buttonTitle": "£3.50",
+            "targetUrl": "https://daddykool.gumroad.com/l/quokoq",
+            "isDownload": false,
+            "author": "DaddyKool",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/DaddyKool.jpg",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Marron_preview.png"
+            ]
+        },
         {
             "type": "Icon Pack",
             "title": "Parashit Dark Blue",
