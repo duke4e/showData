@@ -8516,6 +8516,21 @@
     "icons": [
         {
             "type": "Icon Pack",
+            "title": "EOS",
+            "subtitle": "Icon pack by @mpiregraphix",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/EOS_icon.png",
+            "buttonTitle": "$1.99",
+            "targetUrl": "https://www.paypal.me/mpiregraphix",
+            "isDownload": false,
+            "author": "mpiregraphix",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/mpiregraphix.jpg",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/EOS_preview.png"
+            ]
+        },
+        {
+            "type": "Icon Pack",
             "title": "7R1D3N7_R380RN",
             "subtitle": "Icon pack by @mpiregraphix",
             "buttonSubtitle": "PayPal",
