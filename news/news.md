@@ -16,7 +16,7 @@ You will be asked an initial setup question. Default is "false", change it to "t
 Its a workaround until we get something better.
 
 
-Download the updated ShowLive v1.944 from the Shortcuts page. Replace the already installed shortcut. 
+Download the updated ShowLive v1.946 from the Shortcuts page. Replace the already installed shortcut. 
 
 <br>
 
