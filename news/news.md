@@ -4,6 +4,23 @@
 <br>
 
 ---
+#### ShowLive v1.946
+September 28th 2022
+
+ShowLive Shortcut updated:
+
++ Added iOS 16 wallaper edit and device check so you can have widgets on the lockscreen as well as ShowLive themes.
+
+You will be asked an initial setup question. Default is "false", change it to "true" if you want the ShowLive theme saved to your recents album for setting manually in the iOS16 wallpaper edit screen. The edit screen will open automatically after the shortcut has created the theme. Leave as "false" to run ShowLive as normal.
+
+Its a workaround until we get something better.
+
+
+Download the updated ShowLive v1.944 from the Shortcuts page. Replace the already installed shortcut. 
+
+<br>
+
+—
 #### ShowLive v1.944
 September 21st 2022
 
