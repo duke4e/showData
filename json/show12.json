@@ -8511,6 +8511,16 @@
             "buttonTitle": "GO",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/howTo/theme_icons.md",
             "isDownload": false
+        },
+        {
+            "type": "HOW TO",
+            "title": "Useful Links",
+            "subtitle": "Master JSON, Apps we use etc",
+            "buttonSubtitle": "Links",
+            "screenshotUrl": "",
+            "buttonTitle": "GO",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/howTo/usefulLinks.md",
+            "isDownload": false
         }
     ],
     "icons": [
