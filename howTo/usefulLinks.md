@@ -3,7 +3,7 @@
 ### USEFUL LINKS
 
 Below you will find a list of useful links:
-
+<br/>
 
 #### MASTER JSON
 
@@ -27,7 +27,15 @@ A plain text editor with syntax highlighting, line numbers, search and replace, 
 
 ---
 
-More coming soon!
+####  SHORTCUTS
+
+Below are some iOS Shortcuts that you may find useful.
+
+[ShowLive Font Viewer](https://www.icloud.com/shortcuts/f2715cf45da94ad4ba6c712bb0e46764)
+Use this shortcut to view a font file (.ttf or .otf). Simply share the font file from the sharesheet to SL Font Viewer.
+
+[ShowLive Dictionary Viewer](https://www.icloud.com/shortcuts/e7f4ab313ad147979bf35492ac66909d)
+Use this shortcut to view what assets are included in the embedded dictionary in the ShowLive shortcut.
 
 ---
 
