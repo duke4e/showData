@@ -2,7 +2,7 @@
 
 ### USEFUL LINKS
 
-Below you will find a list of useful links:
+Below you will find a list of useful links to help you make your first ShowLive theme. I will keep adding useful links here as and when i think it will be a benefit to you.
 <br/>
 
 #### MASTER JSON
