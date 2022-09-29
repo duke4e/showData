@@ -5,7 +5,7 @@
 Below you will find a list of useful links:
 
 
-# Master JSON file
+#### Master JSON file
 
 A complete master json file with all objects and values.
 
@@ -15,7 +15,7 @@ A complete master json file with all objects and values.
 
 ---
 
-# Apps we use to edit json files:
+#### Apps we use to edit json files:
 
 [Kodex](https://apps.apple.com/gb/app/kodex/id1038574481)
 Kodex is an advanced code editor which brings powerful and desktop-class editor features to your iPad or iPhone
