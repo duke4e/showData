@@ -43,7 +43,7 @@ Use this shortcut to view what assets are included in the embedded dictionary in
 
 The zip file contains a collection of assets that will get you started with making a ShowLive theme. The zip file includes fonts, gauge images, moon phase images, weather icon images and weather wall images.
 
-[ShowLive Assets Zip](https://github.com/duke4e/showData/raw/main/json/SLAssets/SLAssets.zip)
+[ShowLive Assets Zip (100mb)](https://github.com/duke4e/showData/raw/main/json/SLAssets/SLAssets.zip)
 Once download completes, extract the zip file to Shortcuts/ShowLive/ShowLive_Assets/ 
 
 ---
