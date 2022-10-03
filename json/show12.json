@@ -133,6 +133,58 @@
     ],
     "themes": [
         {
+            "title": "MarcoG2",
+            "subtitle": "A recreation by @UtdAll",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Craig.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/MarcoG2.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/utdall/MarcoG2.zip",
+            "isDownload": true,
+            "authors": [
+                "UtdAll"
+            ]
+        },
+        {
+            "title": "ZoopMT",
+            "subtitle": "A theme by @Zooropalg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Zoop.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/ZoopMT.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/zooropalg/ZoopMT.zip",
+            "isDownload": true,
+            "authors": [
+                "Zooropalg"
+            ]
+        },
+        {
+            "title": "DeeliriousWeener",
+            "subtitle": "Specialist Screens by Ken @iroman50",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/DeeLirious_One.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DeeliriousWeener.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DeeLirious_One/DeeliriousWeener.zip",
+            "isDownload": true,
+            "authors": [
+                "DeeLirious_One"
+            ]
+        },
+        {
+            "title": "DeeliriousShelves",
+            "subtitle": "Specialist Screens by Ken @iroman50",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/DeeLirious_One.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DeeliriousShelves.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DeeLirious_One/DeeliriousShelves.zip",
+            "isDownload": true,
+            "authors": [
+                "DeeLirious_One"
+            ]
+        },
+        {
             "title": "Berlucci13",
             "subtitle": "Specialist Screens by Ken @iroman50",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/iroman50_Ken.jpg",
