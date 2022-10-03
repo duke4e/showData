@@ -133,6 +133,201 @@
     ],
     "themes": [
         {
+            "title": "Berlucci13",
+            "subtitle": "Specialist Screens by Ken @iroman50",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/iroman50_Ken.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Berlucci13.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/iroman50/Berlucci13.zip",
+            "isDownload": true,
+            "authors": [
+                "IronMan50"
+            ]
+        },
+        {
+            "title": "cb1",
+            "subtitle": "Wallpapers, Widgy QR's and more @Kothuq",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Byron.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/cb1.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Kothuq/cb1.zip",
+            "isDownload": true,
+            "authors": [
+                "Kothuq"
+            ]
+        },
+        {
+            "title": "cb2",
+            "subtitle": "Wallpapers, Widgy QR's and more @Kothuq",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Byron.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/cb2.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Kothuq/cb2.zip",
+            "isDownload": true,
+            "authors": [
+                "Kothuq"
+            ]
+        },
+        {
+            "title": "cb3",
+            "subtitle": "Wallpapers, Widgy QR's and more @Kothuq",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Byron.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/cb3.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Kothuq/cb3.zip",
+            "isDownload": true,
+            "authors": [
+                "Kothuq"
+            ]
+        },
+        {
+            "title": "cb4",
+            "subtitle": "Wallpapers, Widgy QR's and more @Kothuq",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Byron.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/cb4.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Kothuq/cb4.zip",
+            "isDownload": true,
+            "authors": [
+                "Kothuq"
+            ]
+        },
+        {
+            "title": "cb5",
+            "subtitle": "Wallpapers, Widgy QR's and more @Kothuq",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Byron.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/cb5.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Kothuq/cb5.zip",
+            "isDownload": true,
+            "authors": [
+                "Kothuq"
+            ]
+        },
+        {
+            "title": "cb6",
+            "subtitle": "Wallpapers, Widgy QR's and more @Kothuq",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Byron.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/cb6.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Kothuq/cb6.zip",
+            "isDownload": true,
+            "authors": [
+                "Kothuq"
+            ]
+        },
+        {
+            "title": "cb7",
+            "subtitle": "Wallpapers, Widgy QR's and more @Kothuq",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Byron.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/cb7.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Kothuq/cb7.zip",
+            "isDownload": true,
+            "authors": [
+                "Kothuq"
+            ]
+        },
+        {
+            "title": "cb8",
+            "subtitle": "Wallpapers, Widgy QR's and more @Kothuq",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Byron.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/cb8.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Kothuq/cb8.zip",
+            "isDownload": true,
+            "authors": [
+                "Kothuq"
+            ]
+        },
+        {
+            "title": "cb9",
+            "subtitle": "Wallpapers, Widgy QR's and more @Kothuq",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Byron.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/cb9.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Kothuq/cb9.zip",
+            "isDownload": true,
+            "authors": [
+                "Kothuq"
+            ]
+        },
+        {
+            "title": "JB310_21MaRc012",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB310_21MaRc012.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB310_21MaRc012.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB309_rheinlandmike",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB309_rheinlandmike.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB309_rheinlandmike.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB308_spookyseason",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB308_spookyseason.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "X2",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB308_spookyseason.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB307_droidbeauty",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB307_droidbeauty.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB307_droidbeauty.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB306_FAlhmma",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB306_FAlhmma.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "X2",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB306_FAlhmma.zip",
+            "isDownload": true,
+            "authors": [
+                "jennysblessed"
+            ]
+        },
+        {
             "title": "JB305_droidbeauty",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
