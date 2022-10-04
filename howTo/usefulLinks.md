@@ -15,7 +15,7 @@ A complete master json file with all objects and values.
 
 ---
 
-#### APPS WE USE TO EDIT JSON
+#### APPS WE USE TO EDIT & TROUBLESHOOT JSON
 
 [Kodex](https://apps.apple.com/gb/app/kodex/id1038574481)
 Kodex is an advanced code editor which brings powerful and desktop-class editor features to your iPad or iPhone
@@ -24,6 +24,12 @@ Kodex is an advanced code editor which brings powerful and desktop-class editor 
 A plain text editor with syntax highlighting, line numbers, search and replace, page guide, and much more.
 
 > *Note: There are other apps (text editors) available. Choose one you prefer.*
+
+[JSONLint](https://jsonlint.com/)
+The next one isnt an app but an online tool that quickly helps identify issues with your JSON. JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format. Copy and paste, directly type, or input a URL in the editor and let JSONLint tidy and validate your messy JSON code.
+
+[JSON Prettify](http://jsonprettify.com/)
+This is another favourite online tool. I like to keep my JSON tidy and in order and this tool helps do just that. A super simple web interface. Just paste the JSON text and tap "prettify". Download and done.
 
 ---
 
