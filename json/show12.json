@@ -136,6 +136,34 @@
     "themes":
     [
         {
+            "title": "JB4_lucifer",
+            "subtitle": "Original by @jeppefoldager",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB4_lucifer.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB4_lucifer.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB311_asdlordesigns",
+            "subtitle": "Original by @jeppefoldager",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB311_asdlordesigns.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB311_asdlordesigns.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
             "title": "JB311_jeppefoldager",
             "subtitle": "Original by @jeppefoldager",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
@@ -11638,6 +11666,113 @@
     ],
     "wallpapers":
     [
+        {
+            "author": "TeboulDavid1",
+            "colors":
+            [
+                "Black",
+                "Gray",
+                "Blue",
+                "Yellow"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg8011.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg8011.png"
+        },
+        {
+            "author": "TeboulDavid1",
+            "colors":
+            [
+                "Black",
+                "Gray",
+                "Blue",
+                "Yellow"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg8010.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg8010.png"
+        },
+        {
+            "author": "TeboulDavid1",
+            "colors":
+            [
+                "Black",
+                "Purple",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg809.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg809.png"
+        },
+        {
+            "author": "TeboulDavid1",
+            "colors":
+            [
+                "Black",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg806(2).jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg806(2).png"
+        },
+        {
+            "author": "TeboulDavid1",
+            "colors":
+            [
+                "Orange",
+                "Pink",
+                "Purple"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg806.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg806.png"
+        },
+        {
+            "author": "TeboulDavid1",
+            "colors":
+            [
+                "Black",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg805.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg805.png"
+        },
+        {
+            "author": "TeboulDavid1",
+            "colors":
+            [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg804.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg804.png"
+        },
+        {
+            "author": "TeboulDavid1",
+            "colors":
+            [
+                "Black",
+                "Gray"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg803.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg803.png"
+        },
+        {
+            "author": "TeboulDavid1",
+            "colors":
+            [
+                "Black",
+                "Yellow",
+                "Red",
+                "Purple"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/wallThumbs/ggg802.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/TeboulDavid1/walls/ggg802.png"
+        },
         {
             "author": "TeboulDavid1",
             "colors":
