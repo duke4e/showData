@@ -136,6 +136,20 @@
     "themes":
     [
         {
+            "title": "SKJB0810",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SKJB0810.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "X2",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/SKJB0810.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
             "title": "JB4_lucifer",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
@@ -118421,6 +118435,28 @@
             "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Outland3r2007/wallThumbs/Outland3r2007_22.jpg",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Outland3r2007.jpg",
             "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/Outland3r2007/walls/Outland3r2007_22.png"
+        },
+        {
+            "author": "SeanKly",
+            "colors":
+            [
+                "Green",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/wallThumbs/SKLY_182.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_180.png"
+        },
+        {
+            "author": "SeanKly",
+            "colors":
+            [
+                "Green",
+                "Blue"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/wallThumbs/SKLY_181.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_179.png"
         },
         {
             "author": "SeanKly",
