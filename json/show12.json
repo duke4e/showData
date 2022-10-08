@@ -118440,6 +118440,18 @@
             "author": "SeanKly",
             "colors":
             [
+                "Pink",
+                "Purple",
+                "White"
+            ],
+            "thumbUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/wallThumbs/SKLY_186.jpg",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/images/wallpapers/SeanKly/walls/SKLY_186.png"
+        },
+        {
+            "author": "SeanKly",
+            "colors":
+            [
                 "Red",
                 "Yellow"
             ],
