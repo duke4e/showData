@@ -1,20 +1,7 @@
 {
     "featured":
     [
-        {
-            "type": "Icon Pack",
-            "title": "Marron",
-            "subtitle": "Icon pack by @DaddyKool",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Marron_icon.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/MarronFeatured.jpg",
-            "buttonTitle": "£3.50",
-            "targetUrl": "https://daddykool.gumroad.com/l/quokoq",
-            "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Featured",
-            "internalType": "icon"
-        },
+        
         {
             "type": "Icon Pack",
             "title": "M3Du5a",
@@ -26,20 +13,6 @@
             "targetUrl": "https://www.paypal.me/mpiregraphix",
             "blurIsDark": false,
             "headerHexColor": "ffffff",
-            "headerTitle": "Featured",
-            "internalType": "icon"
-        },
-        {
-            "type": "Icon Pack",
-            "title": "Postal",
-            "subtitle": "by @LeslyeCream",
-            "buttonSubtitle": "Ko-fi",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/postal_icon.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/postalFeatured.jpg",
-            "buttonTitle": "$5.00",
-            "targetUrl": "https://ko-fi.com/s/cdd232a27b",
-            "blurIsDark": false,
-            "headerHexColor": "000000",
             "headerTitle": "Featured",
             "internalType": "icon"
         },
@@ -91,12 +64,12 @@
         {
             "type": "SHORTCUT",
             "title": "ShowLive",
-            "subtitle": "v1.947 All iOS Versions",
+            "subtitle": "v1.949 All iOS Versions",
             "buttonSubtitle": "Shortcut",
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive_update.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/Shortcuts_Header_v2.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/873c2922f52f41e1b754552a23e641d1",
+            "targetUrl": "https://www.icloud.com/shortcuts/67808181b2af4994a424a143ff0121c0",
             "isDownload": false
         },
         {
@@ -135,6 +108,34 @@
     ],
     "themes":
     [
+        {
+            "title": "JB337_rajjaryaa",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB337_rajjaryaa.png",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB337_rajjaryaa.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB338_rajjaryaa",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB338_rajjaryaa.png",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB338_rajjaryaa.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
         {
             "title": "JB336_ppickCH",
             "subtitle": "Live Laugh Love @jennysblessed",
@@ -286757,9 +286758,9 @@
         "freeItemsOnly": false,
         "newsUrl": "https://github.com/duke4e/showData/raw/main/news/news.md",
         "contentRightsUrl": "https://github.com/duke4e/showData/raw/main/contentRights/contentRights.md",
-        "newsLastDate": "28.09.2022",
+        "newsLastDate": "04.11.2022",
         "featuredAutoscrollSpeed": 5,
-        "infoHeaderText": "ShowCuts 1.2\n#ShowTeam\n\nShowLive Build 1.947 last updated 25/10/22\nShowLive Helper Build 1.26 last updated 08/09/22",
+        "infoHeaderText": "ShowCuts 1.2\n#ShowTeam\n\nShowLive Build 1.949 last updated 04/11/22\nShowLive Helper Build 1.26 last updated 08/09/22",
         "appsByFriendsTitle": "Apps by friends",
         "appsByFriendsSubtitle": "Be sure to check them out...",
         "socialTitle": "We are here for you!",
