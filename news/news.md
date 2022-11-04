@@ -4,6 +4,24 @@
 <br>
 
 ---
+#### ShowLive v1.949
+November 4th 2022
+
+ShowLive Shortcut updated:
+
++ Bug Fixes
++ Added Kern to Last Update and Battery Text
+
+iOS 14 is no longer officially supported by ShowLive or the Helper shortcuts. 
+
+
+Download the updated ShowLive v1.949 from the Shortcuts page. Replace the already installed shortcut.
+
+
+
+<br>
+
+—
 #### ShowLive v1.946
 September 28th 2022
 
