@@ -108,6 +108,22 @@
     ],
     "themes":
     [
+
+     {
+        
+            "title": "sJ1",
+            "subtitle": "Shintaro Jap",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Simonjap63.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/simonJap1.jpg",
+            "tag1Text": "LOCK",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/simonJap1.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Simonjap63"
+            ]
+        },   
         {
         
             "title": "SWA94",
