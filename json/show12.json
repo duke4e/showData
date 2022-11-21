@@ -108,6 +108,76 @@
     ],
     "themes":
     [
+        {
+            "title": "tb07_kothuq",
+            "subtitle": "A theme @tombowie",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/tb07_kothuq.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tombowie/tb07_kothuq.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "tombowie"
+            ]
+        },
+        {
+            "title": "tb08_kothuq",
+            "subtitle": "A theme @tombowie",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/tb08_kothuq.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tombowie/tb08_kothuq.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "tombowie"
+            ]
+        },
+        {
+            "title": "Asmi190 ",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi190.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi190.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Asmi"
+            ]
+        },
+        {
+            "title": "Asmi193",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi193.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi193.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Asmi"
+            ]
+        },
+        {
+            "title": "Asmi194",
+            "subtitle": "A theme by ASMI",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Asmi194.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/asmi/Asmi194.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Asmi"
+            ]
+        },
 
      {
         
