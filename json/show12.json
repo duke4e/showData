@@ -109,6 +109,36 @@
     "themes":
     [
         {
+        
+            "title": "HS_SJ02",
+            "subtitle": "Shintaro Jap",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Simonjap63.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/HS_SJ02.jpg",
+            "tag1Text": "HOME+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Simonjap63/HS_SJ02.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Simonjap63"
+            ]
+        },   
+        {
+        
+            "title": "LS_SJ02",
+            "subtitle": "Shintaro Jap",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Simonjap63.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/LS_SJ02.jpg",
+            "tag1Text": "LOCK+",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Simonjap63/LS_SJ02.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Simonjap63"
+            ]
+        },   
+        {
             "title": "tb07_kothuq",
             "subtitle": "A theme @tombowie",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
