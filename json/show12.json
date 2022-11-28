@@ -109,6 +109,20 @@
     "themes":
     [
         {
+            "title": "simplySK",
+            "subtitle": "I make stuff! @SeanKly",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Sean.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/simplySK.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/seankly/simplySK.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "SeanKly"
+            ]
+        },
+        {
             "title": "ByronLS_TB1",
             "subtitle": "A theme @tombowie",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Tom.jpg",
