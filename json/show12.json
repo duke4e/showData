@@ -10434,6 +10434,23 @@
     ],
     "icons":
     [
+
+        {
+            "type": "Icon Pack",
+            "title": "Bluknut",
+            "subtitle": "Icon pack by @coburn67_94",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/Bluknut.png",
+            "buttonTitle": "$3.50",
+            "targetUrl": "https://www.paypal.me/ayiprughby",
+            "isDownload": false,
+            "author": "coburn67_94",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/coburn67_94.jpg",
+            "screenshotUrls":
+            [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/Bluknut_screen.png"
+            ]
+        },
         {
             "type": "Icon Pack",
             "title": "EOS",
