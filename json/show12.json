@@ -109,6 +109,49 @@
     "themes":
     [
         {
+        
+            "title": "SWA98",
+            "subtitle": "Smart Wallpaper Art - @TeboulDavid1",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/David.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/SWA98.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/tebouldavid1/SWA98.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "TeboulDavid1"
+            ]
+        },
+        {
+            "title": "JB364_halleyapps",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB364_halleyapps.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB364_halleyapps.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB365_lokeshchauhan78",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB365_lokeshchauhan78.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB365_lokeshchauhan78.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
             "title": "JB363_21MaRc012",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
