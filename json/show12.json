@@ -109,6 +109,62 @@
     "themes":
     [
         {
+            "title": "polaryz01",
+            "subtitle": "Professional retweeter",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/polaryz_profpic.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/polaryz01.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/polaryz/polaryz01.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Eldyn"
+            ]
+        },
+        {
+            "title": "polaryz02",
+            "subtitle": "Professional retweeter",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/polaryz_profpic.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/polaryz02.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/polaryz/polaryz02.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Eldyn"
+            ]
+        },
+        {
+            "title": "polaryz03--ev_ynw",
+            "subtitle": "Professional retweeter",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/polaryz_profpic.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/polaryz03--ev_ynw.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/polaryz/polaryz03--ev_ynw.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Eldyn"
+            ]
+        },
+        {
+            "title": "polaryz04--GalerVodgals",
+            "subtitle": "Professional retweeter",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/polaryz_profpic.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/polaryz04--GalerVodgals.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/polaryz/polaryz04--GalerVodgals.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Eldyn"
+            ]
+        },
+        {
             "title": "JB366_rajjaryaa",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
