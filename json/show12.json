@@ -69,7 +69,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/ShowLive_update.png",
             "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/Shortcuts_Header_v2.png",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/67808181b2af4994a424a143ff0121c0",
+            "targetUrl": "https://www.icloud.com/shortcuts/a57df7daf8ca47ed8c90da1341d72027",
             "isDownload": false
         },
         {
@@ -80,7 +80,7 @@
             "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shortcuts/SLApp_Helper.png",
             "screenshotUrl": "",
             "buttonTitle": "GET",
-            "targetUrl": "https://www.icloud.com/shortcuts/ab2fbbf16d6c4ac5b302d33d224138dd",
+            "targetUrl": "https://www.icloud.com/shortcuts/99d28998c9d842649b5308dc19f8e64b",
             "isDownload": false
         },
         {
@@ -108,6 +108,104 @@
     ],
     "themes":
     [
+         {
+            "title": "polaryz05",
+            "subtitle": "Professional retweeter",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/polaryz_profpic.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/polaryz05.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/polaryz/polaryz05.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Eldyn"
+            ]
+        },
+         {
+            "title": "polaryz06",
+            "subtitle": "Professional retweeter",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/polaryz_profpic.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/polaryz06.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/polaryz/polaryz06.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Eldyn"
+            ]
+        },
+         {
+            "title": "polaryz07",
+            "subtitle": "Professional retweeter",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/polaryz_profpic.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/polaryz07.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/polaryz/polaryz07.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Eldyn"
+            ]
+        },
+        {
+            "title": "JB376_ppickCH",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB376_ppickCH.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB376_ppickCH.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB377_asdlordesigns",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB377_asdlordesigns.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB377_asdlordesigns.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB378_ersteuomo",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB378_ersteuomo.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB378_ersteuomo.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB379",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB379.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB379.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
         {
             "title": "JB374_iamkalemc",
             "subtitle": "Live Laugh Love @jennysblessed",
