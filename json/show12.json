@@ -108,6 +108,48 @@
     ],
     "themes":
     [
+        {
+            "title": "JB387_ppickCH",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB387_ppickCH.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB387_ppickCH.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB388_rajjaryaa",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB388_rajjaryaa.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB388_rajjaryaa.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB389_simonjap",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB389_simonjap.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB389_simonjap.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
          {
             "title": "JB23_ppickCH",
             "subtitle": "Live Laugh Love @jennysblessed",
