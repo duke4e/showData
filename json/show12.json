@@ -109,6 +109,20 @@
     "themes":
     [
          {
+            "title": "mittiSL03",
+            "subtitle": "A theme by @mittiboy",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/mittiboy.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/mittiSL03.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/mitti/mittiSL03.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "mittiboy"
+            ]
+        },
+         {
             "title": "LexD11",
             "subtitle": "Just a fan of Apple",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/lexiProfPic.jpg",
