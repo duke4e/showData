@@ -109,6 +109,48 @@
     "themes":
     [
         {
+            "title": "polaryz08",
+            "subtitle": "Professional retweeter",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/polaryz_profpic.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/polaryz08.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/polaryz/polaryz08.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Eldyn"
+            ]
+        },
+        {
+            "title": "polaryz09",
+            "subtitle": "Professional retweeter",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/polaryz_profpic.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/polaryz09.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/polaryz/polaryz09.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Eldyn"
+            ]
+        },
+        {
+            "title": "polaryz10--DzikriAnam",
+            "subtitle": "Professional retweeter",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/polaryz_profpic.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/polaryz10--DzikriAnam.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/polaryz/polaryz10--DzikriAnam.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "Eldyn"
+            ]
+        },
+        {
             "title": "JB401_eduardob5to",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
