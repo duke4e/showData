@@ -108,6 +108,48 @@
     ],
     "themes":
     [
+        {
+            "title": "JB401_eduardob5to",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB401_eduardob5to.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB401_eduardob5to.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB402_rajjaryaa",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB402_rajjaryaa.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB402_rajjaryaa.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "Lda25",
+            "subtitle": "Just a fan of Apple",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/lexiProfPic.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/Lda25.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Lexi/Lda25.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "LexDesigns"
+            ]
+        },
          {
             "title": "mittiSL03",
             "subtitle": "A theme by @mittiboy",
