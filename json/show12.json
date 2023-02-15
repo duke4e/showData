@@ -109,6 +109,48 @@
     "themes":
     [
         {
+            "title": "JB409_eduardob5to",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB409_eduardob5to.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB409_eduardob5to.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB417_falhmma",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB417_falhmma.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB417_falhmma.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB418_ppickCH",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB418_ppickCH.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB418_ppickCH.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
             "title": "JB404_ppickCH",
             "subtitle": "Live Laugh Love @jennysblessed",
             "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
