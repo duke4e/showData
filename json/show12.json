@@ -108,6 +108,118 @@
     ],
     "themes":
     [
+         {
+            "title": "LDBlue2",
+            "subtitle": "Just a fan of Apple",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/lexiProfPic.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/LDBlue2.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Lexi/LDBlue2.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "LexDesigns"
+            ]
+        },
+         {
+            "title": "LDmetal",
+            "subtitle": "Just a fan of Apple",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/lexiProfPic.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/LDmetal.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Lexi/LDmetal.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "LexDesigns"
+            ]
+        },
+         {
+            "title": "LDred",
+            "subtitle": "Just a fan of Apple",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/lexiProfPic.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/LDred.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Lexi/LDred.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "LexDesigns"
+            ]
+        },
+         {
+            "title": "LDWB1",
+            "subtitle": "Just a fan of Apple",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/lexiProfPic.jpg",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/LDWB1.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/Lexi/LDWB1.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "LexDesigns"
+            ]
+        },
+        {
+            "title": "JB419_rajjaryaa",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB419_rajjaryaa.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB419_rajjaryaa.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB420_oktfrds",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB420_oktfrds.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB420_oktfrds.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB421_21MaRc012",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB421_21MaRc012.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB421_21MaRc012.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
+        {
+            "title": "JB422_rajjaryaa",
+            "subtitle": "Live Laugh Love @jennysblessed",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Jen.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB422_rajjaryaa.jpg",
+            "tag1Text": "HOME",
+            "tag2Text": "",
+            "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB422_rajjaryaa.zip",
+            "isDownload": true,
+            "authors":
+            [
+                "jennysblessed"
+            ]
+        },
         {
             "title": "JB409_eduardob5to",
             "subtitle": "Live Laugh Love @jennysblessed",
