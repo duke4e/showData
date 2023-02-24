@@ -2,55 +2,13 @@
     "featured": [
         {
             "type": "Icon Pack",
-            "title": "M3Du5a",
-            "subtitle": "Icon pack by @mpiregraphix",
+            "title": "Vaness Rawon",
+            "subtitle": "Icon pack by OXTFRDS DESIGN",
             "buttonSubtitle": "PayPal",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/M3Du5a_icon.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/M3Du5aFeatured.jpg",
-            "buttonTitle": "$1.99",
-            "targetUrl": "https://www.paypal.me/mpiregraphix",
-            "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Featured",
-            "internalType": "icon"
-        },
-        {
-            "type": "Icon Pack",
-            "title": "Muffin White Icon Pack",
-            "subtitle": "Crafted icons by @ounidesigns",
-            "buttonSubtitle": "Ko-fi",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Ouni.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/muffinWhite_Feature.jpg",
-            "buttonTitle": "$3.50",
-            "targetUrl": "https://bit.ly/MuffinWhiteiconpack",
-            "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Featured",
-            "internalType": "icon"
-        },
-        {
-            "type": "Icon Pack",
-            "title": "Sutoroku Icon Pack",
-            "subtitle": "Icon pack by @RippedThemer",
-            "buttonSubtitle": "Gumroad",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/RippedThemer.jpg",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/Sutoroku_feature.jpg",
-            "buttonTitle": "$3.00",
-            "targetUrl": "https://rippedthemer.gumroad.com/l/Sutoroku",
-            "blurIsDark": false,
-            "headerHexColor": "ffffff",
-            "headerTitle": "Featured",
-            "internalType": "icon"
-        },
-        {
-            "type": "Icon Pack",
-            "title": "Muffin Glyph Icon Pack",
-            "subtitle": "Crafted icons by @ounidesigns",
-            "buttonSubtitle": "Ko-fi",
-            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/Ouni.png",
-            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/muffinGlyph_Feature.jpg",
-            "buttonTitle": "$3.20",
-            "targetUrl": "https://ko-fi.com/s/015a11dc5d",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/VanessRawon_icon.png",
+            "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/home/vanessFeature.jpg",
+            "buttonTitle": "$2.19",
+            "targetUrl": "https://www.paypal.me/oxtfrds",
             "blurIsDark": false,
             "headerHexColor": "ffffff",
             "headerTitle": "Featured",
@@ -11292,6 +11250,21 @@
         }
     ],
     "icons": [
+        {
+            "type": "Icon Pack",
+            "title": "Vaness Rawon",
+            "subtitle": "Icon pack by OXTFRDS DESIGN",
+            "buttonSubtitle": "PayPal",
+            "iconUrl": "https://github.com/duke4e/showData/raw/main/images/shop/VanessRawon_icon.png",
+            "buttonTitle": "$2.19",
+            "targetUrl": "https://www.paypal.me/oxtfrds",
+            "isDownload": false,
+            "author": "OXTFRDS DESIGN",
+            "authorImageUrl": "https://github.com/duke4e/showData/raw/main/images/profpic/oxtfrdsdesigns_profpic.jpg",
+            "screenshotUrls": [
+                "https://github.com/duke4e/showData/raw/main/images/shop/shopIconsPreview/VanessRawon.png"
+            ]
+        },
         {
             "type": "Icon Pack",
             "title": "Bluknut",
