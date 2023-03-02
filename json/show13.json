@@ -233745,6 +233745,25 @@
     }
   ],
   "appsByFriends": [
+    
+    {
+      "type": "Amazing screenshot Mockups",
+      "title": "screenshotSL",
+      "subtitle": "Show your homescreen in style!",
+      "buttonSubtitle": "App Store",
+      "iconUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/dc/f1/8bdcf1a1-7bdf-9339-f603-57c83082191c/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/540x540bb.jpg",
+      "buttonTitle": "Get",
+      "targetUrl": "https://apps.apple.com/us/app/screenshotsl/id1658857348?itsct=apps_box_link&itscg=30200"
+    },
+    {
+      "type": "For your i-cons only",
+      "title": "ShowAE",
+      "subtitle": "Theme your icons!",
+      "buttonSubtitle": "App Store",
+      "iconUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/32/ad/ba/32adba37-7693-64db-4181-4b8ccb3c4343/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/540x540bb.jpg",
+      "buttonTitle": "Get",
+      "targetUrl": "https://apps.apple.com/us/app/showae/id6444632255?itsct=apps_box_link&itscg=30200"
+    },
     {
       "type": "Design your own Widgets",
       "title": "Widgy Widgets",
@@ -233753,15 +233772,6 @@
       "iconUrl": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/54/89/55/54895537-6f71-9cf5-c012-6474054a59c4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "buttonTitle": "Get",
       "targetUrl": "itms-apps://apps.apple.com/app/apple-store/id1524540481?ct=showcuts&mt=8"
-    },
-    {
-      "type": "Frame your screenshots",
-      "title": "Screenshot Maker Pro",
-      "subtitle": "Frame the mockup to screenshot",
-      "buttonSubtitle": "App Store",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/39/3d/ee/393dee98-9fab-170e-abd3-c8c759660552/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "buttonTitle": "Get",
-      "targetUrl": "itms-apps://apps.apple.com/app/apple-store/id673545271?ct=showcuts&mt=8"
     },
     {
       "type": "Dress up your iPhone",
@@ -233810,9 +233820,9 @@
   },
   "metadata": {
     "rootWallpaperURL": "https://github.com/duke4e/showData/raw/main/images/wallpapers/",
-    "themesSubtitle": "This is a theme subtitle",
-    "wallpapersSubtitle": "This is a wallpaper subtitle",
-    "shopMessage": "**Browse the Gallery** and find Icon Packs, Wallpapers and Widgets by the best creators out there!\n\nFilter what you want to see and open the preview to see more detail. Download direct to your iPhone or iPad.",
+    "themesSubtitle": "Theme your device with ShowLive",
+    "wallpapersSubtitle": "A massive collection of wallpapers",
+    "shopMessage": "**Browse ShowLive shortcut themes and creator wallpapers** Themes and Wallpapers by the best creators out there!\n\nSearch or Filter what you want to see and open the preview to see more detail. Download direct to your iPhone or iPad.",
     "shortcutsMessage": "**Explore** the Show shortcuts below. ShowLive & ShowLive Helper shortcuts are required to install themes with this app. Install and setup ShowLive first before downloading themes.\n\nShortcut versions are for **iOS 14 and higher, including iOS 16.1**.",
     "howToMessage": "**Follow our tutorials** and learn how to select, download and apply themes with ShowLive. We cover everything to get you started with easy to follow videos and detailed step by step written instructions.\n\nFor further support visit our Discord server. Link at the bottom of this page.",
     "themeDownloadInstructionsMessage": "#Once download completes:\n\nThe iOS share sheet will appear. Tap on **ShowLive Helper** to install the theme.\n\nYou can then choose to run the ShowLive shortcut to apply the theme on your device, or choose exit if you plan to apply the theme later",
@@ -233832,9 +233842,9 @@
     "contentRightsUrl": "https://github.com/duke4e/showData/raw/main/contentRights/contentRights.md",
     "newsLastDate": "04.11.2022",
     "infoHeaderText": "ShowCuts 1.2\n#ShowTeam\n\nShowLive Build 1.949 last updated 04/11/22\nShowLive Helper Build 1.26 last updated 08/09/22",
-    "appsByFriendsTitle": "Apps by friends",
+    "appsByFriendsTitle": "Apps we recommend",
     "appsByFriendsSubtitle": "Be sure to check them out...",
-    "socialTitle": "We are here for you!",
+    "socialTitle": "Find us on social media!",
     "socialSubtitle": "Be sure to check us out..."
   }
 }
