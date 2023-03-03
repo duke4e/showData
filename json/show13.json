@@ -47,6 +47,40 @@
   ],
   "themes": [
     {
+      "title": "JB435_wigebox",
+      "subtitle": "Live Laugh Love @jennysblessed",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB435_wigebox.jpg",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB435_wigebox.zip",
+      "isDownload": true,
+      "authors": [
+        "jennysblessed"
+      ]
+    },
+    {
+      "title": "JB436_eduardob5to",
+      "subtitle": "Live Laugh Love @jennysblessed",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB436_eduardob5to.jpg",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB436_eduardob5to.zip",
+      "isDownload": true,
+      "authors": [
+        "jennysblessed"
+      ]
+    },
+    {
+      "title": "JB437_eduardob5to",
+      "subtitle": "Live Laugh Love @jennysblessed",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB437_eduardob5to.jpg",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB437_eduardob5to.zip",
+      "isDownload": true,
+      "authors": [
+        "jennysblessed"
+      ]
+    },
+    
+    {
       "title": "JB431_wigebox",
       "subtitle": "Live Laugh Love @jennysblessed",
       "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB431_wigebox.jpg",
