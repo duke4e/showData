@@ -11751,6 +11751,26 @@
     {
       "author": "SeanKly",
       "colors": [
+        "Purple",
+        "Blue"
+      ],
+      "thumbUrl": "SeanKly/wallThumbs/SKLY_205.jpg",
+      "targetUrl": "SeanKly/walls/SKLY_205.png"
+    },
+    {
+      "author": "SeanKly",
+      "colors": [
+        "Blue",
+        "Black", 
+        "Purple"
+      ],
+      "thumbUrl": "SeanKly/wallThumbs/SKLY_206.jpg",
+      "targetUrl": "SeanKly/walls/SKLY_206.png"
+    },
+
+    {
+      "author": "SeanKly",
+      "colors": [
         "Gray",
         "Black"
       ],
