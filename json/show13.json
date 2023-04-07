@@ -46,6 +46,62 @@
     }
   ],
   "themes": [
+    {
+      "title": "DKMarron1",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DKMarron1.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DKMarron1.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+    {
+      "title": "DKMarron2",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DKMarron2.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DKMarron2.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+    {
+      "title": "DKMarron3",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DKMarron3.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DKMarron3.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+    {
+      "title": "JB501_droidbeauty",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB501_droidbeauty.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB501_droidbeauty.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+    {
+      "title": "JB501_droidbeauty",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB501_droidbeauty.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/jennysblessed/JB501_droidbeauty.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+
      {
       "title": "JB501_droidbeauty",
       "subtitle": "Live Laugh Love @jennysblessed",
@@ -234802,6 +234858,7 @@
   ],
   "authors": {
     "Asmi": "https://github.com/duke4e/showData/raw/main/images/profpic/Asmi.jpg",
+    "DaddyKool666": "https://github.com/duke4e/showData/raw/main/images/profpic/DaddyKool.jpg",
     "awsiiq": "https://github.com/duke4e/showData/raw/main/images/profpic/awsiiq_prof.jpg",
     "Boots6972": "https://github.com/duke4e/showData/raw/main/images/profpic/Boots.jpg",
     "colorwallies": "https://github.com/duke4e/showData/raw/main/images/profpic/Colorwallies.jpg",
