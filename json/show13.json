@@ -47,6 +47,83 @@
   ],
   "themes": [
      {
+      "title": "DKBlurWeather",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DKBlurWeather.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DKBlurWeather.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DKClockPanelWeather",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DKClockPanelWeather.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DKClockPanelWeather.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DKGlassCazoobi",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DKGlassCazoobi.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DKGlassCazoobi.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DKSimple1",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DKSimple1.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DKSimple1.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DKSimple2",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DKSimple2.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DKSimple2.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DKSimple3",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DKSimple3.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DKSimple3.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DKTrap",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DKTrap.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DKTrap.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
       "title": "JB601_21MaRcO12",
       "subtitle": "Live Laugh Love @jennysblessed",
       "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/JB601_21MaRcO12.PNG",
