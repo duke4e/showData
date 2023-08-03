@@ -47,6 +47,72 @@
   ],
   "themes": [
      {
+      "title": "DK_F***ing_Weather",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_F***ing_Weather.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_F***ing_Weather.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DK_Fav_Weather",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Fav_Weather.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Fav_Weather.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DK_JJ89",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_JJ89.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_JJ89.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DK_Simple_4",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Simple_4.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Simple_4.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DK_Simple_5",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Simple_5.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Simple_5.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DK_Simple_6",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Simple_6.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Simple_6.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
       "title": "DKBlurWeather",
       "subtitle": "Who's the daddy?",
       "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DKBlurWeather.PNG",
