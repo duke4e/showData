@@ -46,6 +46,84 @@
     }
   ],
   "themes": [
+      {
+      "title": "DK_3day_Forecast",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_3day_Forecast.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_3day_Forecast.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+      {
+      "title": "DK_Clock_Panel_Weather",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Clock_Panel_Weather.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Clock_Panel_Weather.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+      {
+      "title": "DK_Fusion_Clock_Weather",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Fusion_Clock_Weather.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Fusion_Clock_Weather.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+      {
+      "title": "DK_JJ100",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_JJ100.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_JJ100.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+      {
+      "title": "DK_Mi_Clock",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Mi_Clock.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Mi_Clock.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+      {
+      "title": "DK_Mi_Weather",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Mi_Weather.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Mi_Weather.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+      {
+      "title": "DK_Simple_7",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Simple_7.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Simple_7.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+
      {
       "title": "DK_F***ing_Weather",
       "subtitle": "Who's the daddy?",
@@ -118,17 +196,6 @@
       "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DKBlurWeather.PNG",
       "tag1Text": "HOME",
       "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DKBlurWeather.zip",
-      "isDownload": true,
-      "authors": [
-        "DaddyKool666"
-      ]
-    },
-     {
-      "title": "DKClockPanelWeather",
-      "subtitle": "Who's the daddy?",
-      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DKClockPanelWeather.PNG",
-      "tag1Text": "HOME",
-      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DKClockPanelWeather.zip",
       "isDownload": true,
       "authors": [
         "DaddyKool666"
