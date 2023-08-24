@@ -46,6 +46,73 @@
     }
   ],
   "themes": [
+     {
+      "title": "DK_Sleek_Forecast",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Sleek_Forecast.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Sleek_Forecast.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DK_Sleek_Glass_Forecast",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Sleek_Glass_Forecast.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Sleek_Glass_Forecast.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DK_Sleek_Glass",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Sleek_Glass.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Sleek_Glass.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DK_Sleek_Slim_Weather",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Sleek_Slim_Weather.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Sleek_Slim_Weather.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DK_Sleek_Weather",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Sleek_Weather.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Sleek_Weather.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+     {
+      "title": "DK_Widget_Line",
+      "subtitle": "Who's the daddy?",
+      "screenshotUrl": "https://github.com/duke4e/showData/raw/main/images/themes/DK_Widget_Line.PNG",
+      "tag1Text": "HOME",
+      "targetUrl": "https://github.com/duke4e/showData/raw/main/slthemes/DaddyKool/DK_Widget_Line.zip",
+      "isDownload": true,
+      "authors": [
+        "DaddyKool666"
+      ]
+    },
+    
       {
       "title": "DK_3day_Forecast",
       "subtitle": "Who's the daddy?",
