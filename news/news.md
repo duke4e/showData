@@ -14,6 +14,9 @@ ShowLive Shortcut updated:
 
 Thanks to JCRocky for spending the time and updating ShowLive shortcut to run on the latest iOS 26
 
+**Remember to update both the ShowLive and ShowLive Helper shortcuts**
+
+
 
 Download the updated ShowLive v1.950 from the Shortcuts page. Replace the already installed shortcut.
 
