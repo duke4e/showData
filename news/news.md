@@ -1,6 +1,27 @@
 <font size="2">
 
 ## News and Updates
+
+<br>
+
+---
+#### ShowLive v1.950
+September 15th 2025
+
+ShowLive Shortcut updated:
+
++ Updated for iOS 26
+
+Thanks to JCRocky for spending the time and updating ShowLive shortcut to run on the latest iOS 26
+
+
+Download the updated ShowLive v1.950 from the Shortcuts page. Replace the already installed shortcut.
+
+
+Dont forget to visit the iModCentral Discord for help and support.
+
+
+
 <br>
 
 ---
